@@ -1,0 +1,68 @@
+# One writer run: read Sleeper's public NFL endpoints, diff against the committed state,
+# commit the new state, the change log and a run stamp in ONE commit.
+#
+# TRIGGERS. The primary trigger is an external scheduler calling workflow_dispatch at
+# minutes 5 and 35 (setup: the maintainer's private notes). `schedule` is the backup, on
+# minutes 20 and 50; a backup run writes nothing when the last committed run is under 25
+# minutes old, so when both triggers work the cadence stays 30 minutes, and when the
+# primary misses a tick the backup fills it. GitHub's `schedule` can be delayed or
+# dropped under load, which is why it is not the primary.
+#
+# NEVER add a pull_request or pull_request_target trigger: this repo is public, so a
+# pull request can come from a fork. tests/test_workflows.py fails if one appears.
+name: write
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '20,50 * * * *'
+
+permissions: {}
+
+# A newer trigger waits for an in-progress run instead of racing it for the same tip.
+concurrency:
+  group: writer
+  cancel-in-progress: false
+
+jobs:
+  write:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    env:
+      PYTHONDONTWRITEBYTECODE: "1"
+    steps:
+      - uses: actions/checkout@v4
+
+      # SYNC TO THE BRANCH TIP before anything reads state/. With no `ref`, checkout uses
+      # the SHA the run was TRIGGERED at; a run that waited in the concurrency queue would
+      # otherwise diff against a state that an earlier run has since replaced.
+      - name: sync to main's current tip (a queued run's checkout is its trigger-time SHA)
+        run: |
+          PRE=$(git rev-parse HEAD)
+          git fetch --depth 1 origin main
+          git reset --hard FETCH_HEAD
+          POST=$(git rev-parse HEAD)
+          echo "trigger-time SHA $PRE, tip at run start $POST" >> "$GITHUB_STEP_SUMMARY"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: write (fetches Sleeper; a source failure is recorded as a FAILED run, not an error)
+        run: |
+          SKIP=""
+          if [ "${{ github.event_name }}" = "schedule" ]; then SKIP="--skip-if-last-run-within 25"; fi
+          python3 -m nflchanges.writer --repo . --trigger "${{ github.event_name }}" \
+            --save-inputs "$RUNNER_TEMP/inputs" --message-file "$RUNNER_TEMP/msg.txt" $SKIP \
+            | tee "$RUNNER_TEMP/summary.json"
+
+      - name: guard, commit and push (guard blocks; never force)
+        env:
+          GIT_AUTHOR_NAME: "github-actions[bot]"
+          GIT_AUTHOR_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
+          GIT_COMMITTER_NAME: "github-actions[bot]"
+          GIT_COMMITTER_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
+          TRIGGER: ${{ github.event_name }}
+        run: .github/scripts/commit_and_push.sh "$RUNNER_TEMP/inputs" "$RUNNER_TEMP/msg.txt" "$RUNNER_TEMP/summary.json"

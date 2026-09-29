@@ -1,0 +1,26 @@
+# The writer's own tests, on every push that touches code. Data-only pushes (every writer
+# run) are skipped by the paths filter. No pull_request trigger: see write.yml.
+name: tests
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'nflchanges/**'
+      - 'tests/**'
+      - '.github/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 -m unittest discover -s tests -t . -v
