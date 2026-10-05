@@ -1,7 +1,7 @@
 {
 "1373":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Geno Smith","news_updated":"2026-10-05T01:30:15.769Z","position":"QB","status":"Active","team":"NYJ"},
 "3050":{"active":false,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Myles White","position":"WR","status":"Active","team":"NYJ"},
-"3200":{"active":true,"depth_chart_order":3,"depth_chart_position":"SWR","full_name":"Sterling Shepard","news_updated":"2026-10-03T22:00:37.661Z","position":"WR","status":"Active","team":"NYJ"},
+"3200":{"active":true,"full_name":"Sterling Shepard","news_updated":"2026-10-03T22:00:37.661Z","position":"WR","status":"Active","team":"NYJ"},
 "3668":{"active":true,"full_name":"Joshua Perkins","news_updated":"2021-12-30T05:25:38.739Z","position":"TE","status":"Active","team":"NYJ"},
 "4351":{"active":true,"depth_chart_order":5,"depth_chart_position":"LWR","full_name":"Tim Patrick","injury_body_part":"Groin","injury_status":"IR","news_updated":"2026-09-12T19:35:44.981Z","position":"WR","status":"Inactive","team":"NYJ"},
 "5119":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Jason Sanders","news_updated":"2026-10-05T04:00:15.912Z","position":"K","status":"Active","team":"NYJ"},
