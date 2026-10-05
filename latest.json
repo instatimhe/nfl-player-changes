@@ -10,20 +10,20 @@
   "5845": "2026-10-05T17:47:40Z",
   "6677": "2026-10-05T17:47:40Z"
  },
- "last_run_at": "2026-10-05T17:47:40Z",
- "last_run_status": "baseline",
+ "last_run_at": "2026-10-05T18:05:35Z",
+ "last_run_status": "ok",
  "schema_version": 1,
  "sources": {
   "players_nfl": {
    "last_attempt_at": "2026-10-05T17:47:40Z",
    "last_ok_at": "2026-10-05T17:47:40Z",
-   "last_result": "ok",
+   "last_result": "not_due",
    "slot": "2026-10-05T14:30:00Z",
    "slot_attempts": 1
   },
   "projections_feed": {
-   "last_attempt_at": "2026-10-05T17:47:40Z",
-   "last_ok_at": "2026-10-05T17:47:40Z",
+   "last_attempt_at": "2026-10-05T18:05:35Z",
+   "last_ok_at": "2026-10-05T18:05:35Z",
    "last_result": "ok",
    "week": 4
   }

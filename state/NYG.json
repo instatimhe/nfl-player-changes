@@ -5,7 +5,7 @@
 "3702":{"active":false,"full_name":"Andy Jones","news_updated":"2021-08-10T04:55:44.765Z","position":"WR","status":"Inactive","team":"NYG"},
 "4349":{"active":true,"full_name":"Taquan Mizzell","news_updated":"2021-07-30T17:15:03.950Z","position":"RB","status":"Inactive","team":"NYG"},
 "4353":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Patrick Ricard","news_updated":"2026-06-04T23:20:37.009Z","position":"FB","status":"Active","team":"NYG"},
-"5121":{"active":true,"depth_chart_order":4,"depth_chart_position":"RWR","full_name":"Braxton Berrios","injury_body_part":"Foot","injury_status":"Questionable","news_updated":"2026-10-04T20:00:13.353Z","position":"WR","status":"Active","team":"NYG"},
+"5121":{"active":true,"depth_chart_order":4,"depth_chart_position":"RWR","full_name":"Braxton Berrios","injury_body_part":"Foot","injury_status":"Out","news_updated":"2026-10-04T20:00:13.353Z","position":"WR","status":"Active","team":"NYG"},
 "6130":{"active":true,"depth_chart_order":5,"depth_chart_position":"RB","full_name":"Devin Singletary","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-10-04T15:55:45.359Z","position":"RB","status":"Active","team":"NYG"},
 "6147":{"active":true,"full_name":"Clayton Thorson","news_updated":"2022-01-08T21:55:56.950Z","position":"QB","status":"Active","team":"NYG"},
 "6699":{"active":true,"depth_chart_order":6,"full_name":"Gunner Olszewski","injury_body_part":"Achilles","injury_notes":"Surgery","injury_status":"IR","news_updated":"2026-06-02T00:15:41.535Z","position":"WR","status":"Inactive","team":"NYG"},
