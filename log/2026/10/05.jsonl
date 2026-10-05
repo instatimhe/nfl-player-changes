@@ -91,3 +91,9 @@
 {"detected_between":["2026-10-05T17:47:40Z","2026-10-05T22:05:35Z"],"field":"depth_chart_order","kind":"change","new":5,"old":7,"player_id":"13349","source":"players_nfl","team":"PHI"}
 {"detected_between":["2026-10-05T17:47:40Z","2026-10-05T22:05:35Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"13355","source":"players_nfl","team":"DAL"}
 {"detected_between":["2026-10-05T17:47:40Z","2026-10-05T22:05:35Z"],"field":"depth_chart_order","kind":"change","new":3,"old":4,"player_id":"13557","source":"players_nfl","team":"WAS"}
+{"detected_between":["2026-10-05T22:05:35Z","2026-10-05T22:35:37Z"],"kind":"enter","player_id":"4018","record":{"injury_status":"Active","news_updated":"2026-10-05T22:15:30.733Z","position":"RB","team":"SEA"},"source":"projections_feed","team":"SEA"}
+{"detected_between":["2026-10-05T22:05:35Z","2026-10-05T22:35:37Z"],"field":"news_updated","kind":"change","new":"2026-10-05T22:15:29.049Z","old":"2026-10-05T21:35:29.230Z","player_id":"4866","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-10-05T22:05:35Z","2026-10-05T22:35:37Z"],"field":"news_updated","kind":"change","new":"2026-10-05T21:55:29.264Z","old":"2026-10-05T18:00:29.410Z","player_id":"5121","source":"projections_feed","team":"NYG"}
+{"detected_between":["2026-10-05T22:05:35Z","2026-10-05T22:35:37Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"13287","source":"projections_feed","team":"ARI"}
+{"detected_between":["2026-10-05T22:05:35Z","2026-10-05T22:35:37Z"],"field":"injury_body_part","kind":"change","new":"Ankle","old":null,"player_id":"13287","source":"projections_feed","team":"ARI"}
+{"detected_between":["2026-10-05T22:05:35Z","2026-10-05T22:35:37Z"],"field":"news_updated","kind":"change","new":"2026-10-05T22:05:29.613Z","old":"2026-10-05T12:10:19.678Z","player_id":"13287","source":"projections_feed","team":"ARI"}
