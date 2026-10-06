@@ -1,7 +1,7 @@
 {
 "2747":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Jason Myers","news_updated":"2026-10-05T06:30:17.664Z","position":"K","status":"Active","team":"SEA"},
 "4018":{"injury_status":"Active","news_updated":"2026-10-05T22:40:29.118Z","position":"RB","team":"SEA"},
-"4039":{"active":true,"depth_chart_order":3,"depth_chart_position":"SWR","full_name":"Cooper Kupp","news_updated":"2026-10-05T06:20:17.629Z","position":"WR","status":"Active","team":"SEA"},
+"4039":{"active":true,"depth_chart_order":3,"depth_chart_position":"SWR","full_name":"Cooper Kupp","news_updated":"2026-10-06T04:10:41.616Z","position":"WR","status":"Active","team":"SEA"},
 "4189":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Eric Saubert","news_updated":"2026-09-28T01:50:58.965Z","position":"TE","status":"Active","team":"SEA"},
 "4936":{"active":true,"full_name":"Skyler Howard","position":"QB","status":"Active","team":"SEA"},
 "4943":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Sam Darnold","news_updated":"2026-10-05T06:15:17.390Z","position":"QB","status":"Active","team":"SEA"},
@@ -26,6 +26,6 @@
 "13199":{"active":true,"depth_chart_order":8,"depth_chart_position":"SWR","full_name":"Montorie Foster","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-09-27T15:50:53.406Z","position":"WR","status":"Active","team":"SEA"},
 "13286":{"active":true,"depth_chart_order":8,"depth_chart_position":"RB","full_name":"Jadarian Price","injury_body_part":"Chest","injury_status":"IR","news_updated":"2026-10-04T20:05:11.884Z","position":"RB","status":"Inactive","team":"SEA"},
 "13313":{"active":true,"full_name":"Emmanuel Henderson","news_updated":"2026-09-03T04:15:38.179Z","position":"WR","status":"Active","team":"SEA"},
-"13418":{"active":true,"full_name":"Robert Henry","news_updated":"2026-10-06T01:10:39.869Z","position":"RB","status":"Active","team":"SEA"},
+"13418":{"active":true,"full_name":"Robert Henry","news_updated":"2026-10-06T04:15:42.079Z","position":"RB","status":"Active","team":"SEA"},
 "14058":{"active":true,"full_name":"Malick Meiga","news_updated":"2026-09-23T23:10:31.852Z","position":"WR","status":"Active","team":"SEA"}
 }
