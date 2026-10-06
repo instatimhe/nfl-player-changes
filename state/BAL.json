@@ -8,10 +8,10 @@
 "4924":{"active":true,"full_name":"Zach Terrell","position":"QB","status":"Active","team":"BAL"},
 "5008":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Durham Smythe","injury_body_part":"Achilles","injury_status":"Out","news_updated":"2026-10-04T20:00:13.348Z","position":"TE","status":"Active","team":"BAL"},
 "5012":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Mark Andrews","news_updated":"2026-10-04T23:05:14.150Z","position":"TE","status":"Active","team":"BAL"},
-"5995":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Justice Hill","news_updated":"2026-09-30T03:00:11.238Z","position":"RB","status":"Active","team":"BAL"},
+"5995":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Justice Hill","news_updated":"2026-10-06T02:30:40.392Z","position":"RB","status":"Active","team":"BAL"},
 "7083":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Tyler Huntley","news_updated":"2026-10-04T23:00:13.823Z","position":"QB","status":"Active","team":"BAL"},
 "7087":{"active":true,"full_name":"Jonathan Ward","news_updated":"2026-09-01T23:15:23.023Z","position":"RB","status":"Active","team":"BAL"},
-"7571":{"active":true,"depth_chart_order":2,"depth_chart_position":"LWR","full_name":"Rashod Bateman","news_updated":"2026-10-04T22:10:13.781Z","position":"WR","status":"Active","team":"BAL"},
+"7571":{"active":true,"depth_chart_order":2,"depth_chart_position":"LWR","full_name":"Rashod Bateman","news_updated":"2026-10-06T02:35:40.348Z","position":"WR","status":"Active","team":"BAL"},
 "8206":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Skylar Thompson","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-08-12T19:25:20.771Z","position":"QB","status":"Inactive","team":"BAL"},
 "9997":{"active":true,"depth_chart_order":1,"depth_chart_position":"SWR","full_name":"Zay Flowers","news_updated":"2026-10-05T03:10:14.583Z","position":"WR","status":"Active","team":"BAL"},
 "11570":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Rasheen Ali","news_updated":"2026-09-19T19:50:46.672Z","position":"RB","status":"Active","team":"BAL"},
@@ -24,7 +24,7 @@
 "13273":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Josh Cuevas","news_updated":"2026-08-29T06:25:43.637Z","position":"TE","status":"Active","team":"BAL"},
 "13293":{"active":true,"depth_chart_order":9,"depth_chart_position":"RWR","full_name":"Ja'Kobi Lane","injury_body_part":"Wrist","injury_notes":"Surgery","injury_status":"IR","news_updated":"2026-10-04T02:20:38.949Z","position":"WR","status":"Inactive","team":"BAL"},
 "13302":{"active":true,"depth_chart_order":5,"depth_chart_position":"RB","full_name":"Adam Randall","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-08-31T20:10:14.914Z","position":"RB","status":"Inactive","team":"BAL"},
-"13324":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Matt Hibner","news_updated":"2026-09-28T10:05:04.062Z","position":"TE","status":"Active","team":"BAL"},
+"13324":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Matt Hibner","news_updated":"2026-10-06T02:40:40.393Z","position":"TE","status":"Active","team":"BAL"},
 "13350":{"active":true,"depth_chart_order":4,"depth_chart_position":"QB","full_name":"Joe Fagnano","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-10-04T16:00:45.507Z","position":"QB","status":"Active","team":"BAL"},
 "13705":{"active":true,"full_name":"Ty Pezza","position":"TE","status":"Active","team":"BAL"}
 }

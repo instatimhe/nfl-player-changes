@@ -1,6 +1,6 @@
 {
 "1979":{"active":true,"full_name":"Blake Bortles","news_updated":"2022-10-05T14:30:59.619Z","position":"QB","status":"Active","team":"NO"},
-"4035":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Alvin Kamara","news_updated":"2026-10-04T01:40:38.563Z","position":"RB","status":"Active","team":"NO"},
+"4035":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Alvin Kamara","injury_body_part":"Knee","injury_status":"Questionable","news_updated":"2026-10-06T02:50:40.765Z","position":"RB","status":"Active","team":"NO"},
 "5095":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Daniel Carlson","news_updated":"2026-09-28T23:35:08.719Z","position":"K","status":"Active","team":"NO"},
 "5744":{"active":true,"full_name":"Eldridge Massington","news_updated":"2018-08-05T22:25:02.281Z","position":"WR","status":"Active","team":"NO"},
 "5857":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Noah Fant","injury_body_part":"Abdomen","injury_status":"Out","news_updated":"2026-10-05T23:55:38.624Z","position":"TE","status":"Active","team":"NO"},
