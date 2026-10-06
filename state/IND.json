@@ -10,7 +10,7 @@
 "6427":{"active":true,"depth_chart_order":3,"depth_chart_position":"SWR","full_name":"Ashton Dulin","news_updated":"2026-10-04T12:20:42.948Z","position":"WR","status":"Active","team":"IND"},
 "6453":{"active":true,"depth_chart_order":8,"full_name":"D.J. Montgomery","injury_body_part":"Abdomen","injury_status":"IR","news_updated":"2026-08-31T17:20:13.756Z","position":"WR","status":"Inactive","team":"IND"},
 "6813":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Jonathan Taylor","news_updated":"2026-10-05T05:00:15.243Z","position":"RB","status":"Active","team":"IND"},
-"6927":{"news_updated":"2026-10-06T18:40:47.878Z","position":"WR","team":"IND"},
+"6927":{"news_updated":"2026-10-06T20:55:20.860Z","position":"WR","team":"IND"},
 "7262":{"active":true,"full_name":"Jalen Morton","news_updated":"2021-08-06T15:45:42.884Z","position":"QB","status":"Active","team":"IND"},
 "7496":{"active":true,"full_name":"Nick Westbrook-Ikhine","news_updated":"2026-10-06T01:35:39.889Z","position":"WR","status":"Active","team":"IND"},
 "8142":{"active":true,"depth_chart_order":10,"depth_chart_position":"LWR","full_name":"Alec Pierce","injury_body_part":"Heel","injury_status":"IR","news_updated":"2026-10-02T14:30:21.853Z","position":"WR","status":"Inactive","team":"IND"},
@@ -27,6 +27,6 @@
 "13333":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Deion Burks","news_updated":"2026-04-30T21:20:57.525Z","position":"WR","status":"Active","team":"IND"},
 "13339":{"active":true,"full_name":"Davon Booth","news_updated":"2026-09-02T01:30:25.381Z","position":"RB","status":"Active","team":"IND"},
 "13407":{"active":true,"depth_chart_order":6,"depth_chart_position":"TE","full_name":"Carson Towt","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-08-19T07:20:54.406Z","position":"TE","status":"Inactive","team":"IND"},
-"13424":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Seth McGowan","news_updated":"2026-10-06T02:40:40.393Z","position":"RB","status":"Active","team":"IND"},
+"13424":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Seth McGowan","news_updated":"2026-10-06T21:11:00.288Z","position":"RB","status":"Active","team":"IND"},
 "13957":{"active":true,"full_name":"Kenny Fletcher","news_updated":"2026-09-11T06:15:24.407Z","position":"TE","status":"Active","team":"IND"}
 }
