@@ -291,3 +291,9 @@
 {"detected_between":["2026-10-06T14:35:39Z","2026-10-06T22:05:40Z"],"field":"status","kind":"change","new":"Inactive","old":"Active","player_id":"12641","source":"players_nfl","team":"WAS"}
 {"detected_between":["2026-10-06T14:35:39Z","2026-10-06T22:05:40Z"],"kind":"fill","player_id":"13852","record":{"active":true,"full_name":"Dontae McMillan","status":"Active"},"source":"players_nfl","team":"SEA"}
 {"detected_between":["2026-10-06T14:35:39Z","2026-10-06T22:05:40Z"],"kind":"fill","player_id":"13949","record":{"active":true,"full_name":"Damon Bankston","status":"Active"},"source":"players_nfl","team":"GB"}
+{"detected_between":["2026-10-06T23:05:35Z","2026-10-06T23:35:39Z"],"field":"news_updated","kind":"change","new":"2026-10-06T23:25:01.796Z","old":"2026-10-06T20:55:21.570Z","player_id":"7535","source":"projections_feed","team":"ARI"}
+{"detected_between":["2026-10-06T23:05:35Z","2026-10-06T23:35:39Z"],"field":"injury_status","kind":"change","new":"IR","old":"Out","player_id":"9225","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-10-06T23:05:35Z","2026-10-06T23:35:39Z"],"field":"injury_body_part","kind":"change","new":"Abdomen","old":"Lower Body","player_id":"9225","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-10-06T23:05:35Z","2026-10-06T23:35:39Z"],"field":"news_updated","kind":"change","new":"2026-10-06T23:20:01.482Z","old":"2026-10-05T21:30:30.470Z","player_id":"9225","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-10-06T23:05:35Z","2026-10-06T23:35:39Z"],"field":"news_updated","kind":"change","new":"2026-10-06T23:15:03.006Z","old":"2026-10-06T20:45:22.046Z","player_id":"12641","source":"projections_feed","team":"WAS"}
+{"detected_between":["2026-10-06T23:05:35Z","2026-10-06T23:35:39Z"],"field":"news_updated","kind":"change","new":"2026-10-06T23:25:01.784Z","old":"2026-10-06T20:45:22.059Z","player_id":"13852","source":"projections_feed","team":"SEA"}
