@@ -6,7 +6,7 @@
 "4219":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Jeremy McNichols","injury_body_part":"Quadriceps","injury_status":"IR","news_updated":"2026-08-31T18:10:12.407Z","position":"RB","status":"Inactive","team":"WAS"},
 "4663":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Austin Ekeler","news_updated":"2026-10-04T13:15:44.734Z","position":"RB","status":"Active","team":"WAS"},
 "5927":{"active":true,"depth_chart_order":6,"depth_chart_position":"LWR","full_name":"Terry McLaurin","injury_body_part":"Hamstring","injury_status":"Out","news_updated":"2026-10-05T22:40:29.729Z","position":"WR","status":"Active","team":"WAS"},
-"6659":{"active":true,"full_name":"Craig Reynolds","news_updated":"2026-10-03T18:30:35.895Z","position":"RB","status":"Active","team":"WAS"},
+"6659":{"active":true,"full_name":"Craig Reynolds","news_updated":"2026-10-06T01:40:39.951Z","position":"RB","status":"Active","team":"WAS"},
 "6853":{"active":true,"full_name":"Van Jefferson","news_updated":"2026-09-07T23:15:43.548Z","position":"WR","status":"Active","team":"WAS"},
 "7587":{"active":true,"depth_chart_order":4,"depth_chart_position":"RWR","full_name":"Dyami Brown","news_updated":"2026-09-28T14:45:05.929Z","position":"WR","status":"Active","team":"WAS"},
 "7716":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"John Bates","news_updated":"2026-09-28T14:35:06.476Z","position":"TE","status":"Active","team":"WAS"},
@@ -23,7 +23,6 @@
 "12641":{"active":true,"depth_chart_order":5,"depth_chart_position":"SWR","full_name":"Jaylin Lane","injury_body_part":"Ankle","injury_status":"Out","news_updated":"2026-10-05T23:40:39.663Z","position":"WR","status":"Active","team":"WAS"},
 "13301":{"active":true,"depth_chart_order":2,"depth_chart_position":"LWR","full_name":"Antonio Williams","news_updated":"2026-10-04T20:55:13.802Z","position":"WR","status":"Active","team":"WAS"},
 "13405":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Kaytron Allen","news_updated":"2026-10-06T01:20:39.755Z","position":"RB","status":"Active","team":"WAS"},
-"13418":{"active":true,"full_name":"Robert Henry","news_updated":"2026-10-06T01:10:39.869Z","position":"RB","status":"Active","team":"WAS"},
 "13557":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Athan Kaliakmanis","news_updated":"2026-10-04T20:55:13.866Z","position":"QB","status":"Active","team":"WAS"},
 "13760":{"active":true,"full_name":"Jaden Bradley","news_updated":"2026-09-04T01:05:16.391Z","position":"WR","status":"Active","team":"WAS"},
 "13968":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Drew Stevens","news_updated":"2026-10-05T02:45:15.428Z","position":"K","status":"Active","team":"WAS"}
