@@ -10,8 +10,8 @@
 "7050":{"active":true,"full_name":"Josiah Deguara","news_updated":"2026-10-06T01:35:39.922Z","position":"TE","status":"Active","team":"PHI"},
 "7525":{"active":true,"depth_chart_order":7,"depth_chart_position":"LWR","full_name":"DeVonta Smith","injury_body_part":"Hamstring","injury_status":"Questionable","news_updated":"2026-10-07T19:10:59.709Z","position":"WR","status":"Active","team":"PHI"},
 "7596":{"active":true,"depth_chart_order":4,"depth_chart_position":"LWR","full_name":"Elijah Moore","news_updated":"2026-09-20T15:50:55.481Z","position":"WR","status":"Active","team":"PHI"},
-"8129":{"active":true,"full_name":"Dameon Pierce","news_updated":"2026-10-07T17:15:07.176Z","position":"RB","status":"Active","team":"PHI"},
-"8177":{"active":true,"depth_chart_order":5,"depth_chart_position":"TE","full_name":"Grant Calcaterra","injury_body_part":"Back","injury_status":"IR","news_updated":"2026-09-01T22:30:23.709Z","position":"TE","status":"Inactive","team":"PHI"},
+"8129":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Dameon Pierce","news_updated":"2026-10-07T17:15:07.176Z","position":"RB","status":"Active","team":"PHI"},
+"8177":{"active":true,"depth_chart_order":6,"depth_chart_position":"TE","full_name":"Grant Calcaterra","injury_body_part":"Back","injury_status":"IR","news_updated":"2026-09-01T22:30:23.709Z","position":"TE","status":"Inactive","team":"PHI"},
 "8414":{"active":true,"depth_chart_order":5,"depth_chart_position":"SWR","full_name":"Britain Covey","news_updated":"2026-09-16T14:51:01.041Z","position":"WR","status":"Active","team":"PHI"},
 "9225":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Tank Bigsby","injury_body_part":"Abdomen","injury_notes":"Surgery","injury_status":"IR","news_updated":"2026-10-07T03:55:02.570Z","position":"RB","status":"Inactive","team":"PHI"},
 "9230":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Tanner McKee","news_updated":"2026-10-04T13:00:43.930Z","position":"QB","status":"Active","team":"PHI"},
@@ -25,5 +25,5 @@
 "13150":{"active":true,"depth_chart_order":3,"depth_chart_position":"RWR","full_name":"Darius Cooper","news_updated":"2026-10-06T19:15:46.440Z","position":"WR","status":"Active","team":"PHI"},
 "13294":{"active":true,"depth_chart_order":2,"depth_chart_position":"SWR","full_name":"Makai Lemon","news_updated":"2026-10-06T20:25:47.067Z","position":"WR","status":"Active","team":"PHI"},
 "13335":{"active":true,"depth_chart_order":4,"depth_chart_position":"QB","full_name":"Cole Payton","news_updated":"2026-09-20T15:45:55.565Z","position":"QB","status":"Active","team":"PHI"},
-"13349":{"active":true,"depth_chart_order":6,"depth_chart_position":"TE","full_name":"Eli Stowers","injury_body_part":"Hamstring","injury_status":"IR","news_updated":"2026-10-04T03:20:39.099Z","position":"TE","status":"Inactive","team":"PHI"}
+"13349":{"active":true,"depth_chart_order":7,"depth_chart_position":"TE","full_name":"Eli Stowers","injury_body_part":"Hamstring","injury_status":"IR","news_updated":"2026-10-04T03:20:39.099Z","position":"TE","status":"Inactive","team":"PHI"}
 }
