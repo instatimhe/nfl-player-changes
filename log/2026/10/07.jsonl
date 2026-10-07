@@ -42,3 +42,20 @@
 {"detected_between":["2026-10-07T03:35:38Z","2026-10-07T04:05:37Z"],"field":"news_updated","kind":"change","new":"2026-10-07T03:55:02.549Z","old":"2026-10-05T01:40:15.690Z","player_id":"11608","source":"projections_feed","team":"NYJ"}
 {"detected_between":["2026-10-07T04:05:37Z","2026-10-07T04:35:39Z"],"field":"news_updated","kind":"change","new":"2026-10-07T04:10:02.735Z","old":"2026-10-04T20:35:13.287Z","player_id":"5870","source":"projections_feed","team":"IND"}
 {"detected_between":["2026-10-07T04:05:37Z","2026-10-07T04:35:39Z"],"field":"news_updated","kind":"change","new":"2026-10-07T04:05:02.780Z","old":"2026-10-06T02:50:40.775Z","player_id":"13394","source":"projections_feed","team":"JAX"}
+{"detected_between":["2026-10-06T22:05:40Z","2026-10-07T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":5,"old":3,"player_id":"5008","source":"players_nfl","team":"BAL"}
+{"detected_between":["2026-10-06T22:05:40Z","2026-10-07T07:05:42Z"],"field":"depth_chart_position","kind":"change","new":"SWR","old":"RWR","player_id":"5121","source":"players_nfl","team":"NYG"}
+{"detected_between":["2026-10-06T22:05:40Z","2026-10-07T07:05:42Z"],"field":"depth_chart_position","kind":"change","new":"TE","old":null,"player_id":"8227","source":"players_nfl","team":"ARI"}
+{"detected_between":["2026-10-06T22:05:40Z","2026-10-07T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":4,"old":null,"player_id":"8227","source":"players_nfl","team":"ARI"}
+{"detected_between":["2026-10-06T22:05:40Z","2026-10-07T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"9753","source":"players_nfl","team":"SEA"}
+{"detected_between":["2026-10-06T22:05:40Z","2026-10-07T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"12469","source":"players_nfl","team":"CLE"}
+{"detected_between":["2026-10-06T22:05:40Z","2026-10-07T07:05:42Z"],"field":"depth_chart_position","kind":"change","new":null,"old":"SWR","player_id":"12641","source":"players_nfl","team":"WAS"}
+{"detected_between":["2026-10-06T22:05:40Z","2026-10-07T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":6,"old":7,"player_id":"12656","source":"players_nfl","team":"SEA"}
+{"detected_between":["2026-10-06T22:05:40Z","2026-10-07T07:05:42Z"],"field":"depth_chart_position","kind":"change","new":null,"old":"RB","player_id":"12939","source":"players_nfl","team":"CAR"}
+{"detected_between":["2026-10-06T22:05:40Z","2026-10-07T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":null,"old":6,"player_id":"12939","source":"players_nfl","team":"CAR"}
+{"detected_between":["2026-10-06T22:05:40Z","2026-10-07T07:05:42Z"],"field":"depth_chart_position","kind":"change","new":"RB","old":null,"player_id":"13047","source":"players_nfl","team":"SEA"}
+{"detected_between":["2026-10-06T22:05:40Z","2026-10-07T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":7,"old":null,"player_id":"13047","source":"players_nfl","team":"SEA"}
+{"detected_between":["2026-10-06T22:05:40Z","2026-10-07T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":3,"old":4,"player_id":"13273","source":"players_nfl","team":"BAL"}
+{"detected_between":["2026-10-06T22:05:40Z","2026-10-07T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":8,"old":9,"player_id":"13286","source":"players_nfl","team":"SEA"}
+{"detected_between":["2026-10-06T22:05:40Z","2026-10-07T07:05:42Z"],"kind":"fill","player_id":"13403","record":{"active":true,"full_name":"Jam Miller","status":"Active"},"source":"players_nfl","team":"ATL"}
+{"detected_between":["2026-10-06T22:05:40Z","2026-10-07T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":9,"old":10,"player_id":"13418","source":"players_nfl","team":"SEA"}
+{"detected_between":["2026-10-06T22:05:40Z","2026-10-07T07:05:42Z"],"kind":"fill","player_id":"13744","record":{"active":true,"full_name":"Cameron Ross","status":"Active"},"source":"players_nfl","team":"DEN"}
