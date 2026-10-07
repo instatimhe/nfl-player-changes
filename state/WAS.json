@@ -1,6 +1,6 @@
 {
 "2307":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Marcus Mariota","injury_body_part":"Knee - MCL","injury_notes":"Sprain","injury_status":"Doubtful","news_updated":"2026-10-07T17:20:07.945Z","position":"QB","status":"Active","team":"WAS"},
-"2449":{"active":true,"depth_chart_order":1,"depth_chart_position":"SWR","full_name":"Stefon Diggs","news_updated":"2026-10-04T20:55:13.820Z","position":"WR","status":"Active","team":"WAS"},
+"2449":{"active":true,"depth_chart_order":1,"depth_chart_position":"SWR","full_name":"Stefon Diggs","injury_body_part":"Undisclosed","injury_status":"Questionable","news_updated":"2026-10-07T17:40:08.197Z","position":"WR","status":"Active","team":"WAS"},
 "3309":{"active":true,"full_name":"Wendell Smallwood","news_updated":"2022-01-04T06:16:01.310Z","position":"RB","status":"Active","team":"WAS"},
 "3333":{"active":true,"full_name":"Temarrick Hemingway","news_updated":"2022-01-11T05:30:31.265Z","position":"TE","status":"Active","team":"WAS"},
 "4219":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Jeremy McNichols","injury_body_part":"Quadriceps","injury_status":"IR","news_updated":"2026-08-31T18:10:12.407Z","position":"RB","status":"Inactive","team":"WAS"},
@@ -14,7 +14,7 @@
 "8136":{"active":true,"depth_chart_order":6,"depth_chart_position":"RB","full_name":"Rachaad White","injury_body_part":"Shoulder","injury_status":"Questionable","news_updated":"2026-10-07T07:20:05.868Z","position":"RB","status":"Active","team":"WAS"},
 "8210":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Chig Okonkwo","news_updated":"2026-10-06T00:50:39.604Z","position":"TE","status":"Active","team":"WAS"},
 "11558":{"active":true,"full_name":"Sam Hartman","news_updated":"2026-09-04T01:00:16.666Z","position":"QB","status":"Active","team":"WAS"},
-"11566":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Jayden Daniels","injury_body_part":"Elbow","injury_notes":"Dislocated","injury_status":"Questionable","news_updated":"2026-10-07T07:20:05.909Z","position":"QB","status":"Active","team":"WAS"},
+"11566":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Jayden Daniels","injury_body_part":"Elbow","injury_notes":"Dislocated","injury_status":"Questionable","news_updated":"2026-10-07T17:40:08.211Z","position":"QB","status":"Active","team":"WAS"},
 "11596":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Ben Sinnott","news_updated":"2026-10-02T17:45:10.831Z","position":"TE","status":"Active","team":"WAS"},
 "11650":{"active":true,"depth_chart_order":7,"depth_chart_position":"SWR","full_name":"Luke McCaffrey","news_updated":"2026-10-04T12:25:43.568Z","position":"WR","status":"Active","team":"WAS"},
 "11942":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Colson Yankoff","news_updated":"2026-09-28T14:35:06.232Z","position":"TE","status":"Active","team":"WAS"},
