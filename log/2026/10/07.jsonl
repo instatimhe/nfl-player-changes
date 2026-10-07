@@ -181,3 +181,4 @@
 {"detected_between":["2026-10-07T07:05:41Z","2026-10-07T07:35:39Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13726","source":"projections_feed","team":"DAL"}
 {"detected_between":["2026-10-07T07:05:41Z","2026-10-07T07:35:39Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"13827","source":"projections_feed","team":"NE"}
 {"detected_between":["2026-10-07T07:05:41Z","2026-10-07T07:35:39Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13827","source":"projections_feed","team":"NE"}
+{"detected_between":["2026-10-07T07:35:39Z","2026-10-07T08:05:39Z"],"field":"news_updated","kind":"change","new":"2026-10-07T07:30:05.641Z","old":"2026-10-06T02:45:39.692Z","player_id":"5927","source":"projections_feed","team":"WAS"}
