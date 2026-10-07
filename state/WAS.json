@@ -3,7 +3,7 @@
 "2449":{"active":true,"depth_chart_order":1,"depth_chart_position":"SWR","full_name":"Stefon Diggs","injury_body_part":"Undisclosed","injury_status":"Questionable","news_updated":"2026-10-07T20:36:01.634Z","position":"WR","status":"Active","team":"WAS"},
 "3309":{"active":true,"full_name":"Wendell Smallwood","news_updated":"2022-01-04T06:16:01.310Z","position":"RB","status":"Active","team":"WAS"},
 "3333":{"active":true,"full_name":"Temarrick Hemingway","news_updated":"2022-01-11T05:30:31.265Z","position":"TE","status":"Active","team":"WAS"},
-"4219":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Jeremy McNichols","injury_body_part":"Quadriceps","injury_status":"IR","news_updated":"2026-10-07T20:46:01.885Z","position":"RB","status":"Inactive","team":"WAS"},
+"4219":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Jeremy McNichols","injury_body_part":"Quadriceps","injury_status":"IR","news_updated":"2026-10-07T22:10:01.171Z","position":"RB","status":"Inactive","team":"WAS"},
 "4663":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Austin Ekeler","news_updated":"2026-10-06T13:30:44.057Z","position":"RB","status":"Active","team":"WAS"},
 "5927":{"active":true,"depth_chart_order":5,"depth_chart_position":"LWR","full_name":"Terry McLaurin","injury_body_part":"Hamstring","injury_status":"Questionable","news_updated":"2026-10-07T20:36:02.001Z","position":"WR","status":"Active","team":"WAS"},
 "6659":{"active":true,"full_name":"Craig Reynolds","news_updated":"2026-10-06T01:40:39.951Z","position":"RB","status":"Active","team":"WAS"},
@@ -25,6 +25,6 @@
 "13405":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Kaytron Allen","news_updated":"2026-10-06T01:20:39.755Z","position":"RB","status":"Active","team":"WAS"},
 "13557":{"active":true,"depth_chart_order":4,"depth_chart_position":"QB","full_name":"Athan Kaliakmanis","news_updated":"2026-10-04T20:55:13.866Z","position":"QB","status":"Active","team":"WAS"},
 "13760":{"active":true,"full_name":"Jaden Bradley","news_updated":"2026-09-04T01:05:16.391Z","position":"WR","status":"Active","team":"WAS"},
-"13963":{"active":true,"full_name":"Nick DeGennaro","news_updated":"2026-08-29T16:00:47.862Z","position":"WR","status":"Active","team":"WAS"},
+"13963":{"active":true,"full_name":"Nick DeGennaro","news_updated":"2026-10-07T22:00:01.217Z","position":"WR","status":"Active","team":"WAS"},
 "13968":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Drew Stevens","news_updated":"2026-10-05T02:45:15.428Z","position":"K","status":"Active","team":"WAS"}
 }
