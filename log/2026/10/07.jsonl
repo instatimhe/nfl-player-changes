@@ -182,3 +182,4 @@
 {"detected_between":["2026-10-07T07:05:41Z","2026-10-07T07:35:39Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"13827","source":"projections_feed","team":"NE"}
 {"detected_between":["2026-10-07T07:05:41Z","2026-10-07T07:35:39Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13827","source":"projections_feed","team":"NE"}
 {"detected_between":["2026-10-07T07:35:39Z","2026-10-07T08:05:39Z"],"field":"news_updated","kind":"change","new":"2026-10-07T07:30:05.641Z","old":"2026-10-06T02:45:39.692Z","player_id":"5927","source":"projections_feed","team":"WAS"}
+{"detected_between":["2026-10-07T12:35:40Z","2026-10-07T13:05:38Z"],"kind":"enter","player_id":"12946","record":{"news_updated":"2026-10-06T23:45:02.783Z","position":"WR","team":"NYG"},"source":"projections_feed","team":"NYG"}
