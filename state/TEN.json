@@ -3,7 +3,7 @@
 "4981":{"active":true,"depth_chart_order":4,"depth_chart_position":"RWR","full_name":"Calvin Ridley","news_updated":"2026-10-06T01:00:39.683Z","position":"WR","status":"Active","team":"TEN"},
 "5223":{"active":true,"full_name":"Caleb Scott","news_updated":"2021-12-30T05:30:39.083Z","position":"WR","status":"Active","team":"TEN"},
 "5288":{"active":false,"full_name":"Donnie Ernsberger","injury_status":"Questionable","news_updated":"2021-08-15T00:25:37.889Z","position":"TE","status":"Inactive","team":"TEN"},
-"5967":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Tony Pollard","news_updated":"2026-10-05T17:45:27.325Z","position":"RB","status":"Active","team":"TEN"},
+"5967":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Tony Pollard","injury_body_part":"Foot","injury_status":"Questionable","news_updated":"2026-10-07T20:56:00.964Z","position":"RB","status":"Active","team":"TEN"},
 "6528":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Joey Slye","news_updated":"2026-10-05T04:20:15.887Z","position":"K","status":"Active","team":"TEN"},
 "7066":{"active":true,"full_name":"K.J. Osborn","news_updated":"2026-09-04T00:45:16.450Z","position":"WR","status":"Active","team":"TEN"},
 "7602":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Kylen Granson","news_updated":"2026-09-20T16:05:55.842Z","position":"TE","status":"Active","team":"TEN"},
