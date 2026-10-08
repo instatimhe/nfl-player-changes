@@ -1,9 +1,9 @@
 {
 "1979":{"active":true,"full_name":"Blake Bortles","news_updated":"2022-10-05T14:30:59.619Z","position":"QB","status":"Active","team":"NO"},
-"4035":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Alvin Kamara","injury_body_part":"Back","injury_status":"Questionable","news_updated":"2026-10-08T21:20:47.203Z","position":"RB","status":"Active","team":"NO"},
+"4035":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Alvin Kamara","injury_body_part":"Back","injury_status":"Questionable","news_updated":"2026-10-08T22:10:45.523Z","position":"RB","status":"Active","team":"NO"},
 "5095":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Daniel Carlson","news_updated":"2026-10-06T12:30:45.628Z","position":"K","status":"Active","team":"NO"},
 "5744":{"active":true,"full_name":"Eldridge Massington","news_updated":"2018-08-05T22:25:02.281Z","position":"WR","status":"Active","team":"NO"},
-"5857":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Noah Fant","injury_body_part":"Abdomen","injury_status":"Questionable","news_updated":"2026-10-08T21:20:46.829Z","position":"TE","status":"Active","team":"NO"},
+"5857":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Noah Fant","injury_body_part":"Abdomen","injury_status":"Questionable","news_updated":"2026-10-08T22:15:46.186Z","position":"TE","status":"Active","team":"NO"},
 "7002":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Juwan Johnson","news_updated":"2026-10-06T12:30:45.659Z","position":"TE","status":"Active","team":"NO"},
 "7538":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Zach Wilson","news_updated":"2026-10-05T23:10:14.510Z","position":"QB","status":"Active","team":"NO"},
 "7543":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Travis Etienne","injury_body_part":"Hamstring","injury_notes":"Strain","injury_status":"IR","news_updated":"2026-10-01T20:50:36.491Z","position":"RB","status":"Inactive","team":"NO"},

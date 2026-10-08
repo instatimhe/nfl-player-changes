@@ -370,3 +370,11 @@
 {"detected_between":["2026-10-08T14:35:36Z","2026-10-08T22:05:40Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"13355","source":"players_nfl","team":"DAL"}
 {"detected_between":["2026-10-08T21:35:35Z","2026-10-08T22:05:40Z"],"field":"position","kind":"change","new":"RB","old":"TE","player_id":"13433","source":"projections_feed","team":"PIT"}
 {"detected_between":["2026-10-08T14:35:36Z","2026-10-08T22:05:40Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"13491","source":"players_nfl","team":"PIT"}
+{"detected_between":["2026-10-08T22:05:39Z","2026-10-08T22:35:34Z"],"field":"news_updated","kind":"change","new":"2026-10-08T22:10:45.523Z","old":"2026-10-08T21:20:47.203Z","player_id":"4035","source":"projections_feed","team":"NO"}
+{"detected_between":["2026-10-08T22:05:39Z","2026-10-08T22:35:34Z"],"field":"news_updated","kind":"change","new":"2026-10-08T22:15:46.186Z","old":"2026-10-08T21:20:46.829Z","player_id":"5857","source":"projections_feed","team":"NO"}
+{"detected_between":["2026-10-08T22:05:39Z","2026-10-08T22:35:34Z"],"field":"news_updated","kind":"change","new":"2026-10-08T22:00:45.420Z","old":"2026-10-08T21:35:45.842Z","player_id":"6794","source":"projections_feed","team":"MIN"}
+{"detected_between":["2026-10-08T22:05:39Z","2026-10-08T22:35:34Z"],"field":"injury_status","kind":"change","new":null,"old":"Questionable","player_id":"8116","source":"projections_feed","team":"GB"}
+{"detected_between":["2026-10-08T22:05:39Z","2026-10-08T22:35:34Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Hamstring","player_id":"8116","source":"projections_feed","team":"GB"}
+{"detected_between":["2026-10-08T22:05:39Z","2026-10-08T22:35:34Z"],"field":"news_updated","kind":"change","new":"2026-10-08T22:05:46.136Z","old":"2026-10-08T18:20:43.649Z","player_id":"9502","source":"projections_feed","team":"HOU"}
+{"detected_between":["2026-10-08T22:05:39Z","2026-10-08T22:35:34Z"],"field":"news_updated","kind":"change","new":"2026-10-08T22:15:46.185Z","old":"2026-10-08T21:10:46.918Z","player_id":"11370","source":"projections_feed","team":"GB"}
+{"detected_between":["2026-10-08T22:05:39Z","2026-10-08T22:35:34Z"],"field":"news_updated","kind":"change","new":"2026-10-08T22:15:46.196Z","old":"2026-10-08T17:35:45.283Z","player_id":"11959","source":"projections_feed","team":"HOU"}
