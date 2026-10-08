@@ -186,3 +186,7 @@
 {"detected_between":["2026-10-08T07:05:38Z","2026-10-08T14:35:37Z"],"field":"depth_chart_order","kind":"change","new":12,"old":11,"player_id":"11638","source":"players_nfl","team":"SF"}
 {"detected_between":["2026-10-08T07:05:38Z","2026-10-08T14:35:37Z"],"field":"depth_chart_order","kind":"change","new":4,"old":5,"player_id":"13380","source":"players_nfl","team":"LAC"}
 {"detected_between":["2026-10-08T07:05:38Z","2026-10-08T14:35:37Z"],"field":"depth_chart_order","kind":"change","new":13,"old":12,"player_id":"13417","source":"players_nfl","team":"SF"}
+{"detected_between":["2026-10-08T14:35:36Z","2026-10-08T15:05:39Z"],"field":"news_updated","kind":"change","new":"2026-10-08T14:40:42.037Z","old":"2026-10-07T22:15:02.496Z","player_id":"4199","source":"projections_feed","team":"MIN"}
+{"detected_between":["2026-10-08T14:35:36Z","2026-10-08T15:05:39Z"],"field":"news_updated","kind":"change","new":"2026-10-08T14:45:42.079Z","old":"2026-10-07T22:50:01.166Z","player_id":"7611","source":"projections_feed","team":"NE"}
+{"detected_between":["2026-10-08T14:35:36Z","2026-10-08T15:05:39Z"],"field":"news_updated","kind":"change","new":"2026-10-08T14:35:42.014Z","old":"2026-10-06T00:50:39.190Z","player_id":"11560","source":"projections_feed","team":"CHI"}
+{"detected_between":["2026-10-08T14:35:36Z","2026-10-08T15:05:39Z"],"field":"news_updated","kind":"change","new":"2026-10-08T14:40:42.035Z","old":"2026-10-05T05:20:15.450Z","player_id":"13279","source":"projections_feed","team":"TEN"}
