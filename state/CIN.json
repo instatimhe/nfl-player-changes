@@ -6,8 +6,8 @@
 "5409":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Tanner Hudson","news_updated":"2026-09-29T23:15:06.675Z","position":"TE","status":"Active","team":"CIN"},
 "6001":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Drew Sample","news_updated":"2026-09-23T03:25:11.297Z","position":"TE","status":"Active","team":"CIN"},
 "6770":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Joe Burrow","news_updated":"2026-10-05T12:50:19.445Z","position":"QB","status":"Active","team":"CIN"},
-"6801":{"active":true,"depth_chart_order":1,"depth_chart_position":"RWR","full_name":"Tee Higgins","injury_body_part":"Groin","injury_status":"Questionable","news_updated":"2026-10-08T19:30:44.264Z","position":"WR","status":"Active","team":"CIN"},
-"7564":{"active":true,"depth_chart_order":2,"depth_chart_position":"LWR","full_name":"Ja'Marr Chase","injury_body_part":"Concussion","injury_status":"Questionable","news_updated":"2026-10-08T18:40:43.874Z","position":"WR","status":"Active","team":"CIN"},
+"6801":{"active":true,"depth_chart_order":1,"depth_chart_position":"RWR","full_name":"Tee Higgins","injury_body_part":"Groin","injury_status":"Questionable","news_updated":"2026-10-08T20:55:45.688Z","position":"WR","status":"Active","team":"CIN"},
+"7564":{"active":true,"depth_chart_order":2,"depth_chart_position":"LWR","full_name":"Ja'Marr Chase","injury_body_part":"Concussion","injury_status":"Questionable","news_updated":"2026-10-08T20:35:45.208Z","position":"WR","status":"Active","team":"CIN"},
 "7839":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Evan McPherson","news_updated":"2026-10-05T13:00:19.688Z","position":"K","status":"Active","team":"CIN"},
 "9224":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Chase Brown","news_updated":"2026-10-08T15:55:42.698Z","position":"RB","status":"Active","team":"CIN"},
 "10226":{"active":true,"depth_chart_order":6,"depth_chart_position":"SWR","full_name":"Andrei Iosivas","injury_body_part":"Thumb","injury_notes":"Surgery","injury_status":"IR","news_updated":"2026-09-26T20:30:29.604Z","position":"WR","status":"Inactive","team":"CIN"},
@@ -22,5 +22,5 @@
 "13282":{"active":true,"depth_chart_order":5,"depth_chart_position":"TE","full_name":"Jack Endries","news_updated":"2026-09-13T16:20:54.100Z","position":"TE","status":"Active","team":"CIN"},
 "13318":{"active":true,"full_name":"Noah Thomas","news_updated":"2026-09-02T00:55:24.616Z","position":"WR","status":"Active","team":"CIN"},
 "13436":{"active":true,"full_name":"Kentrel Bullock","news_updated":"2026-09-02T00:45:24.400Z","position":"RB","status":"Active","team":"CIN"},
-"13477":{"active":true,"depth_chart_order":5,"depth_chart_position":"LWR","full_name":"Colbie Young","injury_body_part":"Knee","injury_status":"Questionable","news_updated":"2026-10-07T23:10:01.803Z","position":"WR","status":"Active","team":"CIN"}
+"13477":{"active":true,"depth_chart_order":5,"depth_chart_position":"LWR","full_name":"Colbie Young","news_updated":"2026-10-07T23:10:01.803Z","position":"WR","status":"Active","team":"CIN"}
 }
