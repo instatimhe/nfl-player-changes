@@ -6,12 +6,12 @@
 "6154":{"active":true,"depth_chart_order":6,"depth_chart_position":"RWR","full_name":"David Sills","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-08-31T21:50:14.173Z","position":"WR","status":"Inactive","team":"TB"},
 "6185":{"active":true,"full_name":"Easton Stick","news_updated":"2026-10-06T01:35:39.909Z","position":"QB","status":"Active","team":"TB"},
 "6650":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Chase McLaughlin","news_updated":"2026-10-07T19:36:01.519Z","position":"K","status":"Active","team":"TB"},
-"7567":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Kenny Gainwell","news_updated":"2026-10-06T16:55:45.467Z","position":"RB","status":"Active","team":"TB"},
+"7567":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Kenny Gainwell","news_updated":"2026-10-08T00:20:01.421Z","position":"RB","status":"Active","team":"TB"},
 "8111":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Cade Otton","news_updated":"2026-10-06T00:55:39.840Z","position":"TE","status":"Active","team":"TB"},
 "8484":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Ko Kieft","news_updated":"2026-10-07T22:55:01.725Z","position":"TE","status":"Active","team":"TB"},
 "9506":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Sean Tucker","news_updated":"2026-10-06T21:16:00.298Z","position":"RB","status":"Active","team":"TB"},
 "10227":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Payne Durham","news_updated":"2026-06-02T23:20:50.327Z","position":"TE","status":"Active","team":"TB"},
-"11584":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Bucky Irving","news_updated":"2026-10-05T09:50:18.537Z","position":"RB","status":"Active","team":"TB"},
+"11584":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Bucky Irving","news_updated":"2026-10-08T00:15:01.397Z","position":"RB","status":"Active","team":"TB"},
 "11618":{"active":true,"depth_chart_order":7,"depth_chart_position":"LWR","full_name":"Jalen McMillan","injury_body_part":"Knee - PCL","injury_notes":"Sprain","injury_status":"IR","news_updated":"2026-09-30T16:35:17.490Z","position":"WR","status":"Inactive","team":"TB"},
 "11820":{"active":true,"full_name":"Devin Culp","news_updated":"2026-09-03T04:30:38.361Z","position":"TE","status":"Active","team":"TB"},
 "11994":{"active":true,"depth_chart_order":5,"depth_chart_position":"SWR","full_name":"Kameron Johnson","news_updated":"2026-06-23T21:20:23.954Z","position":"WR","status":"Active","team":"TB"},
@@ -23,6 +23,6 @@
 "13308":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Bauer Sharp","news_updated":"2026-06-02T23:20:50.830Z","position":"TE","status":"Active","team":"TB"},
 "13316":{"active":true,"full_name":"Eric Rivers","news_updated":"2026-09-03T04:50:38.534Z","position":"WR","status":"Active","team":"TB"},
 "13317":{"active":true,"depth_chart_order":3,"depth_chart_position":"RWR","full_name":"Ted Hurst","news_updated":"2026-10-07T01:30:01.908Z","position":"WR","status":"Active","team":"TB"},
-"13425":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Jalon Daniels","news_updated":"2026-10-07T13:50:06.579Z","position":"QB","status":"Active","team":"TB"},
+"13425":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Jalon Daniels","news_updated":"2026-10-08T00:05:01.576Z","position":"QB","status":"Active","team":"TB"},
 "14020":{"active":true,"full_name":"Dean Patterson","news_updated":"2026-09-03T04:40:38.344Z","position":"WR","status":"Active","team":"TB"}
 }
