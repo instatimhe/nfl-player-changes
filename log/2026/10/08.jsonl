@@ -179,3 +179,10 @@
 {"detected_between":["2026-10-08T13:05:39Z","2026-10-08T13:35:39Z"],"field":"news_updated","kind":"change","new":"2026-10-08T13:20:41.497Z","old":"2026-10-07T20:46:01.905Z","player_id":"11632","source":"projections_feed","team":"NYG"}
 {"detected_between":["2026-10-08T13:35:38Z","2026-10-08T14:05:42Z"],"field":"news_updated","kind":"change","new":"2026-10-08T13:40:41.601Z","old":"2026-10-08T00:45:01.856Z","player_id":"4037","source":"projections_feed","team":"TB"}
 {"detected_between":["2026-10-08T13:35:38Z","2026-10-08T14:05:42Z"],"field":"news_updated","kind":"change","new":"2026-10-08T13:30:41.594Z","old":"2026-10-05T12:40:19.833Z","player_id":"11631","source":"projections_feed","team":"JAX"}
+{"detected_between":["2026-10-08T14:05:41Z","2026-10-08T14:35:37Z"],"field":"news_updated","kind":"change","new":"2026-10-08T13:55:41.808Z","old":"2026-10-07T21:40:02.577Z","player_id":"4881","source":"projections_feed","team":"BAL"}
+{"detected_between":["2026-10-08T07:05:38Z","2026-10-08T14:35:37Z"],"field":"depth_chart_order","kind":"change","new":5,"old":4,"player_id":"5086","source":"players_nfl","team":"LAC"}
+{"detected_between":["2026-10-08T14:05:41Z","2026-10-08T14:35:37Z"],"field":"news_updated","kind":"change","new":"2026-10-08T14:05:41.742Z","old":"2026-10-07T20:26:01.696Z","player_id":"6819","source":"projections_feed","team":"PIT"}
+{"detected_between":["2026-10-08T07:05:38Z","2026-10-08T14:35:37Z"],"field":"depth_chart_order","kind":"change","new":9,"old":8,"player_id":"11636","source":"players_nfl","team":"PHI"}
+{"detected_between":["2026-10-08T07:05:38Z","2026-10-08T14:35:37Z"],"field":"depth_chart_order","kind":"change","new":12,"old":11,"player_id":"11638","source":"players_nfl","team":"SF"}
+{"detected_between":["2026-10-08T07:05:38Z","2026-10-08T14:35:37Z"],"field":"depth_chart_order","kind":"change","new":4,"old":5,"player_id":"13380","source":"players_nfl","team":"LAC"}
+{"detected_between":["2026-10-08T07:05:38Z","2026-10-08T14:35:37Z"],"field":"depth_chart_order","kind":"change","new":13,"old":12,"player_id":"13417","source":"players_nfl","team":"SF"}
