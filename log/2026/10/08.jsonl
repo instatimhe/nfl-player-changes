@@ -46,3 +46,4 @@
 {"detected_between":["2026-10-08T04:35:35Z","2026-10-08T05:05:37Z"],"field":"news_updated","kind":"change","new":"2026-10-08T04:55:37.663Z","old":"2026-10-07T22:05:02.432Z","player_id":"8180","source":"projections_feed","team":"LV"}
 {"detected_between":["2026-10-08T04:35:35Z","2026-10-08T05:05:37Z"],"field":"news_updated","kind":"change","new":"2026-10-08T05:00:37.568Z","old":"2026-10-07T23:15:02.734Z","player_id":"9753","source":"projections_feed","team":"SEA"}
 {"detected_between":["2026-10-08T04:35:35Z","2026-10-08T05:05:37Z"],"field":"news_updated","kind":"change","new":"2026-10-08T04:40:37.701Z","old":"2026-10-07T22:05:02.441Z","player_id":"11604","source":"projections_feed","team":"LV"}
+{"detected_between":["2026-10-08T05:05:37Z","2026-10-08T05:35:37Z"],"field":"news_updated","kind":"change","new":"2026-10-08T05:10:37.674Z","old":"2026-10-07T23:45:02.988Z","player_id":"9754","source":"projections_feed","team":"LAC"}
