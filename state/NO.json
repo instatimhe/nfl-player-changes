@@ -1,6 +1,6 @@
 {
 "1979":{"active":true,"full_name":"Blake Bortles","news_updated":"2022-10-05T14:30:59.619Z","position":"QB","status":"Active","team":"NO"},
-"4035":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Alvin Kamara","injury_body_part":"Back","injury_status":"Questionable","news_updated":"2026-10-09T18:20:56.692Z","position":"RB","status":"Active","team":"NO"},
+"4035":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Alvin Kamara","injury_body_part":"Back","injury_status":"Questionable","news_updated":"2026-10-09T19:10:55.091Z","position":"RB","status":"Active","team":"NO"},
 "5095":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Daniel Carlson","news_updated":"2026-10-06T12:30:45.628Z","position":"K","status":"Active","team":"NO"},
 "5744":{"active":true,"full_name":"Eldridge Massington","news_updated":"2018-08-05T22:25:02.281Z","position":"WR","status":"Active","team":"NO"},
 "5857":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Noah Fant","news_updated":"2026-10-08T22:15:46.186Z","position":"TE","status":"Active","team":"NO"},
@@ -8,7 +8,7 @@
 "7538":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Zach Wilson","news_updated":"2026-10-05T23:10:14.510Z","position":"QB","status":"Active","team":"NO"},
 "7543":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Travis Etienne","injury_body_part":"Hamstring","injury_notes":"Strain","injury_status":"IR","news_updated":"2026-10-01T20:50:36.491Z","position":"RB","status":"Inactive","team":"NO"},
 "8139":{"active":true,"full_name":"Zamir White","news_updated":"2026-09-03T02:45:35.586Z","position":"RB","status":"Active","team":"NO"},
-"8144":{"active":true,"depth_chart_order":1,"depth_chart_position":"RWR","full_name":"Chris Olave","news_updated":"2026-10-09T18:25:55.359Z","position":"WR","status":"Active","team":"NO"},
+"8144":{"active":true,"depth_chart_order":1,"depth_chart_position":"RWR","full_name":"Chris Olave","news_updated":"2026-10-09T19:00:55.070Z","position":"WR","status":"Active","team":"NO"},
 "8200":{"active":true,"depth_chart_order":4,"depth_chart_position":"RWR","full_name":"Kevin Austin","news_updated":"2026-10-02T00:45:16.940Z","position":"WR","status":"Active","team":"NO"},
 "8230":{"active":true,"depth_chart_order":5,"depth_chart_position":"RB","full_name":"Ty Chandler","injury_body_part":"Knee","injury_status":"IR","news_updated":"2026-08-25T22:40:41.245Z","position":"RB","status":"Inactive","team":"NO"},
 "8583":{"active":true,"full_name":"Stone Smartt","news_updated":"2026-09-03T02:05:36.571Z","position":"TE","status":"Active","team":"NO"},
