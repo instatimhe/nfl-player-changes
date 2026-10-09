@@ -118,3 +118,7 @@
 {"detected_between":["2026-10-09T07:05:36Z","2026-10-09T14:35:37Z"],"field":"depth_chart_order","kind":"change","new":4,"old":3,"player_id":"11370","source":"players_nfl","team":"GB"}
 {"detected_between":["2026-10-09T14:05:40Z","2026-10-09T14:35:37Z"],"field":"news_updated","kind":"change","new":"2026-10-09T14:00:57.082Z","old":"2026-10-05T15:45:20.558Z","player_id":"11586","source":"projections_feed","team":"LAR"}
 {"detected_between":["2026-10-09T14:05:40Z","2026-10-09T14:35:37Z"],"field":"news_updated","kind":"change","new":"2026-10-09T14:30:57.289Z","old":"2026-10-05T15:15:20.592Z","player_id":"12535","source":"projections_feed","team":"DET"}
+{"detected_between":["2026-10-09T14:35:37Z","2026-10-09T15:05:40Z"],"field":"injury_status","kind":"change","new":"Out","old":"Doubtful","player_id":"8155","source":"projections_feed","team":"NYJ"}
+{"detected_between":["2026-10-09T14:35:37Z","2026-10-09T15:05:40Z"],"field":"news_updated","kind":"change","new":"2026-10-09T14:50:59.427Z","old":"2026-10-08T17:55:45.380Z","player_id":"8155","source":"projections_feed","team":"NYJ"}
+{"detected_between":["2026-10-09T14:35:37Z","2026-10-09T15:05:40Z"],"field":"injury_status","kind":"change","new":"Out","old":"Doubtful","player_id":"11625","source":"projections_feed","team":"NYJ"}
+{"detected_between":["2026-10-09T14:35:37Z","2026-10-09T15:05:40Z"],"field":"news_updated","kind":"change","new":"2026-10-09T14:40:57.455Z","old":"2026-09-15T19:55:52.498Z","player_id":"12469","source":"projections_feed","team":"CLE"}
