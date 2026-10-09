@@ -1,6 +1,6 @@
 {
 "2307":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Marcus Mariota","injury_body_part":"Knee - MCL","injury_notes":"Sprain","injury_status":"Doubtful","news_updated":"2026-10-07T17:20:07.945Z","position":"QB","status":"Active","team":"WAS"},
-"2449":{"active":true,"depth_chart_order":2,"depth_chart_position":"SWR","full_name":"Stefon Diggs","injury_body_part":"Undisclosed","injury_status":"Questionable","news_updated":"2026-10-09T17:30:54.490Z","position":"WR","status":"Active","team":"WAS"},
+"2449":{"active":true,"depth_chart_order":2,"depth_chart_position":"SWR","full_name":"Stefon Diggs","injury_body_part":"Hamstring","injury_status":"Out","news_updated":"2026-10-09T17:30:54.490Z","position":"WR","status":"Active","team":"WAS"},
 "3309":{"active":true,"full_name":"Wendell Smallwood","news_updated":"2022-01-04T06:16:01.310Z","position":"RB","status":"Active","team":"WAS"},
 "3333":{"active":true,"full_name":"Temarrick Hemingway","news_updated":"2022-01-11T05:30:31.265Z","position":"TE","status":"Active","team":"WAS"},
 "4219":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Jeremy McNichols","injury_body_part":"Quadriceps","injury_status":"IR","news_updated":"2026-10-08T23:55:46.953Z","position":"RB","status":"Inactive","team":"WAS"},
