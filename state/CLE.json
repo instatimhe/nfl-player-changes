@@ -1,6 +1,6 @@
 {
 "2471":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Michael Burton","news_updated":"2026-06-04T22:20:36.881Z","position":"FB","status":"Active","team":"CLE"},
-"4017":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Deshaun Watson","news_updated":"2026-10-07T01:50:01.908Z","position":"QB","status":"Active","team":"CLE"},
+"4017":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Deshaun Watson","news_updated":"2026-10-10T15:15:04.017Z","position":"QB","status":"Active","team":"CLE"},
 "6783":{"active":true,"depth_chart_order":3,"depth_chart_position":"RWR","full_name":"Jerry Jeudy","news_updated":"2026-10-05T18:15:27.439Z","position":"WR","status":"Active","team":"CLE"},
 "6957":{"active":true,"full_name":"James Proche","news_updated":"2026-10-06T21:16:00.930Z","position":"WR","status":"Active","team":"CLE"},
 "7048":{"active":true,"full_name":"Benny LeMay","news_updated":"2022-01-06T17:40:17.822Z","position":"RB","status":"Active","team":"CLE"},
@@ -17,7 +17,7 @@
 "12486":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Dillon Gabriel","injury_body_part":"Back","injury_status":"IR","news_updated":"2026-10-10T00:40:58.049Z","position":"QB","status":"Inactive","team":"CLE"},
 "12503":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Isaiah Bond","news_updated":"2026-10-01T14:00:33.508Z","position":"WR","status":"Active","team":"CLE"},
 "12506":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Harold Fannin","news_updated":"2026-10-09T01:35:47.087Z","position":"TE","status":"Active","team":"CLE"},
-"12512":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Quinshon Judkins","news_updated":"2026-10-08T16:35:43.306Z","position":"RB","status":"Active","team":"CLE"},
+"12512":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Quinshon Judkins","news_updated":"2026-10-10T15:20:04.194Z","position":"RB","status":"Active","team":"CLE"},
 "12523":{"active":true,"full_name":"Jimmy Horn","news_updated":"2026-09-18T14:40:46.535Z","position":"WR","status":"Active","team":"CLE"},
 "12524":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Shedeur Sanders","news_updated":"2026-10-04T02:15:38.660Z","position":"QB","status":"Active","team":"CLE"},
 "13298":{"active":true,"depth_chart_order":2,"depth_chart_position":"SWR","full_name":"KC Concepcion","news_updated":"2026-10-08T15:10:42.293Z","position":"WR","status":"Active","team":"CLE"},
