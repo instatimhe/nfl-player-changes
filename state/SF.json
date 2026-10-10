@@ -1,6 +1,6 @@
 {
 "1379":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Kyle Juszczyk","injury_body_part":"Knee","injury_notes":"Sprain","injury_status":"Out","news_updated":"2026-10-09T04:20:49.807Z","position":"FB","status":"Active","team":"SF"},
-"2197":{"active":true,"depth_chart_order":5,"depth_chart_position":"SWR","full_name":"Brandin Cooks","news_updated":"2026-10-03T16:30:20.452Z","position":"WR","status":"Active","team":"SF"},
+"2197":{"active":true,"depth_chart_order":5,"depth_chart_position":"SWR","full_name":"Brandin Cooks","news_updated":"2026-10-10T15:40:05.902Z","position":"WR","status":"Active","team":"SF"},
 "2216":{"active":true,"depth_chart_order":1,"depth_chart_position":"LWR","full_name":"Mike Evans","news_updated":"2026-10-10T10:15:01.620Z","position":"WR","status":"Active","team":"SF"},
 "3286":{"active":true,"depth_chart_order":6,"depth_chart_position":"LWR","full_name":"Demarcus Robinson","injury_body_part":"Ankle","injury_status":"IR","news_updated":"2026-09-26T23:40:29.954Z","position":"WR","status":"Inactive","team":"SF"},
 "4034":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Christian McCaffrey","news_updated":"2026-10-10T09:50:01.499Z","position":"RB","status":"Active","team":"SF"},
@@ -10,7 +10,7 @@
 "5189":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Eddy Pineiro","news_updated":"2026-10-10T11:10:02.655Z","position":"K","status":"Active","team":"SF"},
 "5781":{"active":true,"full_name":"Malik Turner","news_updated":"2026-10-06T01:40:39.955Z","position":"WR","status":"Active","team":"SF"},
 "5872":{"active":true,"depth_chart_order":2,"depth_chart_position":"SWR","full_name":"Deebo Samuel","news_updated":"2026-10-10T10:30:02.063Z","position":"WR","status":"Active","team":"SF"},
-"6803":{"active":true,"depth_chart_order":9,"full_name":"Brandon Aiyuk","injury_body_part":"Knee - ACL + MCL","injury_notes":"Surgery","injury_status":"DNR","news_updated":"2026-09-21T16:25:04.486Z","position":"WR","status":"Active","team":"SF"},
+"6803":{"active":true,"depth_chart_order":9,"full_name":"Brandon Aiyuk","injury_body_part":"Knee - ACL + MCL","injury_notes":"Surgery","injury_status":"DNR","news_updated":"2026-10-10T15:45:04.450Z","position":"WR","status":"Active","team":"SF"},
 "7527":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Mac Jones","news_updated":"2026-09-23T04:35:11.924Z","position":"QB","status":"Active","team":"SF"},
 "7842":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Luke Farrell","news_updated":"2026-09-12T00:10:15.332Z","position":"TE","status":"Active","team":"SF"},
 "7946":{"active":true,"full_name":"Jack Stoll","news_updated":"2026-09-16T00:40:56.240Z","position":"TE","status":"Active","team":"SF"},
