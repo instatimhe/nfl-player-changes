@@ -10,7 +10,7 @@
 "8116":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Pierre Strong","news_updated":"2026-10-09T00:15:47.363Z","position":"RB","status":"Active","team":"GB"},
 "8167":{"active":true,"depth_chart_order":1,"depth_chart_position":"LWR","full_name":"Christian Watson","news_updated":"2026-10-09T22:40:56.514Z","position":"WR","status":"Active","team":"GB"},
 "8168":{"active":true,"depth_chart_order":3,"depth_chart_position":"SWR","full_name":"Skyy Moore","news_updated":"2026-10-09T23:20:56.869Z","position":"WR","status":"Active","team":"GB"},
-"8204":{"active":true,"depth_chart_order":4,"depth_chart_position":"RWR","full_name":"Bo Melton","news_updated":"2026-09-27T01:10:31.100Z","position":"WR","status":"Active","team":"GB"},
+"8204":{"active":true,"depth_chart_order":5,"depth_chart_position":"RWR","full_name":"Bo Melton","news_updated":"2026-09-27T01:10:31.100Z","position":"WR","status":"Active","team":"GB"},
 "9481":{"active":true,"depth_chart_order":5,"depth_chart_position":"TE","full_name":"Luke Musgrave","injury_body_part":"Undisclosed","injury_status":"PUP","news_updated":"2026-09-01T21:15:21.695Z","position":"TE","status":"Active","team":"GB"},
 "9484":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Tucker Kraft","news_updated":"2026-10-09T22:45:56.954Z","position":"TE","status":"Active","team":"GB"},
 "10212":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Josh Whyle","news_updated":"2026-09-16T23:45:23.189Z","position":"TE","status":"Active","team":"GB"},
@@ -29,6 +29,6 @@
 "13074":{"active":true,"full_name":"Isaiah Neyor","news_updated":"2026-09-02T01:15:24.785Z","position":"WR","status":"Active","team":"GB"},
 "13210":{"active":true,"full_name":"Drake Dabney","news_updated":"2026-09-02T01:10:24.790Z","position":"TE","status":"Active","team":"GB"},
 "13545":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Trey Smack","news_updated":"2026-10-05T09:40:18.819Z","position":"K","status":"Active","team":"GB"},
-"13770":{"active":true,"depth_chart_order":5,"depth_chart_position":"LWR","full_name":"J. Michael Sturdivant","news_updated":"2026-09-27T01:20:31.082Z","position":"WR","status":"Active","team":"GB"},
+"13770":{"active":true,"depth_chart_order":4,"depth_chart_position":"LWR","full_name":"J. Michael Sturdivant","news_updated":"2026-09-27T01:20:31.082Z","position":"WR","status":"Active","team":"GB"},
 "13949":{"active":true,"full_name":"Damon Bankston","news_updated":"2026-10-06T23:30:01.476Z","position":"RB","status":"Active","team":"GB"}
 }
