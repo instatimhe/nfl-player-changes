@@ -107,3 +107,4 @@
 {"detected_between":["2026-10-09T22:05:38Z","2026-10-10T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":4,"old":5,"player_id":"13435","source":"players_nfl","team":"CLE"}
 {"detected_between":["2026-10-09T22:05:38Z","2026-10-10T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":5,"old":3,"player_id":"13580","source":"players_nfl","team":"CLE"}
 {"detected_between":["2026-10-09T22:05:38Z","2026-10-10T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":3,"old":4,"player_id":"13825","source":"players_nfl","team":"NYJ"}
+{"detected_between":["2026-10-10T09:05:35Z","2026-10-10T09:35:38Z"],"field":"news_updated","kind":"change","new":"2026-10-10T09:05:01.263Z","old":"2026-10-09T17:45:55.108Z","player_id":"7083","source":"projections_feed","team":"BAL"}
