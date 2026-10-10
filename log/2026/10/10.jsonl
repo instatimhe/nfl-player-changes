@@ -350,3 +350,5 @@
 {"detected_between":["2026-10-10T14:35:38Z","2026-10-10T22:05:41Z"],"field":"depth_chart_order","kind":"change","new":5,"old":7,"player_id":"13712","source":"players_nfl","team":"CHI"}
 {"detected_between":["2026-10-10T14:35:38Z","2026-10-10T22:05:41Z"],"field":"depth_chart_position","kind":"change","new":null,"old":"QB","player_id":"13816","source":"players_nfl","team":"HOU"}
 {"detected_between":["2026-10-10T14:35:38Z","2026-10-10T22:05:41Z"],"field":"depth_chart_order","kind":"change","new":null,"old":4,"player_id":"13816","source":"players_nfl","team":"HOU"}
+{"detected_between":["2026-10-10T22:05:40Z","2026-10-10T22:35:34Z"],"field":"news_updated","kind":"change","new":"2026-10-10T22:10:07.321Z","old":"2026-10-05T15:35:20.842Z","player_id":"421","source":"projections_feed","team":"LAR"}
+{"detected_between":["2026-10-10T22:05:40Z","2026-10-10T22:35:34Z"],"field":"news_updated","kind":"change","new":"2026-10-10T22:20:07.047Z","old":"2026-10-05T04:25:16.108Z","player_id":"12713","source":"projections_feed","team":"NE"}
