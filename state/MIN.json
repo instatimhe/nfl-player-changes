@@ -1,5 +1,5 @@
 {
-"2078":{"active":true,"full_name":"Odell Beckham","news_updated":"2026-10-10T20:40:06.981Z","position":"WR","status":"Active","team":"MIN"},
+"2078":{"active":true,"depth_chart_order":6,"depth_chart_position":"RWR","full_name":"Odell Beckham","news_updated":"2026-10-10T20:40:06.981Z","position":"WR","status":"Active","team":"MIN"},
 "3161":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Carson Wentz","news_updated":"2026-09-21T18:40:26.092Z","position":"QB","status":"Active","team":"MIN"},
 "4199":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Aaron Jones","news_updated":"2026-10-09T21:20:56.034Z","position":"RB","status":"Active","team":"MIN"},
 "5844":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"T.J. Hockenson","news_updated":"2026-10-09T21:10:55.895Z","position":"TE","status":"Active","team":"MIN"},
@@ -19,7 +19,7 @@
 "12775":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Max Brosmer","news_updated":"2026-10-04T18:50:11.973Z","position":"QB","status":"Active","team":"MIN"},
 "13032":{"active":true,"full_name":"Marshall Lang","news_updated":"2026-09-02T07:30:27.816Z","position":"TE","status":"Active","team":"MIN"},
 "13075":{"active":true,"depth_chart_order":5,"depth_chart_position":"SWR","full_name":"Myles Price","news_updated":"2026-09-21T01:05:59.774Z","position":"WR","status":"Active","team":"MIN"},
-"13121":{"active":true,"depth_chart_order":5,"depth_chart_position":"TE","full_name":"Ben Yurosek","injury_body_part":"Ankle","injury_status":"Questionable","news_updated":"2026-10-09T22:25:57.113Z","position":"TE","status":"Inactive","team":"MIN"},
+"13121":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Ben Yurosek","injury_body_part":"Ankle","injury_status":"Questionable","news_updated":"2026-10-09T22:25:57.113Z","position":"TE","status":"Active","team":"MIN"},
 "13347":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Demond Claiborne","news_updated":"2026-10-06T03:45:40.617Z","position":"RB","status":"Active","team":"MIN"},
 "13516":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Max Bredeson","news_updated":"2026-06-04T23:20:38.081Z","position":"RB","status":"Active","team":"MIN"},
 "13621":{"active":true,"full_name":"Dillon Bell","news_updated":"2026-09-22T01:40:54.432Z","position":"WR","status":"Active","team":"MIN"},
