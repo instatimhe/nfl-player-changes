@@ -1,5 +1,5 @@
 {
-"4983":{"active":true,"depth_chart_order":3,"depth_chart_position":"LWR","full_name":"DJ Moore","injury_body_part":"Undisclosed","injury_status":"Questionable","news_updated":"2026-10-10T18:10:08.831Z","position":"WR","status":"Active","team":"BUF"},
+"4983":{"active":true,"depth_chart_order":3,"depth_chart_position":"LWR","full_name":"DJ Moore","injury_body_part":"Undisclosed","injury_status":"Questionable","news_updated":"2026-10-10T18:25:05.550Z","position":"WR","status":"Active","team":"BUF"},
 "4984":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Josh Allen","news_updated":"2026-10-04T22:40:14.390Z","position":"QB","status":"Active","team":"BUF"},
 "5127":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Kyle Allen","news_updated":"2026-05-27T22:20:30.620Z","position":"QB","status":"Active","team":"BUF"},
 "5154":{"active":true,"full_name":"Trent Sherfield","news_updated":"2026-09-01T23:15:23.019Z","position":"WR","status":"Active","team":"BUF"},
@@ -7,7 +7,7 @@
 "5970":{"active":true,"depth_chart_order":6,"depth_chart_position":"RWR","full_name":"Greg Dortch","news_updated":"2026-09-26T00:35:23.225Z","position":"WR","status":"Active","team":"BUF"},
 "6039":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Ty Johnson","news_updated":"2026-10-06T04:10:41.633Z","position":"RB","status":"Active","team":"BUF"},
 "7042":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Tyler Bass","news_updated":"2026-10-05T02:05:15.019Z","position":"K","status":"Active","team":"BUF"},
-"7670":{"active":true,"depth_chart_order":4,"depth_chart_position":"RWR","full_name":"Joshua Palmer","injury_body_part":"Shoulder","injury_status":"Out","news_updated":"2026-10-10T18:05:05.844Z","position":"WR","status":"Active","team":"BUF"},
+"7670":{"active":true,"depth_chart_order":4,"depth_chart_position":"RWR","full_name":"Joshua Palmer","injury_body_part":"Shoulder","injury_status":"Out","news_updated":"2026-10-10T18:35:05.440Z","position":"WR","status":"Active","team":"BUF"},
 "8002":{"active":true,"full_name":"Shane Buechele","news_updated":"2026-09-01T23:20:23.026Z","position":"QB","status":"Active","team":"BUF"},
 "8134":{"active":true,"depth_chart_order":2,"depth_chart_position":"SWR","full_name":"Khalil Shakir","news_updated":"2026-10-06T14:55:44.647Z","position":"WR","status":"Active","team":"BUF"},
 "8138":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"James Cook","news_updated":"2026-10-04T22:40:14.381Z","position":"RB","status":"Active","team":"BUF"},
@@ -20,6 +20,6 @@
 "12756":{"active":true,"full_name":"Stephen Gosnell","news_updated":"2026-09-01T23:30:23.790Z","position":"WR","status":"Active","team":"BUF"},
 "12765":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Keleki Latu","news_updated":"2025-12-27T21:35:04.018Z","position":"TE","status":"Active","team":"BUF"},
 "12983":{"active":true,"full_name":"Brock Lampe","news_updated":"2026-09-15T15:15:14.852Z","position":"FB","status":"Active","team":"BUF"},
-"13402":{"active":true,"depth_chart_order":5,"depth_chart_position":"SWR","full_name":"Skyler Bell","news_updated":"2026-10-10T18:20:06.438Z","position":"WR","status":"Active","team":"BUF"},
+"13402":{"active":true,"depth_chart_order":5,"depth_chart_position":"SWR","full_name":"Skyler Bell","news_updated":"2026-10-10T18:50:06.195Z","position":"WR","status":"Active","team":"BUF"},
 "13696":{"active":true,"full_name":"Ja'Mori Maclin","news_updated":"2026-09-01T23:40:23.796Z","position":"WR","status":"Active","team":"BUF"}
 }
