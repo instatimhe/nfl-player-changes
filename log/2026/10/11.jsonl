@@ -297,3 +297,14 @@
 {"detected_between":["2026-10-11T17:05:37Z","2026-10-11T17:35:37Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"5844","source":"projections_feed","team":"MIN"}
 {"detected_between":["2026-10-11T17:05:37Z","2026-10-11T17:35:37Z"],"field":"injury_body_part","kind":"change","new":"Head","old":null,"player_id":"5844","source":"projections_feed","team":"MIN"}
 {"detected_between":["2026-10-11T17:05:37Z","2026-10-11T17:35:37Z"],"field":"news_updated","kind":"change","new":"2026-10-11T17:25:17.307Z","old":"2026-10-09T21:10:55.895Z","player_id":"5844","source":"projections_feed","team":"MIN"}
+{"detected_between":["2026-10-11T17:35:37Z","2026-10-11T18:05:38Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"4199","source":"projections_feed","team":"MIN"}
+{"detected_between":["2026-10-11T17:35:37Z","2026-10-11T18:05:38Z"],"field":"injury_body_part","kind":"change","new":"Leg","old":null,"player_id":"4199","source":"projections_feed","team":"MIN"}
+{"detected_between":["2026-10-11T17:35:37Z","2026-10-11T18:05:38Z"],"field":"news_updated","kind":"change","new":"2026-10-11T17:50:18.599Z","old":"2026-10-09T21:20:56.034Z","player_id":"4199","source":"projections_feed","team":"MIN"}
+{"detected_between":["2026-10-11T17:35:37Z","2026-10-11T18:05:38Z"],"field":"injury_status","kind":"change","new":"Out","old":"Questionable","player_id":"5844","source":"projections_feed","team":"MIN"}
+{"detected_between":["2026-10-11T17:35:37Z","2026-10-11T18:05:38Z"],"field":"injury_body_part","kind":"change","new":"Concussion","old":"Head","player_id":"5844","source":"projections_feed","team":"MIN"}
+{"detected_between":["2026-10-11T17:35:37Z","2026-10-11T18:05:38Z"],"field":"news_updated","kind":"change","new":"2026-10-11T17:45:17.460Z","old":"2026-10-11T17:25:17.307Z","player_id":"5844","source":"projections_feed","team":"MIN"}
+{"detected_between":["2026-10-11T17:35:37Z","2026-10-11T18:05:38Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"8168","source":"projections_feed","team":"GB"}
+{"detected_between":["2026-10-11T17:35:37Z","2026-10-11T18:05:38Z"],"field":"injury_body_part","kind":"change","new":"Ankle","old":null,"player_id":"8168","source":"projections_feed","team":"GB"}
+{"detected_between":["2026-10-11T17:35:37Z","2026-10-11T18:05:38Z"],"field":"injury_status","kind":"change","new":"Out","old":null,"player_id":"13298","source":"projections_feed","team":"CLE"}
+{"detected_between":["2026-10-11T17:35:37Z","2026-10-11T18:05:38Z"],"field":"injury_body_part","kind":"change","new":"Concussion","old":null,"player_id":"13298","source":"projections_feed","team":"CLE"}
+{"detected_between":["2026-10-11T17:35:37Z","2026-10-11T18:05:38Z"],"field":"news_updated","kind":"change","new":"2026-10-11T17:45:16.877Z","old":"2026-10-10T15:35:04.582Z","player_id":"13298","source":"projections_feed","team":"CLE"}
