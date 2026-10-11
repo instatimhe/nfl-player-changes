@@ -293,3 +293,7 @@
 {"detected_between":["2026-10-11T16:35:38Z","2026-10-11T17:05:37Z"],"field":"news_updated","kind":"change","new":"2026-10-11T16:45:16.978Z","old":"2026-10-09T21:30:56.008Z","player_id":"13405","source":"projections_feed","team":"MIA"}
 {"detected_between":["2026-10-11T16:35:38Z","2026-10-11T17:05:37Z"],"field":"news_updated","kind":"change","new":"2026-10-11T16:35:16.804Z","old":"2026-09-27T16:00:53.337Z","player_id":"13423","source":"projections_feed","team":"PIT"}
 {"detected_between":["2026-10-11T16:35:38Z","2026-10-11T17:05:37Z"],"field":"news_updated","kind":"change","new":"2026-10-11T16:45:17.010Z","old":"2026-10-09T21:25:56.725Z","player_id":"13477","source":"projections_feed","team":"CIN"}
+{"detected_between":["2026-10-11T17:05:37Z","2026-10-11T17:35:37Z"],"field":"news_updated","kind":"change","new":"2026-10-11T17:15:17.268Z","old":"2026-10-10T10:55:01.970Z","player_id":"4217","source":"projections_feed","team":"SF"}
+{"detected_between":["2026-10-11T17:05:37Z","2026-10-11T17:35:37Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"5844","source":"projections_feed","team":"MIN"}
+{"detected_between":["2026-10-11T17:05:37Z","2026-10-11T17:35:37Z"],"field":"injury_body_part","kind":"change","new":"Head","old":null,"player_id":"5844","source":"projections_feed","team":"MIN"}
+{"detected_between":["2026-10-11T17:05:37Z","2026-10-11T17:35:37Z"],"field":"news_updated","kind":"change","new":"2026-10-11T17:25:17.307Z","old":"2026-10-09T21:10:55.895Z","player_id":"5844","source":"projections_feed","team":"MIN"}
