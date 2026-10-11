@@ -160,3 +160,6 @@
 {"detected_between":["2026-10-11T07:05:37Z","2026-10-11T14:35:35Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"12860","source":"players_nfl","team":"LAC"}
 {"detected_between":["2026-10-11T07:05:37Z","2026-10-11T14:35:35Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"13297","source":"players_nfl","team":"ARI"}
 {"detected_between":["2026-10-11T07:05:37Z","2026-10-11T14:35:35Z"],"field":"depth_chart_order","kind":"change","new":4,"old":7,"player_id":"13405","source":"players_nfl","team":"MIA"}
+{"detected_between":["2026-10-11T14:35:34Z","2026-10-11T15:05:41Z"],"field":"news_updated","kind":"change","new":"2026-10-11T14:35:16.932Z","old":"2026-10-11T13:10:14.537Z","player_id":"6794","source":"projections_feed","team":"MIN"}
+{"detected_between":["2026-10-11T14:35:34Z","2026-10-11T15:05:41Z"],"field":"news_updated","kind":"change","new":"2026-10-11T14:35:16.918Z","old":"2026-10-10T21:05:06.557Z","player_id":"6801","source":"projections_feed","team":"CIN"}
+{"detected_between":["2026-10-11T14:35:34Z","2026-10-11T15:05:41Z"],"field":"news_updated","kind":"change","new":"2026-10-11T14:35:16.945Z","old":"2026-10-11T13:10:14.541Z","player_id":"9756","source":"projections_feed","team":"MIN"}
