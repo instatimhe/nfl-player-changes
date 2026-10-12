@@ -163,3 +163,6 @@
 {"detected_between":["2026-10-12T03:35:37Z","2026-10-12T04:05:37Z"],"field":"injury_body_part","kind":"change","new":"Ribs","old":null,"player_id":"11559","source":"projections_feed","team":"ATL"}
 {"detected_between":["2026-10-12T03:35:37Z","2026-10-12T04:05:37Z"],"field":"news_updated","kind":"change","new":"2026-10-12T03:55:24.017Z","old":"2026-10-10T18:00:06.443Z","player_id":"11627","source":"projections_feed","team":"DEN"}
 {"detected_between":["2026-10-12T03:35:37Z","2026-10-12T04:05:37Z"],"field":"news_updated","kind":"change","new":"2026-10-12T03:35:23.146Z","old":"2026-10-11T18:30:18.947Z","player_id":"13294","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-10-12T04:05:36Z","2026-10-12T04:35:36Z"],"field":"news_updated","kind":"change","new":"2026-10-12T04:05:23.883Z","old":"2026-10-12T01:10:21.971Z","player_id":"7526","source":"projections_feed","team":"DEN"}
+{"detected_between":["2026-10-12T04:05:36Z","2026-10-12T04:35:36Z"],"field":"news_updated","kind":"change","new":"2026-10-12T04:10:23.530Z","old":"2026-10-10T12:05:02.864Z","player_id":"10218","source":"projections_feed","team":"HOU"}
+{"detected_between":["2026-10-12T04:05:36Z","2026-10-12T04:35:36Z"],"field":"news_updated","kind":"change","new":"2026-10-12T04:00:23.415Z","old":"2026-10-10T15:50:05.492Z","player_id":"11559","source":"projections_feed","team":"ATL"}
