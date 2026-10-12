@@ -213,3 +213,7 @@
 {"detected_between":["2026-10-12T05:35:36Z","2026-10-12T06:05:41Z"],"field":"news_updated","kind":"change","new":"2026-10-12T05:45:24.903Z","old":"2026-10-11T19:40:18.115Z","player_id":"12048","source":"projections_feed","team":"SEA"}
 {"detected_between":["2026-10-12T05:35:36Z","2026-10-12T06:05:41Z"],"field":"news_updated","kind":"change","new":"2026-10-12T05:25:25.044Z","old":"2026-10-10T10:05:01.731Z","player_id":"13414","source":"projections_feed","team":"SF"}
 {"detected_between":["2026-10-12T06:05:41Z","2026-10-12T06:35:40Z"],"field":"news_updated","kind":"change","new":"2026-10-12T05:55:25.177Z","old":"2026-10-09T23:10:56.865Z","player_id":"2747","source":"projections_feed","team":"SEA"}
+{"detected_between":["2026-10-11T22:05:35Z","2026-10-12T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"12699","source":"players_nfl","team":"BAL"}
+{"detected_between":["2026-10-11T22:05:35Z","2026-10-12T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"12735","source":"players_nfl","team":"DEN"}
+{"detected_between":["2026-10-11T22:05:35Z","2026-10-12T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":6,"old":5,"player_id":"13268","source":"players_nfl","team":"BAL"}
+{"detected_between":["2026-10-11T22:05:35Z","2026-10-12T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":6,"old":4,"player_id":"13577","source":"players_nfl","team":"DEN"}
