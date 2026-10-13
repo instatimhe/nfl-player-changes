@@ -3,7 +3,7 @@
 "260":{"active":true,"full_name":"Josh Johnson","news_updated":"2026-09-22T01:25:54.409Z","position":"QB","status":"Active","team":"CIN"},
 "4147":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Samaje Perine","news_updated":"2026-10-12T21:00:04.001Z","position":"RB","status":"Active","team":"CIN"},
 "4993":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Mike Gesicki","news_updated":"2026-10-12T12:25:28.612Z","position":"TE","status":"Active","team":"CIN"},
-"5409":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Tanner Hudson","injury_body_part":"Pectoral","injury_status":"Questionable","news_updated":"2026-10-13T14:35:10.727Z","position":"TE","status":"Active","team":"CIN"},
+"5409":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Tanner Hudson","injury_body_part":"Pectoral","injury_notes":"Strain","injury_status":"Out","news_updated":"2026-10-13T14:35:10.727Z","position":"TE","status":"Active","team":"CIN"},
 "6001":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Drew Sample","news_updated":"2026-09-23T03:25:11.297Z","position":"TE","status":"Active","team":"CIN"},
 "6770":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Joe Burrow","news_updated":"2026-10-12T12:15:28.386Z","position":"QB","status":"Active","team":"CIN"},
 "6801":{"active":true,"depth_chart_order":2,"depth_chart_position":"RWR","full_name":"Tee Higgins","news_updated":"2026-10-12T12:15:28.626Z","position":"WR","status":"Active","team":"CIN"},
