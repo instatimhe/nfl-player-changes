@@ -4,3 +4,4 @@
 {"detected_between":["2026-10-12T23:35:34Z","2026-10-13T00:05:37Z"],"field":"news_updated","kind":"change","new":"2026-10-12T23:40:08.995Z","old":"2026-09-23T02:30:11.143Z","player_id":"11056","source":"projections_feed","team":"HOU"}
 {"detected_between":["2026-10-12T23:35:34Z","2026-10-13T00:05:37Z"],"field":"news_updated","kind":"change","new":"2026-10-12T23:50:05.543Z","old":"2026-10-12T23:20:04.282Z","player_id":"11579","source":"projections_feed","team":"MIN"}
 {"detected_between":["2026-10-12T23:35:34Z","2026-10-13T00:05:37Z"],"field":"news_updated","kind":"change","new":"2026-10-12T23:25:04.394Z","old":"2026-10-12T23:15:06.087Z","player_id":"12509","source":"projections_feed","team":"LAC"}
+{"detected_between":["2026-10-13T00:05:37Z","2026-10-13T00:35:36Z"],"field":"news_updated","kind":"change","new":"2026-10-13T00:00:05.803Z","old":"2026-10-12T20:35:03.461Z","player_id":"13305","source":"projections_feed","team":"LV"}
