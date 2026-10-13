@@ -160,3 +160,4 @@
 {"detected_between":["2026-10-13T16:05:41Z","2026-10-13T16:35:36Z"],"field":"news_updated","kind":"change","new":"2026-10-13T16:05:47.567Z","old":"2026-09-19T18:15:46.193Z","player_id":"12491","source":"projections_feed","team":"NE"}
 {"detected_between":["2026-10-13T16:05:41Z","2026-10-13T16:35:36Z"],"field":"news_updated","kind":"change","new":"2026-10-13T16:30:48.764Z","old":"2026-10-12T17:25:05.250Z","player_id":"12531","source":"projections_feed","team":"CAR"}
 {"detected_between":["2026-10-13T16:05:41Z","2026-10-13T16:35:36Z"],"field":"news_updated","kind":"change","new":"2026-10-13T16:20:47.037Z","old":"2026-10-13T15:15:47.144Z","player_id":"13296","source":"projections_feed","team":"MIA"}
+{"detected_between":["2026-10-13T16:35:35Z","2026-10-13T17:05:38Z"],"field":"news_updated","kind":"change","new":"2026-10-13T16:40:47.122Z","old":"2026-10-12T13:15:28.926Z","player_id":"6797","source":"projections_feed","team":"LAC"}
