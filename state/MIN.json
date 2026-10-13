@@ -1,5 +1,5 @@
 {
-"2078":{"active":true,"full_name":"Odell Beckham","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-10-11T16:05:16.469Z","position":"WR","status":"Active","team":"MIN"},
+"2078":{"active":true,"full_name":"Odell Beckham","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-10-13T03:40:07.363Z","position":"WR","status":"Active","team":"MIN"},
 "3161":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Carson Wentz","news_updated":"2026-09-21T18:40:26.092Z","position":"QB","status":"Active","team":"MIN"},
 "4199":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Aaron Jones","injury_body_part":"Leg","injury_status":"Questionable","news_updated":"2026-10-12T00:35:22.233Z","position":"RB","status":"Active","team":"MIN"},
 "5844":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"T.J. Hockenson","injury_body_part":"Concussion","injury_status":"Out","news_updated":"2026-10-12T18:30:03.840Z","position":"TE","status":"Active","team":"MIN"},
@@ -12,7 +12,7 @@
 "9756":{"active":true,"depth_chart_order":6,"depth_chart_position":"RWR","full_name":"Jordan Addison","injury_body_part":"Hamstring","injury_notes":"Soreness","injury_status":"Out","news_updated":"2026-10-11T15:55:15.923Z","position":"WR","status":"Active","team":"MIN"},
 "11579":{"active":true,"full_name":"Audric Estime","news_updated":"2026-10-12T23:50:05.543Z","position":"RB","status":"Active","team":"MIN"},
 "11792":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Will Reichard","news_updated":"2026-10-12T15:15:28.461Z","position":"K","status":"Active","team":"MIN"},
-"11911":{"active":true,"full_name":"Jeshaun Jones","news_updated":"2026-10-12T00:05:22.160Z","position":"WR","status":"Active","team":"MIN"},
+"11911":{"active":true,"full_name":"Jeshaun Jones","news_updated":"2026-10-13T03:45:06.972Z","position":"WR","status":"Active","team":"MIN"},
 "12062":{"active":true,"full_name":"Cam Grandy","news_updated":"2026-09-02T07:25:27.894Z","position":"TE","status":"Active","team":"MIN"},
 "12496":{"active":true,"depth_chart_order":3,"depth_chart_position":"LWR","full_name":"Tai Felton","news_updated":"2026-10-12T00:20:22.351Z","position":"WR","status":"Active","team":"MIN"},
 "12700":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Gavin Bartholomew","news_updated":"2026-10-12T00:10:21.857Z","position":"TE","status":"Active","team":"MIN"},
