@@ -29,3 +29,12 @@
 {"detected_between":["2026-10-14T23:35:33Z","2026-10-15T00:05:34Z"],"field":"injury_body_part","kind":"change","new":"Back","old":null,"player_id":"13299","source":"projections_feed","team":"JAX"}
 {"detected_between":["2026-10-14T23:35:33Z","2026-10-15T00:05:34Z"],"field":"news_updated","kind":"change","new":"2026-10-14T23:55:09.337Z","old":"2026-10-12T02:30:22.645Z","player_id":"13324","source":"projections_feed","team":"BAL"}
 {"detected_between":["2026-10-14T23:35:33Z","2026-10-15T00:05:34Z"],"field":"news_updated","kind":"change","new":"2026-10-14T23:40:09.262Z","old":"2026-09-02T02:50:25.382Z","player_id":"13630","source":"projections_feed","team":"LAC"}
+{"detected_between":["2026-10-15T00:05:33Z","2026-10-15T00:35:35Z"],"field":"news_updated","kind":"change","new":"2026-10-15T00:20:09.984Z","old":"2026-10-14T22:45:09.780Z","player_id":"5848","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-10-15T00:05:33Z","2026-10-15T00:35:35Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"6847","source":"projections_feed","team":"ARI"}
+{"detected_between":["2026-10-15T00:05:33Z","2026-10-15T00:35:35Z"],"field":"injury_body_part","kind":"change","new":"Ribs","old":null,"player_id":"6847","source":"projections_feed","team":"ARI"}
+{"detected_between":["2026-10-15T00:05:33Z","2026-10-15T00:35:35Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"6865","source":"projections_feed","team":"LAR"}
+{"detected_between":["2026-10-15T00:05:33Z","2026-10-15T00:35:35Z"],"field":"injury_body_part","kind":"change","new":"Shoulder","old":null,"player_id":"6865","source":"projections_feed","team":"LAR"}
+{"detected_between":["2026-10-15T00:05:33Z","2026-10-15T00:35:35Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"10214","source":"projections_feed","team":"LAR"}
+{"detected_between":["2026-10-15T00:05:33Z","2026-10-15T00:35:35Z"],"field":"injury_body_part","kind":"change","new":"Foot","old":null,"player_id":"10214","source":"projections_feed","team":"LAR"}
+{"detected_between":["2026-10-15T00:05:33Z","2026-10-15T00:35:35Z"],"field":"news_updated","kind":"change","new":"2026-10-15T00:20:09.997Z","old":"2026-10-02T22:40:40.691Z","player_id":"13299","source":"projections_feed","team":"JAX"}
+{"detected_between":["2026-10-15T00:05:33Z","2026-10-15T00:35:35Z"],"field":"news_updated","kind":"change","new":"2026-10-15T00:10:09.639Z","old":"2026-10-10T00:40:58.040Z","player_id":"13380","source":"projections_feed","team":"LAC"}
