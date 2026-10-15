@@ -89,3 +89,4 @@
 {"detected_between":["2026-10-15T04:35:32Z","2026-10-15T05:05:36Z"],"field":"news_updated","kind":"change","new":"2026-10-15T04:45:12.607Z","old":"2026-10-14T22:40:08.874Z","player_id":"12509","source":"projections_feed","team":"LAC"}
 {"detected_between":["2026-10-15T04:35:32Z","2026-10-15T05:05:36Z"],"field":"news_updated","kind":"change","new":"2026-10-15T04:55:12.408Z","old":"2026-10-13T22:25:32.254Z","player_id":"12670","source":"projections_feed","team":"LAC"}
 {"detected_between":["2026-10-15T04:35:32Z","2026-10-15T05:05:36Z"],"field":"news_updated","kind":"change","new":"2026-10-15T04:55:12.422Z","old":"2026-10-15T00:10:09.639Z","player_id":"13380","source":"projections_feed","team":"LAC"}
+{"detected_between":["2026-10-15T05:05:35Z","2026-10-15T05:35:37Z"],"field":"news_updated","kind":"change","new":"2026-10-15T05:00:11.122Z","old":"2026-10-11T22:50:20.430Z","player_id":"9484","source":"projections_feed","team":"GB"}
