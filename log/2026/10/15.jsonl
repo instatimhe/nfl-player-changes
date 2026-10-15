@@ -149,3 +149,4 @@
 {"detected_between":["2026-10-15T15:05:40Z","2026-10-15T15:35:43Z"],"field":"news_updated","kind":"change","new":"2026-10-15T14:50:15.606Z","old":"2026-10-05T14:00:20.618Z","player_id":"7594","source":"projections_feed","team":"CAR"}
 {"detected_between":["2026-10-15T15:05:40Z","2026-10-15T15:35:43Z"],"field":"news_updated","kind":"change","new":"2026-10-15T15:00:15.489Z","old":"2026-10-11T23:20:22.252Z","player_id":"9487","source":"projections_feed","team":"JAX"}
 {"detected_between":["2026-10-15T15:05:40Z","2026-10-15T15:35:43Z"],"field":"news_updated","kind":"change","new":"2026-10-15T15:10:10.354Z","old":"2026-10-09T04:20:48.135Z","player_id":"12514","source":"projections_feed","team":"TB"}
+{"detected_between":["2026-10-15T15:35:43Z","2026-10-15T16:05:44Z"],"field":"news_updated","kind":"change","new":"2026-10-15T15:45:10.682Z","old":"2026-10-14T20:30:08.796Z","player_id":"9228","source":"projections_feed","team":"CAR"}
