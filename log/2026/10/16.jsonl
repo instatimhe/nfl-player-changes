@@ -138,3 +138,6 @@
 {"detected_between":["2026-10-16T07:05:41Z","2026-10-16T14:35:40Z"],"field":"depth_chart_order","kind":"change","new":2,"old":3,"player_id":"13150","source":"players_nfl","team":"PHI"}
 {"detected_between":["2026-10-16T14:05:41Z","2026-10-16T14:35:40Z"],"field":"news_updated","kind":"change","new":"2026-10-16T14:20:38.789Z","old":"2026-10-12T04:45:24.632Z","player_id":"13279","source":"projections_feed","team":"TEN"}
 {"detected_between":["2026-10-16T07:05:41Z","2026-10-16T14:35:40Z"],"field":"depth_chart_order","kind":"change","new":10,"old":9,"player_id":"13412","source":"players_nfl","team":"DET"}
+{"detected_between":["2026-10-16T14:35:39Z","2026-10-16T15:05:45Z"],"field":"injury_status","kind":"change","new":"Out","old":"Doubtful","player_id":"8155","source":"projections_feed","team":"NYJ"}
+{"detected_between":["2026-10-16T14:35:39Z","2026-10-16T15:05:45Z"],"field":"injury_status","kind":"change","new":"Out","old":"Doubtful","player_id":"11625","source":"projections_feed","team":"NYJ"}
+{"detected_between":["2026-10-16T14:35:39Z","2026-10-16T15:05:45Z"],"field":"news_updated","kind":"change","new":"2026-10-16T14:35:38.745Z","old":"2026-10-16T03:45:35.478Z","player_id":"12545","source":"projections_feed","team":"NO"}
