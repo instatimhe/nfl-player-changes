@@ -8,7 +8,7 @@
 "7103":{"active":true,"full_name":"Tavien Feaster","news_updated":"2021-12-30T05:00:38.408Z","position":"RB","status":"Active","team":"ARI"},
 "7535":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Hunter Long","injury_body_part":"Knee","injury_status":"IR","news_updated":"2026-10-06T23:25:01.796Z","position":"TE","status":"Inactive","team":"ARI"},
 "7597":{"active":true,"full_name":"Kenny Yeboah","news_updated":"2026-10-06T23:30:01.472Z","position":"TE","status":"Active","team":"ARI"},
-"7812":{"active":true,"depth_chart_order":4,"depth_chart_position":"RWR","full_name":"Simi Fehoko","news_updated":"2026-08-29T07:20:43.310Z","position":"WR","status":"Active","team":"ARI"},
+"7812":{"active":true,"depth_chart_order":5,"depth_chart_position":"RWR","full_name":"Simi Fehoko","news_updated":"2026-08-29T07:20:43.310Z","position":"WR","status":"Active","team":"ARI"},
 "8122":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Zonovan Knight","news_updated":"2026-09-15T01:40:08.258Z","position":"RB","status":"Active","team":"ARI"},
 "8130":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Trey McBride","news_updated":"2026-10-12T15:50:29.807Z","position":"TE","status":"Active","team":"ARI"},
 "8132":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Tyler Allgeier","news_updated":"2026-10-15T02:55:10.229Z","position":"RB","status":"Active","team":"ARI"},
@@ -26,7 +26,7 @@
 "12217":{"active":true,"depth_chart_order":7,"depth_chart_position":"TE","full_name":"Shawn Bowman","news_updated":"2026-10-16T06:20:36.578Z","position":"TE","status":"Active","team":"ARI"},
 "13272":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Carson Beck","news_updated":"2026-10-14T13:50:37.831Z","position":"QB","status":"Active","team":"ARI"},
 "13287":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Jeremiyah Love","injury_body_part":"Ankle","injury_status":"Questionable","news_updated":"2026-10-16T04:30:36.287Z","position":"RB","status":"Active","team":"ARI"},
-"13297":{"active":true,"depth_chart_order":5,"depth_chart_position":"LWR","full_name":"Reggie Virgil","news_updated":"2026-10-14T15:55:39.030Z","position":"WR","status":"Active","team":"ARI"},
+"13297":{"active":true,"depth_chart_order":4,"depth_chart_position":"LWR","full_name":"Reggie Virgil","news_updated":"2026-10-14T15:55:39.030Z","position":"WR","status":"Active","team":"ARI"},
 "13670":{"active":true,"full_name":"Harrison Wallace","news_updated":"2026-09-01T05:00:17.429Z","position":"WR","status":"Active","team":"ARI"},
 "13879":{"active":true,"depth_chart_order":8,"depth_chart_position":"TE","full_name":"Jameson Geers","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-08-15T20:05:03.267Z","position":"TE","status":"Inactive","team":"ARI"}
 }

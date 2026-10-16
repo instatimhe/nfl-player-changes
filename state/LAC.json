@@ -2,7 +2,7 @@
 "4033":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"David Njoku","injury_body_part":"Lower Leg","injury_status":"IR","news_updated":"2026-09-23T19:40:16.908Z","position":"TE","status":"Inactive","team":"LAC"},
 "5086":{"active":true,"depth_chart_order":4,"depth_chart_position":"LWR","full_name":"Marquez Valdes-Scantling","news_updated":"2026-10-16T04:55:35.798Z","position":"WR","status":"Active","team":"LAC"},
 "6045":{"active":true,"full_name":"Gary Jennings","news_updated":"2026-09-24T22:10:45.959Z","position":"WR","status":"Active","team":"LAC"},
-"6109":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Alec Ingold","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-10-15T20:10:31.411Z","position":"FB","status":"Inactive","team":"LAC"},
+"6109":{"active":true,"depth_chart_order":5,"depth_chart_position":"RB","full_name":"Alec Ingold","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-10-15T20:10:31.411Z","position":"FB","status":"Inactive","team":"LAC"},
 "6111":{"active":true,"full_name":"Jake Browning","news_updated":"2026-10-13T23:55:33.827Z","position":"QB","status":"Active","team":"LAC"},
 "6797":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Justin Herbert","news_updated":"2026-10-14T21:00:08.476Z","position":"QB","status":"Active","team":"LAC"},
 "6866":{"active":true,"full_name":"KJ Hill","news_updated":"2021-10-23T16:20:55.579Z","position":"WR","status":"Active","team":"LAC"},
