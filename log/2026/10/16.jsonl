@@ -30,3 +30,7 @@
 {"detected_between":["2026-10-16T01:35:35Z","2026-10-16T02:05:37Z"],"field":"injury_status","kind":"change","new":"Doubtful","old":null,"player_id":"12521","source":"projections_feed","team":"SEA"}
 {"detected_between":["2026-10-16T01:35:35Z","2026-10-16T02:05:37Z"],"field":"injury_body_part","kind":"change","new":"Shoulder","old":null,"player_id":"12521","source":"projections_feed","team":"SEA"}
 {"detected_between":["2026-10-16T01:35:35Z","2026-10-16T02:05:37Z"],"field":"news_updated","kind":"change","new":"2026-10-16T01:45:33.791Z","old":"2026-10-11T00:50:08.144Z","player_id":"12521","source":"projections_feed","team":"SEA"}
+{"detected_between":["2026-10-16T02:05:36Z","2026-10-16T02:35:36Z"],"field":"news_updated","kind":"change","new":"2026-10-16T02:05:33.243Z","old":"2026-10-12T14:05:28.899Z","player_id":"5012","source":"projections_feed","team":"BAL"}
+{"detected_between":["2026-10-16T02:05:36Z","2026-10-16T02:35:36Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"7526","source":"projections_feed","team":"DEN"}
+{"detected_between":["2026-10-16T02:05:36Z","2026-10-16T02:35:36Z"],"field":"injury_body_part","kind":"change","new":"Shoulder","old":null,"player_id":"7526","source":"projections_feed","team":"DEN"}
+{"detected_between":["2026-10-16T02:05:36Z","2026-10-16T02:35:36Z"],"field":"news_updated","kind":"change","new":"2026-10-16T02:25:33.908Z","old":"2026-10-14T20:05:07.136Z","player_id":"7526","source":"projections_feed","team":"DEN"}
