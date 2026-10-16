@@ -21,7 +21,7 @@
 "12185":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Spencer Shrader","news_updated":"2026-10-12T15:35:28.669Z","position":"K","status":"Active","team":"IND"},
 "12470":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Riley Leonard","news_updated":"2026-10-11T16:05:16.483Z","position":"QB","status":"Active","team":"IND"},
 "12471":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"DJ Giddens","news_updated":"2026-09-27T15:40:52.991Z","position":"RB","status":"Active","team":"IND"},
-"12518":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Tyler Warren","news_updated":"2026-10-12T00:20:22.301Z","position":"TE","status":"Active","team":"IND"},
+"12518":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Tyler Warren","injury_body_part":"Groin","injury_status":"Questionable","news_updated":"2026-10-12T00:20:22.301Z","position":"TE","status":"Active","team":"IND"},
 "12909":{"active":true,"full_name":"Eli Pancol","news_updated":"2026-09-23T21:15:17.577Z","position":"WR","status":"Active","team":"IND"},
 "13333":{"active":true,"depth_chart_order":6,"depth_chart_position":"SWR","full_name":"Deion Burks","news_updated":"2026-04-30T21:20:57.525Z","position":"WR","status":"Active","team":"IND"},
 "13339":{"active":true,"full_name":"Davon Booth","news_updated":"2026-09-02T01:30:25.381Z","position":"RB","status":"Active","team":"IND"},
