@@ -240,3 +240,14 @@
 {"detected_between":["2026-10-17T18:05:35Z","2026-10-17T18:35:35Z"],"field":"news_updated","kind":"change","new":"2026-10-17T18:15:45.767Z","old":"2026-10-13T09:55:09.399Z","player_id":"8150","source":"projections_feed","team":"LAR"}
 {"detected_between":["2026-10-17T18:35:34Z","2026-10-17T19:05:35Z"],"field":"news_updated","kind":"change","new":"2026-10-17T18:45:45.863Z","old":"2026-10-16T21:10:43.387Z","player_id":"3271","source":"projections_feed","team":"LAR"}
 {"detected_between":["2026-10-17T18:35:34Z","2026-10-17T19:05:35Z"],"field":"news_updated","kind":"change","new":"2026-10-17T18:55:46.050Z","old":"2026-10-16T21:55:36.421Z","player_id":"4983","source":"projections_feed","team":"BUF"}
+{"detected_between":["2026-10-17T19:05:35Z","2026-10-17T19:35:35Z"],"field":"injury_status","kind":"change","new":null,"old":"Questionable","player_id":"4663","source":"projections_feed","team":"WAS"}
+{"detected_between":["2026-10-17T19:05:35Z","2026-10-17T19:35:35Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Chest","player_id":"4663","source":"projections_feed","team":"WAS"}
+{"detected_between":["2026-10-17T19:05:35Z","2026-10-17T19:35:35Z"],"field":"injury_status","kind":"change","new":null,"old":"Questionable","player_id":"5927","source":"projections_feed","team":"WAS"}
+{"detected_between":["2026-10-17T19:05:35Z","2026-10-17T19:35:35Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Hamstring","player_id":"5927","source":"projections_feed","team":"WAS"}
+{"detected_between":["2026-10-17T19:05:35Z","2026-10-17T19:35:35Z"],"field":"news_updated","kind":"change","new":"2026-10-17T19:15:46.219Z","old":"2026-10-16T22:05:37.160Z","player_id":"6039","source":"projections_feed","team":"BUF"}
+{"detected_between":["2026-10-17T19:05:35Z","2026-10-17T19:35:35Z"],"field":"injury_status","kind":"change","new":null,"old":"Questionable","player_id":"8135","source":"projections_feed","team":"WAS"}
+{"detected_between":["2026-10-17T19:05:35Z","2026-10-17T19:35:35Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Shoulder","player_id":"8135","source":"projections_feed","team":"WAS"}
+{"detected_between":["2026-10-17T19:05:35Z","2026-10-17T19:35:35Z"],"field":"injury_status","kind":"change","new":null,"old":"Questionable","player_id":"8136","source":"projections_feed","team":"WAS"}
+{"detected_between":["2026-10-17T19:05:35Z","2026-10-17T19:35:35Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Shoulder","player_id":"8136","source":"projections_feed","team":"WAS"}
+{"detected_between":["2026-10-17T19:05:35Z","2026-10-17T19:35:35Z"],"field":"injury_status","kind":"change","new":"IR","old":"Out","player_id":"11630","source":"projections_feed","team":"PIT"}
+{"detected_between":["2026-10-17T19:05:35Z","2026-10-17T19:35:35Z"],"field":"news_updated","kind":"change","new":"2026-10-17T19:10:46.006Z","old":"2026-10-11T23:20:22.236Z","player_id":"13277","source":"projections_feed","team":"NO"}
