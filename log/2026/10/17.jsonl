@@ -55,3 +55,4 @@
 {"detected_between":["2026-10-17T04:05:32Z","2026-10-17T04:35:33Z"],"field":"news_updated","kind":"change","new":"2026-10-17T04:25:39.443Z","old":"2026-09-29T23:45:06.663Z","player_id":"4718","source":"projections_feed","team":"HOU"}
 {"detected_between":["2026-10-17T04:05:32Z","2026-10-17T04:35:33Z"],"field":"news_updated","kind":"change","new":"2026-10-17T04:05:39.224Z","old":"2026-10-14T01:35:33.611Z","player_id":"9757","source":"projections_feed","team":"NO"}
 {"detected_between":["2026-10-17T04:05:32Z","2026-10-17T04:35:33Z"],"field":"news_updated","kind":"change","new":"2026-10-17T04:15:40.503Z","old":"2026-10-15T16:45:11.110Z","player_id":"12474","source":"projections_feed","team":"HOU"}
+{"detected_between":["2026-10-17T05:02:51Z","2026-10-17T05:05:35Z"],"field":"news_updated","kind":"change","new":"2026-10-17T04:50:39.741Z","old":"2026-10-12T00:15:21.333Z","player_id":"11834","source":"projections_feed","team":"NO"}
