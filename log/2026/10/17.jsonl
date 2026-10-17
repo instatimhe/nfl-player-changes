@@ -83,3 +83,4 @@
 {"detected_between":["2026-10-16T22:05:37Z","2026-10-17T07:05:35Z"],"field":"depth_chart_order","kind":"change","new":10,"old":12,"player_id":"13417","source":"players_nfl","team":"SF"}
 {"detected_between":["2026-10-17T07:05:34Z","2026-10-17T07:35:33Z"],"field":"news_updated","kind":"change","new":"2026-10-17T07:05:40.985Z","old":"2026-10-17T02:45:38.620Z","player_id":"8122","source":"projections_feed","team":"ARI"}
 {"detected_between":["2026-10-17T07:05:34Z","2026-10-17T07:35:33Z"],"field":"news_updated","kind":"change","new":"2026-10-17T07:00:40.712Z","old":"2026-10-16T23:05:37.533Z","player_id":"8132","source":"projections_feed","team":"ARI"}
+{"detected_between":["2026-10-17T07:35:33Z","2026-10-17T08:05:36Z"],"field":"news_updated","kind":"change","new":"2026-10-17T07:30:40.871Z","old":"2026-10-15T16:15:10.900Z","player_id":"10232","source":"projections_feed","team":"ARI"}
