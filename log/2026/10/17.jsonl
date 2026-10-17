@@ -164,3 +164,9 @@
 {"detected_between":["2026-10-17T07:05:34Z","2026-10-17T14:35:34Z"],"field":"depth_chart_order","kind":"change","new":10,"old":6,"player_id":"13412","source":"players_nfl","team":"DET"}
 {"detected_between":["2026-10-17T07:05:34Z","2026-10-17T14:35:34Z"],"field":"depth_chart_order","kind":"change","new":12,"old":10,"player_id":"13417","source":"players_nfl","team":"SF"}
 {"detected_between":["2026-10-17T07:05:34Z","2026-10-17T14:35:34Z"],"field":"depth_chart_order","kind":"change","new":4,"old":5,"player_id":"13770","source":"players_nfl","team":"GB"}
+{"detected_between":["2026-10-17T14:35:34Z","2026-10-17T15:05:38Z"],"field":"news_updated","kind":"change","new":"2026-10-17T14:35:44.139Z","old":"2026-10-13T09:55:09.413Z","player_id":"421","source":"projections_feed","team":"LAR"}
+{"detected_between":["2026-10-17T14:35:34Z","2026-10-17T15:05:38Z"],"field":"news_updated","kind":"change","new":"2026-10-17T14:55:44.279Z","old":"2026-10-16T19:40:41.068Z","player_id":"2505","source":"projections_feed","team":"CAR"}
+{"detected_between":["2026-10-17T14:35:34Z","2026-10-17T15:05:38Z"],"field":"news_updated","kind":"change","new":"2026-10-17T14:25:44.062Z","old":"2026-10-17T14:10:44.440Z","player_id":"5859","source":"projections_feed","team":"NE"}
+{"detected_between":["2026-10-17T14:35:34Z","2026-10-17T15:05:38Z"],"field":"news_updated","kind":"change","new":"2026-10-17T14:35:44.138Z","old":"2026-10-14T21:00:08.477Z","player_id":"8121","source":"projections_feed","team":"NE"}
+{"detected_between":["2026-10-17T14:35:34Z","2026-10-17T15:05:38Z"],"field":"news_updated","kind":"change","new":"2026-10-17T14:55:44.279Z","old":"2026-10-13T10:10:09.765Z","player_id":"9493","source":"projections_feed","team":"LAR"}
+{"detected_between":["2026-10-17T14:35:34Z","2026-10-17T15:05:38Z"],"field":"news_updated","kind":"change","new":"2026-10-17T14:40:44.152Z","old":"2026-10-16T20:35:41.465Z","player_id":"12518","source":"projections_feed","team":"IND"}
