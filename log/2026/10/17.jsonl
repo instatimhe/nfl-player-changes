@@ -322,3 +322,7 @@
 {"detected_between":["2026-10-17T14:35:34Z","2026-10-17T22:05:35Z"],"field":"status","kind":"change","new":"Active","old":"Inactive","player_id":"13293","source":"players_nfl","team":"BAL"}
 {"detected_between":["2026-10-17T14:35:34Z","2026-10-17T22:05:35Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"13355","source":"players_nfl","team":"DAL"}
 {"detected_between":["2026-10-17T21:35:32Z","2026-10-17T22:05:35Z"],"field":"news_updated","kind":"change","new":"2026-10-17T21:30:47.193Z","old":"2026-10-13T17:20:47.302Z","player_id":"13414","source":"projections_feed","team":"SF"}
+{"detected_between":["2026-10-17T22:05:34Z","2026-10-17T22:35:34Z"],"field":"news_updated","kind":"change","new":"2026-10-17T21:55:47.206Z","old":"2026-10-15T15:05:16.007Z","player_id":"4217","source":"projections_feed","team":"SF"}
+{"detected_between":["2026-10-17T22:05:34Z","2026-10-17T22:35:34Z"],"field":"news_updated","kind":"change","new":"2026-10-17T22:00:47.419Z","old":"2026-10-12T17:00:03.688Z","player_id":"5189","source":"projections_feed","team":"SF"}
+{"detected_between":["2026-10-17T22:05:34Z","2026-10-17T22:35:34Z"],"field":"news_updated","kind":"change","new":"2026-10-17T22:00:47.969Z","old":"2026-10-16T23:05:37.534Z","player_id":"8168","source":"projections_feed","team":"GB"}
+{"detected_between":["2026-10-17T22:05:34Z","2026-10-17T22:35:34Z"],"field":"news_updated","kind":"change","new":"2026-10-17T21:55:47.770Z","old":"2026-10-17T21:30:47.193Z","player_id":"13414","source":"projections_feed","team":"SF"}
