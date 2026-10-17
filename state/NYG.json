@@ -13,7 +13,7 @@
 "7149":{"active":true,"full_name":"Tommy Stevens","news_updated":"2022-01-04T20:20:09.095Z","position":"TE","status":"Active","team":"NYG"},
 "7528":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Najee Harris","news_updated":"2026-10-17T15:25:44.490Z","position":"RB","status":"Active","team":"NYG"},
 "8125":{"active":true,"depth_chart_order":7,"full_name":"Calvin Austin","injury_body_part":"Knee","injury_status":"IR","news_updated":"2026-08-27T23:35:54.443Z","position":"WR","status":"Inactive","team":"NYG"},
-"8131":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Isaiah Likely","news_updated":"2026-10-15T02:25:09.995Z","position":"TE","status":"Active","team":"NYG"},
+"8131":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Isaiah Likely","news_updated":"2026-10-17T16:10:44.829Z","position":"TE","status":"Active","team":"NYG"},
 "9497":{"active":true,"full_name":"Jalin Hyatt","news_updated":"2026-09-01T01:30:13.024Z","position":"WR","status":"Active","team":"NYG"},
 "10215":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Jake Haener","news_updated":"2026-10-11T16:20:16.568Z","position":"QB","status":"Active","team":"NYG"},
 "10228":{"active":true,"depth_chart_order":4,"depth_chart_position":"LWR","full_name":"Charlie Jones","news_updated":"2026-09-30T00:00:10.830Z","position":"WR","status":"Active","team":"NYG"},
@@ -27,7 +27,7 @@
 "12738":{"active":true,"full_name":"Phil Mafah","news_updated":"2026-09-15T01:15:08.446Z","position":"RB","status":"Active","team":"NYG"},
 "12888":{"active":true,"full_name":"Dalen Cambre","news_updated":"2026-10-13T03:55:06.742Z","position":"WR","status":"Active","team":"NYG"},
 "12946":{"active":true,"full_name":"Dontae Fleming","news_updated":"2026-10-06T23:45:02.783Z","position":"WR","status":"Active","team":"NYG"},
-"13285":{"active":true,"depth_chart_order":2,"depth_chart_position":"RWR","full_name":"Malachi Fields","news_updated":"2026-10-14T01:40:33.455Z","position":"WR","status":"Active","team":"NYG"},
-"13833":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Dominic Zvada","news_updated":"2026-10-12T15:45:28.642Z","position":"K","status":"Active","team":"NYG"},
+"13285":{"active":true,"depth_chart_order":2,"depth_chart_position":"RWR","full_name":"Malachi Fields","news_updated":"2026-10-17T16:05:44.801Z","position":"WR","status":"Active","team":"NYG"},
+"13833":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Dominic Zvada","news_updated":"2026-10-17T16:20:44.902Z","position":"K","status":"Active","team":"NYG"},
 "14071":{"active":true,"full_name":"Grant Finley","news_updated":"2026-09-03T01:50:36.606Z","position":"FB","status":"Active","team":"NYG"}
 }
