@@ -236,3 +236,5 @@
 {"detected_between":["2026-10-17T17:35:35Z","2026-10-17T18:05:35Z"],"field":"news_updated","kind":"change","new":"2026-10-17T17:35:45.402Z","old":"2026-10-04T02:15:38.660Z","player_id":"12524","source":"projections_feed","team":"CLE"}
 {"detected_between":["2026-10-17T17:35:35Z","2026-10-17T18:05:35Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"IR","player_id":"12531","source":"projections_feed","team":"CAR"}
 {"detected_between":["2026-10-17T17:35:35Z","2026-10-17T18:05:35Z"],"field":"injury_notes","kind":"change","new":"Sprain","old":null,"player_id":"12531","source":"projections_feed","team":"CAR"}
+{"detected_between":["2026-10-17T18:05:35Z","2026-10-17T18:35:35Z"],"field":"news_updated","kind":"change","new":"2026-10-17T18:05:45.643Z","old":"2026-10-13T10:10:09.754Z","player_id":"2133","source":"projections_feed","team":"LAR"}
+{"detected_between":["2026-10-17T18:05:35Z","2026-10-17T18:35:35Z"],"field":"news_updated","kind":"change","new":"2026-10-17T18:15:45.767Z","old":"2026-10-13T09:55:09.399Z","player_id":"8150","source":"projections_feed","team":"LAR"}
