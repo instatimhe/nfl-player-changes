@@ -13,7 +13,7 @@
 "9505":{"active":true,"full_name":"Deuce Vaughn","news_updated":"2026-10-06T20:00:47.309Z","position":"RB","status":"Active","team":"HOU"},
 "9758":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"C.J. Stroud","news_updated":"2026-10-17T03:50:39.180Z","position":"QB","status":"Active","team":"HOU"},
 "10218":{"active":true,"depth_chart_order":2,"depth_chart_position":"LWR","full_name":"Xavier Hutchinson","news_updated":"2026-10-17T11:00:42.607Z","position":"WR","status":"Active","team":"HOU"},
-"11588":{"active":true,"full_name":"Jawhar Jordan","news_updated":"2026-09-01T14:15:18.990Z","position":"RB","status":"Active","team":"HOU"},
+"11588":{"active":true,"depth_chart_order":5,"depth_chart_position":"RB","full_name":"Jawhar Jordan","news_updated":"2026-09-01T14:15:18.990Z","position":"RB","status":"Active","team":"HOU"},
 "11599":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Cade Stover","news_updated":"2026-06-02T22:20:50.031Z","position":"TE","status":"Active","team":"HOU"},
 "11628":{"active":true,"depth_chart_order":3,"depth_chart_position":"RWR","full_name":"Marvin Harrison","news_updated":"2026-10-17T10:50:42.531Z","position":"WR","status":"Active","team":"HOU"},
 "11959":{"active":true,"full_name":"Bryce Oliver","news_updated":"2026-10-13T07:35:08.800Z","position":"WR","status":"Active","team":"HOU"},
