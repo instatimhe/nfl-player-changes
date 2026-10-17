@@ -122,3 +122,5 @@
 {"detected_between":["2026-10-17T11:35:38Z","2026-10-17T12:05:38Z"],"field":"news_updated","kind":"change","new":"2026-10-17T11:45:42.895Z","old":"2026-10-16T13:40:38.516Z","player_id":"11620","source":"projections_feed","team":"CHI"}
 {"detected_between":["2026-10-17T11:35:38Z","2026-10-17T12:05:38Z"],"field":"news_updated","kind":"change","new":"2026-10-17T11:35:42.865Z","old":"2026-10-16T01:45:32.995Z","player_id":"12517","source":"projections_feed","team":"CHI"}
 {"detected_between":["2026-10-17T11:35:38Z","2026-10-17T12:05:38Z"],"field":"news_updated","kind":"change","new":"2026-10-17T11:25:42.673Z","old":"2026-10-11T22:30:20.455Z","player_id":"12519","source":"projections_feed","team":"CHI"}
+{"detected_between":["2026-10-17T12:05:37Z","2026-10-17T12:35:33Z"],"field":"news_updated","kind":"change","new":"2026-10-17T12:10:43.128Z","old":"2026-10-12T15:00:29.458Z","player_id":"2020","source":"projections_feed","team":"CHI"}
+{"detected_between":["2026-10-17T12:05:37Z","2026-10-17T12:35:33Z"],"field":"news_updated","kind":"change","new":"2026-10-17T12:05:42.999Z","old":"2026-10-16T23:35:37.821Z","player_id":"11256","source":"projections_feed","team":"CHI"}
