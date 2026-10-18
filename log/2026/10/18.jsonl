@@ -406,3 +406,8 @@
 {"detected_between":["2026-10-18T20:35:34Z","2026-10-18T21:05:35Z"],"field":"injury_body_part","kind":"change","new":"Knee","old":null,"player_id":"11058","source":"projections_feed","team":"LAR"}
 {"detected_between":["2026-10-18T20:35:34Z","2026-10-18T21:05:35Z"],"field":"news_updated","kind":"change","new":"2026-10-18T20:35:59.015Z","old":"2026-10-13T18:05:48.242Z","player_id":"11058","source":"projections_feed","team":"LAR"}
 {"detected_between":["2026-10-18T20:35:34Z","2026-10-18T21:05:35Z"],"field":"news_updated","kind":"change","new":"2026-10-18T20:40:58.407Z","old":"2026-10-18T16:00:56.403Z","player_id":"13276","source":"projections_feed","team":"NYJ"}
+{"detected_between":["2026-10-18T21:05:34Z","2026-10-18T21:35:33Z"],"field":"news_updated","kind":"change","new":"2026-10-18T20:55:58.543Z","old":"2026-10-18T20:35:59.015Z","player_id":"11058","source":"projections_feed","team":"LAR"}
+{"detected_between":["2026-10-18T21:05:34Z","2026-10-18T21:35:33Z"],"field":"news_updated","kind":"change","new":"2026-10-18T20:55:58.543Z","old":"2026-10-15T14:30:17.353Z","player_id":"11565","source":"projections_feed","team":"NYG"}
+{"detected_between":["2026-10-18T21:05:34Z","2026-10-18T21:35:33Z"],"field":"injury_status","kind":"change","new":"Out","old":null,"player_id":"11635","source":"projections_feed","team":"LAC"}
+{"detected_between":["2026-10-18T21:05:34Z","2026-10-18T21:35:33Z"],"field":"injury_body_part","kind":"change","new":"Concussion","old":null,"player_id":"11635","source":"projections_feed","team":"LAC"}
+{"detected_between":["2026-10-18T21:05:34Z","2026-10-18T21:35:33Z"],"field":"news_updated","kind":"change","new":"2026-10-18T21:05:58.521Z","old":"2026-10-17T11:35:42.865Z","player_id":"12517","source":"projections_feed","team":"CHI"}
