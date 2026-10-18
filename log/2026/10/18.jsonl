@@ -397,3 +397,6 @@
 {"detected_between":["2026-10-18T19:35:35Z","2026-10-18T20:05:39Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"13294","source":"projections_feed","team":"PHI"}
 {"detected_between":["2026-10-18T19:35:35Z","2026-10-18T20:05:39Z"],"field":"injury_body_part","kind":"change","new":"Undisclosed","old":null,"player_id":"13294","source":"projections_feed","team":"PHI"}
 {"detected_between":["2026-10-18T19:35:35Z","2026-10-18T20:05:39Z"],"field":"news_updated","kind":"change","new":"2026-10-18T19:40:58.681Z","old":"2026-10-16T21:10:41.880Z","player_id":"13294","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-10-18T20:05:39Z","2026-10-18T20:35:34Z"],"field":"news_updated","kind":"change","new":"2026-10-18T20:15:58.120Z","old":"2026-10-17T15:10:44.426Z","player_id":"2306","source":"projections_feed","team":"NYG"}
+{"detected_between":["2026-10-18T20:05:39Z","2026-10-18T20:35:34Z"],"field":"news_updated","kind":"change","new":"2026-10-18T20:05:58.883Z","old":"2026-10-16T20:55:41.624Z","player_id":"9486","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-10-18T20:05:39Z","2026-10-18T20:35:34Z"],"field":"news_updated","kind":"change","new":"2026-10-18T20:00:58.935Z","old":"2026-10-18T19:40:58.681Z","player_id":"13294","source":"projections_feed","team":"PHI"}
