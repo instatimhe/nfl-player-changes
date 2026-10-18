@@ -17,7 +17,7 @@
 "9229":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Anthony Richardson","news_updated":"2026-10-10T20:05:06.013Z","position":"QB","status":"Active","team":"IND"},
 "9500":{"active":true,"depth_chart_order":1,"depth_chart_position":"SWR","full_name":"Josh Downs","news_updated":"2026-10-17T09:05:41.730Z","position":"WR","status":"Active","team":"IND"},
 "10220":{"active":true,"depth_chart_order":5,"depth_chart_position":"TE","full_name":"Will Mallory","news_updated":"2026-10-17T23:15:48.242Z","position":"TE","status":"Active","team":"IND"},
-"11762":{"active":true,"depth_chart_order":5,"depth_chart_position":"SWR","full_name":"Anthony Gould","news_updated":"2026-09-26T16:30:28.592Z","position":"WR","status":"Active","team":"IND"},
+"11762":{"active":true,"depth_chart_order":5,"depth_chart_position":"SWR","full_name":"Anthony Gould","injury_body_part":"Concussion","injury_status":"Questionable","news_updated":"2026-10-18T18:50:58.231Z","position":"WR","status":"Active","team":"IND"},
 "12185":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Spencer Shrader","news_updated":"2026-10-17T10:10:42.153Z","position":"K","status":"Active","team":"IND"},
 "12470":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Riley Leonard","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-10-18T15:55:56.420Z","position":"QB","status":"Active","team":"IND"},
 "12471":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"DJ Giddens","news_updated":"2026-09-27T15:40:52.991Z","position":"RB","status":"Active","team":"IND"},
