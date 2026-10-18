@@ -4,7 +4,7 @@
 "5001":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Dalton Schultz","news_updated":"2026-10-17T11:20:42.668Z","position":"TE","status":"Active","team":"HOU"},
 "5892":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"David Montgomery","injury_body_part":"Groin","injury_status":"Out","news_updated":"2026-10-15T22:05:31.486Z","position":"RB","status":"Active","team":"HOU"},
 "5985":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Foster Moreau","news_updated":"2026-10-17T11:35:42.893Z","position":"TE","status":"Active","team":"HOU"},
-"7568":{"active":true,"depth_chart_order":5,"depth_chart_position":"TE","full_name":"Brevin Jordan","news_updated":"2026-09-10T00:10:47.871Z","position":"TE","status":"Active","team":"HOU"},
+"7568":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Brevin Jordan","news_updated":"2026-09-10T00:10:47.871Z","position":"TE","status":"Active","team":"HOU"},
 "7569":{"active":true,"depth_chart_order":1,"depth_chart_position":"LWR","full_name":"Nico Collins","news_updated":"2026-10-17T10:40:42.397Z","position":"WR","status":"Active","team":"HOU"},
 "7585":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Davis Mills","news_updated":"2026-10-09T14:20:57.289Z","position":"QB","status":"Active","team":"HOU"},
 "8799":{"active":true,"full_name":"Zaire Mitchell-Paden","news_updated":"2026-09-02T01:00:24.776Z","position":"TE","status":"Active","team":"HOU"},
@@ -23,7 +23,7 @@
 "12536":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Jaylin Noel","news_updated":"2026-10-17T11:15:42.675Z","position":"WR","status":"Active","team":"HOU"},
 "12705":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Graham Mertz","injury_body_part":"Knee - ACL","injury_notes":"Surgery","injury_status":"IR","news_updated":"2026-08-16T06:15:10.169Z","position":"QB","status":"Inactive","team":"HOU"},
 "12848":{"active":true,"full_name":"Josh Kelly","news_updated":"2026-09-01T14:10:19.216Z","position":"WR","status":"Active","team":"HOU"},
-"13307":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Marlin Klein","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-10-11T15:55:16.406Z","position":"TE","status":"Active","team":"HOU"},
+"13307":{"active":true,"depth_chart_order":6,"depth_chart_position":"TE","full_name":"Marlin Klein","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-10-11T15:55:16.406Z","position":"TE","status":"Active","team":"HOU"},
 "13437":{"active":true,"depth_chart_order":7,"depth_chart_position":"RB","full_name":"Noah Whittington","injury_body_part":"Quadriceps","injury_notes":"Strain","injury_status":"Out","news_updated":"2026-10-01T23:25:16.144Z","position":"RB","status":"Active","team":"HOU"},
 "13541":{"active":true,"full_name":"Lewis Bond","news_updated":"2026-09-29T01:20:09.492Z","position":"WR","status":"Active","team":"HOU"},
 "13816":{"active":true,"full_name":"Mark Gronowski","news_updated":"2026-10-13T07:35:08.821Z","position":"QB","status":"Active","team":"HOU"}

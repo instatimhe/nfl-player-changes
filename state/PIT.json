@@ -8,7 +8,7 @@
 "4972":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Mason Rudolph","news_updated":"2026-09-08T19:15:52.795Z","position":"QB","status":"Active","team":"PIT"},
 "5845":{"active":false,"full_name":"Dwayne Haskins","news_updated":"2022-04-09T15:30:40.714Z","position":"QB","status":"Active","team":"PIT"},
 "5846":{"active":true,"depth_chart_order":1,"depth_chart_position":"LWR","full_name":"DK Metcalf","news_updated":"2026-10-17T16:45:46.501Z","position":"WR","status":"Active","team":"PIT"},
-"6012":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Travis Homer","news_updated":"2026-10-02T23:25:40.985Z","position":"RB","status":"Active","team":"PIT"},
+"6012":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Travis Homer","news_updated":"2026-10-02T23:25:40.985Z","position":"RB","status":"Active","team":"PIT"},
 "6016":{"active":true,"full_name":"Dax Raymond","news_updated":"2021-10-13T03:15:04.503Z","position":"TE","status":"Active","team":"PIT"},
 "6819":{"active":true,"depth_chart_order":6,"full_name":"Michael Pittman","injury_body_part":"Foot","injury_notes":"Plantar Fasciitis","injury_status":"IR","news_updated":"2026-10-11T01:25:09.934Z","position":"WR","status":"Inactive","team":"PIT"},
 "6920":{"active":true,"full_name":"Isaiah Hodgins","news_updated":"2026-09-22T23:45:09.813Z","position":"WR","status":"Active","team":"PIT"},
@@ -25,7 +25,7 @@
 "13274":{"active":true,"depth_chart_order":2,"depth_chart_position":"RWR","full_name":"Germie Bernard","news_updated":"2026-10-18T03:00:49.351Z","position":"WR","status":"Active","team":"PIT"},
 "13289":{"active":true,"depth_chart_order":4,"depth_chart_position":"QB","full_name":"Drew Allar","news_updated":"2026-10-11T16:25:16.613Z","position":"QB","status":"Active","team":"PIT"},
 "13292":{"active":true,"full_name":"Lake McRee","news_updated":"2026-09-03T03:30:37.835Z","position":"TE","status":"Active","team":"PIT"},
-"13423":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Eli Heidenreich","news_updated":"2026-10-11T16:35:16.804Z","position":"RB","status":"Active","team":"PIT"},
-"13433":{"active":true,"depth_chart_order":5,"depth_chart_position":"RB","full_name":"Riley Nowakowski","news_updated":"2026-06-11T22:20:04.734Z","position":"RB","status":"Active","team":"PIT"},
+"13423":{"active":true,"depth_chart_order":5,"depth_chart_position":"RB","full_name":"Eli Heidenreich","news_updated":"2026-10-11T16:35:16.804Z","position":"RB","status":"Active","team":"PIT"},
+"13433":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Riley Nowakowski","news_updated":"2026-06-11T22:20:04.734Z","position":"RB","status":"Active","team":"PIT"},
 "13491":{"active":true,"depth_chart_order":5,"depth_chart_position":"SWR","full_name":"Kaden Wetjen","news_updated":"2026-08-28T06:50:57.819Z","position":"WR","status":"Active","team":"PIT"}
 }
