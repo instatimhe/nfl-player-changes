@@ -1,6 +1,6 @@
 {
 "4033":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"David Njoku","injury_body_part":"Lower Leg","injury_status":"IR","news_updated":"2026-09-23T19:40:16.908Z","position":"TE","status":"Inactive","team":"LAC"},
-"5086":{"active":true,"depth_chart_order":4,"depth_chart_position":"LWR","full_name":"Marquez Valdes-Scantling","news_updated":"2026-10-16T19:35:42.369Z","position":"WR","status":"Active","team":"LAC"},
+"5086":{"active":true,"depth_chart_order":4,"depth_chart_position":"LWR","full_name":"Marquez Valdes-Scantling","news_updated":"2026-10-18T02:15:49.801Z","position":"WR","status":"Active","team":"LAC"},
 "6045":{"active":true,"full_name":"Gary Jennings","news_updated":"2026-09-24T22:10:45.959Z","position":"WR","status":"Active","team":"LAC"},
 "6109":{"active":true,"depth_chart_order":5,"depth_chart_position":"RB","full_name":"Alec Ingold","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-10-15T20:10:31.411Z","position":"FB","status":"Inactive","team":"LAC"},
 "6111":{"active":true,"full_name":"Jake Browning","news_updated":"2026-10-13T23:55:33.827Z","position":"QB","status":"Active","team":"LAC"},
@@ -18,7 +18,7 @@
 "12493":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Oronde Gadsden","news_updated":"2026-10-17T17:00:45.102Z","position":"TE","status":"Active","team":"LAC"},
 "12507":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Omarion Hampton","news_updated":"2026-10-17T16:45:45.256Z","position":"RB","status":"Active","team":"LAC"},
 "12509":{"active":true,"depth_chart_order":8,"depth_chart_position":"RWR","full_name":"Tre' Harris","injury_body_part":"Hamstring","injury_status":"Out","news_updated":"2026-10-16T23:50:37.966Z","position":"WR","status":"Active","team":"LAC"},
-"12670":{"active":true,"depth_chart_order":9,"depth_chart_position":"LWR","full_name":"KeAndre Lambert-Smith","injury_body_part":"Hamstring","injury_status":"Questionable","news_updated":"2026-10-17T01:35:38.831Z","position":"WR","status":"Inactive","team":"LAC"},
+"12670":{"active":true,"depth_chart_order":9,"depth_chart_position":"LWR","full_name":"KeAndre Lambert-Smith","injury_body_part":"Hamstring","injury_status":"Questionable","news_updated":"2026-10-18T02:00:49.662Z","position":"WR","status":"Inactive","team":"LAC"},
 "12773":{"active":true,"depth_chart_order":4,"depth_chart_position":"QB","full_name":"DJ Uiagalelei","news_updated":"2026-10-04T19:20:12.759Z","position":"QB","status":"Active","team":"LAC"},
 "12803":{"active":true,"full_name":"Luke Grimm","news_updated":"2026-10-15T05:35:12.999Z","position":"WR","status":"Active","team":"LAC"},
 "12860":{"active":true,"depth_chart_order":3,"depth_chart_position":"RWR","full_name":"Theo Wease","news_updated":"2026-10-11T01:10:09.072Z","position":"WR","status":"Active","team":"LAC"},
