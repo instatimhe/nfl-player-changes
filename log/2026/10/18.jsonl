@@ -195,3 +195,4 @@
 {"detected_between":["2026-10-18T07:05:34Z","2026-10-18T14:35:35Z"],"field":"depth_chart_order","kind":"change","new":3,"old":5,"player_id":"13433","source":"players_nfl","team":"PIT"}
 {"detected_between":["2026-10-18T07:05:34Z","2026-10-18T14:35:35Z"],"field":"depth_chart_order","kind":"change","new":6,"old":5,"player_id":"13630","source":"players_nfl","team":"LAC"}
 {"detected_between":["2026-10-18T07:05:34Z","2026-10-18T14:35:35Z"],"field":"depth_chart_order","kind":"change","new":12,"old":9,"player_id":"13898","source":"players_nfl","team":"LV"}
+{"detected_between":["2026-10-18T14:35:34Z","2026-10-18T15:05:35Z"],"field":"news_updated","kind":"change","new":"2026-10-18T14:50:55.153Z","old":"2026-10-18T13:40:54.880Z","player_id":"5859","source":"projections_feed","team":"NE"}
