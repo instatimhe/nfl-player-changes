@@ -1,6 +1,6 @@
 {
 "421":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Matthew Stafford","news_updated":"2026-10-19T12:30:08.280Z","position":"QB","status":"Active","team":"LAR"},
-"2133":{"active":true,"depth_chart_order":2,"depth_chart_position":"LWR","full_name":"Davante Adams","news_updated":"2026-10-19T12:35:07.900Z","position":"WR","status":"Active","team":"LAR"},
+"2133":{"active":true,"depth_chart_order":2,"depth_chart_position":"LWR","full_name":"Davante Adams","injury_body_part":"Knee","injury_notes":"Ruptured","injury_status":"Out","news_updated":"2026-10-19T21:00:11.880Z","position":"WR","status":"Active","team":"LAR"},
 "3271":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Tyler Higbee","news_updated":"2026-10-19T12:40:08.353Z","position":"TE","status":"Active","team":"LAR"},
 "6386":{"active":true,"depth_chart_order":5,"depth_chart_position":"SWR","full_name":"Alex Bachman","news_updated":"2026-10-03T23:40:38.254Z","position":"WR","status":"Active","team":"LAR"},
 "6865":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Colby Parkinson","news_updated":"2026-10-19T12:40:08.336Z","position":"TE","status":"Active","team":"LAR"},
