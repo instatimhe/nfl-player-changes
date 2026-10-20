@@ -275,3 +275,4 @@
 {"detected_between":["2026-10-20T19:35:36Z","2026-10-20T20:05:37Z"],"field":"news_updated","kind":"change","new":"2026-10-20T19:55:38.284Z","old":"2026-10-19T06:15:05.475Z","player_id":"9479","source":"projections_feed","team":"PIT"}
 {"detected_between":["2026-10-20T19:35:36Z","2026-10-20T20:05:37Z"],"field":"injury_status","kind":"change","new":"Out","old":null,"player_id":"11748","source":"projections_feed","team":"CLE"}
 {"detected_between":["2026-10-20T19:35:36Z","2026-10-20T20:05:37Z"],"field":"injury_body_part","kind":"change","new":"Knee","old":null,"player_id":"11748","source":"projections_feed","team":"CLE"}
+{"detected_between":["2026-10-20T20:05:37Z","2026-10-20T20:35:41Z"],"field":"news_updated","kind":"change","new":"2026-10-20T20:20:38.327Z","old":"2026-10-14T13:20:37.607Z","player_id":"7049","source":"projections_feed","team":"MIN"}
