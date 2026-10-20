@@ -1,7 +1,7 @@
 {
 "2471":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Michael Burton","news_updated":"2026-06-04T22:20:36.881Z","position":"FB","status":"Active","team":"CLE"},
 "4017":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Deshaun Watson","news_updated":"2026-10-20T20:50:38.478Z","position":"QB","status":"Active","team":"CLE"},
-"6783":{"active":true,"depth_chart_order":3,"depth_chart_position":"RWR","full_name":"Jerry Jeudy","news_updated":"2026-10-19T02:25:03.171Z","position":"WR","status":"Active","team":"CLE"},
+"6783":{"active":true,"depth_chart_order":3,"depth_chart_position":"RWR","full_name":"Jerry Jeudy","news_updated":"2026-10-20T22:05:45.973Z","position":"WR","status":"Active","team":"CLE"},
 "7048":{"active":true,"full_name":"Benny LeMay","news_updated":"2022-01-06T17:40:17.822Z","position":"RB","status":"Active","team":"CLE"},
 "7537":{"active":true,"full_name":"Jaret Patterson","news_updated":"2026-10-07T19:26:00.293Z","position":"RB","status":"Active","team":"CLE"},
 "7595":{"active":true,"depth_chart_order":5,"depth_chart_position":"RWR","full_name":"Tylan Wallace","news_updated":"2026-10-17T01:55:39.011Z","position":"WR","status":"Active","team":"CLE"},
@@ -12,7 +12,7 @@
 "11579":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Audric Estime","news_updated":"2026-10-19T23:45:32.818Z","position":"RB","status":"Active","team":"CLE"},
 "11617":{"active":true,"depth_chart_order":6,"depth_chart_position":"SWR","full_name":"Malachi Corley","news_updated":"2026-06-13T00:20:34.068Z","position":"WR","status":"Active","team":"CLE"},
 "11748":{"active":true,"full_name":"Bub Means","injury_body_part":"Knee","injury_status":"Out","news_updated":"2026-09-11T06:05:24.115Z","position":"WR","status":"Active","team":"CLE"},
-"11820":{"active":true,"full_name":"Devin Culp","news_updated":"2026-10-13T21:55:33.182Z","position":"TE","status":"Active","team":"CLE"},
+"11820":{"active":true,"full_name":"Devin Culp","news_updated":"2026-10-20T22:25:46.537Z","position":"TE","status":"Active","team":"CLE"},
 "12469":{"active":true,"depth_chart_order":5,"depth_chart_position":"RB","full_name":"Dylan Sampson","injury_body_part":"Knee","injury_status":"IR","news_updated":"2026-10-20T17:55:39.368Z","position":"RB","status":"Inactive","team":"CLE"},
 "12472":{"active":true,"depth_chart_order":7,"depth_chart_position":"RB","full_name":"Raheim Sanders","injury_body_part":"Hip","injury_status":"IR","news_updated":"2026-10-13T21:40:32.904Z","position":"RB","status":"Inactive","team":"CLE"},
 "12486":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Dillon Gabriel","injury_body_part":"Back","injury_status":"IR","news_updated":"2026-10-16T17:45:41.902Z","position":"QB","status":"Inactive","team":"CLE"},
