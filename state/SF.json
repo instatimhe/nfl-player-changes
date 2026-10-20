@@ -1,7 +1,7 @@
 {
 "1379":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Kyle Juszczyk","news_updated":"2026-10-16T23:25:37.724Z","position":"FB","status":"Active","team":"SF"},
 "2197":{"active":true,"depth_chart_order":3,"depth_chart_position":"SWR","full_name":"Brandin Cooks","news_updated":"2026-10-17T21:50:47.202Z","position":"WR","status":"Active","team":"SF"},
-"2216":{"active":true,"depth_chart_order":1,"depth_chart_position":"LWR","full_name":"Mike Evans","news_updated":"2026-10-19T23:15:11.452Z","position":"WR","status":"Active","team":"SF"},
+"2216":{"active":true,"depth_chart_order":1,"depth_chart_position":"LWR","full_name":"Mike Evans","injury_body_part":"Achilles","injury_status":"Questionable","news_updated":"2026-10-20T01:50:33.009Z","position":"WR","status":"Active","team":"SF"},
 "3286":{"active":true,"depth_chart_order":5,"depth_chart_position":"LWR","full_name":"Demarcus Robinson","injury_body_part":"Ankle","injury_status":"IR","news_updated":"2026-10-16T06:10:36.902Z","position":"WR","status":"Inactive","team":"SF"},
 "4034":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Christian McCaffrey","news_updated":"2026-10-17T21:20:47.044Z","position":"RB","status":"Active","team":"SF"},
 "4217":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"George Kittle","news_updated":"2026-10-17T21:55:47.206Z","position":"TE","status":"Active","team":"SF"},
