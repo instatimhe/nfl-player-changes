@@ -262,3 +262,4 @@
 {"detected_between":["2026-10-20T17:10:37Z","2026-10-20T17:35:35Z"],"field":"news_updated","kind":"change","new":"2026-10-20T17:20:39.265Z","old":"2026-10-19T03:15:04.166Z","player_id":"13424","source":"projections_feed","team":"IND"}
 {"detected_between":["2026-10-20T17:35:35Z","2026-10-20T18:01:04Z"],"field":"news_updated","kind":"change","new":"2026-10-20T17:35:39.268Z","old":"2026-10-19T15:40:08.050Z","player_id":"6904","source":"projections_feed","team":"PHI"}
 {"detected_between":["2026-10-20T17:35:35Z","2026-10-20T18:01:04Z"],"field":"news_updated","kind":"change","new":"2026-10-20T17:40:39.340Z","old":"2026-10-19T20:15:11.377Z","player_id":"9502","source":"projections_feed","team":"HOU"}
+{"detected_between":["2026-10-20T18:01:04Z","2026-10-20T18:05:39Z"],"field":"news_updated","kind":"change","new":"2026-10-20T17:55:39.368Z","old":"2026-10-19T18:20:10.822Z","player_id":"12469","source":"projections_feed","team":"CLE"}
