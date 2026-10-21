@@ -181,3 +181,4 @@
 {"detected_between":["2026-10-21T07:05:40Z","2026-10-21T07:35:36Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"13827","source":"projections_feed","team":"NE"}
 {"detected_between":["2026-10-21T07:05:40Z","2026-10-21T07:35:36Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13827","source":"projections_feed","team":"NE"}
 {"detected_between":["2026-10-21T07:05:40Z","2026-10-21T07:35:36Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"IR","player_id":"13898","source":"projections_feed","team":"LV"}
+{"detected_between":["2026-10-21T13:05:41Z","2026-10-21T13:35:36Z"],"field":"news_updated","kind":"change","new":"2026-10-21T13:15:51.823Z","old":"2026-10-20T19:15:37.890Z","player_id":"5850","source":"projections_feed","team":"GB"}
