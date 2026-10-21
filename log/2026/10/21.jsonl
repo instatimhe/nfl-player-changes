@@ -273,3 +273,4 @@
 {"detected_between":["2026-10-21T07:05:40Z","2026-10-21T14:35:38Z"],"field":"depth_chart_order","kind":"change","new":4,"old":6,"player_id":"13827","source":"players_nfl","team":"NE"}
 {"detected_between":["2026-10-21T07:05:40Z","2026-10-21T14:35:38Z"],"field":"depth_chart_order","kind":"change","new":7,"old":8,"player_id":"13879","source":"players_nfl","team":"ARI"}
 {"detected_between":["2026-10-21T07:05:40Z","2026-10-21T14:35:38Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"13964","source":"players_nfl","team":"NE"}
+{"detected_between":["2026-10-21T15:05:37Z","2026-10-21T15:35:37Z"],"field":"news_updated","kind":"change","new":"2026-10-21T15:10:52.653Z","old":"2026-09-15T02:35:08.828Z","player_id":"11593","source":"projections_feed","team":"DAL"}
