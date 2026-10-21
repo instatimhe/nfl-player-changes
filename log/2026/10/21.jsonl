@@ -431,3 +431,9 @@
 {"detected_between":["2026-10-21T20:35:37Z","2026-10-21T21:05:41Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Concussion","player_id":"13400","source":"projections_feed","team":"MIA"}
 {"detected_between":["2026-10-21T20:35:37Z","2026-10-21T21:05:41Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"13434","source":"projections_feed","team":"MIA"}
 {"detected_between":["2026-10-21T20:35:37Z","2026-10-21T21:05:41Z"],"field":"injury_body_part","kind":"change","new":"Hamstring","old":null,"player_id":"13434","source":"projections_feed","team":"MIA"}
+{"detected_between":["2026-10-21T21:05:41Z","2026-10-21T21:35:36Z"],"field":"news_updated","kind":"change","new":"2026-10-21T21:00:52.074Z","old":"2026-10-21T20:10:55.000Z","player_id":"4981","source":"projections_feed","team":"TEN"}
+{"detected_between":["2026-10-21T21:05:41Z","2026-10-21T21:35:36Z"],"field":"news_updated","kind":"change","new":"2026-10-21T21:15:51.065Z","old":"2026-10-21T17:15:53.747Z","player_id":"7571","source":"projections_feed","team":"BAL"}
+{"detected_between":["2026-10-21T21:05:41Z","2026-10-21T21:35:36Z"],"field":"news_updated","kind":"change","new":"2026-10-21T21:05:50.341Z","old":"2026-10-19T09:55:06.731Z","player_id":"11581","source":"projections_feed","team":"GB"}
+{"detected_between":["2026-10-21T21:05:41Z","2026-10-21T21:35:36Z"],"field":"news_updated","kind":"change","new":"2026-10-21T21:15:50.454Z","old":"2026-10-19T17:45:09.184Z","player_id":"13345","source":"projections_feed","team":"DEN"}
+{"detected_between":["2026-10-21T21:05:41Z","2026-10-21T21:35:36Z"],"field":"injury_status","kind":"change","new":null,"old":"Questionable","player_id":"13477","source":"projections_feed","team":"CIN"}
+{"detected_between":["2026-10-21T21:05:41Z","2026-10-21T21:35:36Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Knee","player_id":"13477","source":"projections_feed","team":"CIN"}
