@@ -1,8 +1,8 @@
 {
 "1479":{"active":true,"depth_chart_order":2,"depth_chart_position":"RWR","full_name":"Keenan Allen","news_updated":"2026-10-19T19:35:09.721Z","position":"WR","status":"Active","team":"IND"},
 "1706":{"active":true,"full_name":"Jack Doyle","news_updated":"2022-03-07T20:35:55.679Z","position":"TE","status":"Active","team":"IND"},
-"3155":{"active":true,"depth_chart_order":3,"depth_chart_position":"SWR","full_name":"Laquon Treadwell","news_updated":"2026-10-19T03:15:03.732Z","position":"WR","status":"Active","team":"IND"},
-"4054":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Mo Alie-Cox","news_updated":"2026-10-04T12:10:43.481Z","position":"TE","status":"Active","team":"IND"},
+"3155":{"active":true,"depth_chart_order":3,"depth_chart_position":"SWR","full_name":"Laquon Treadwell","news_updated":"2026-10-21T01:15:47.787Z","position":"WR","status":"Active","team":"IND"},
+"4054":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Mo Alie-Cox","news_updated":"2026-10-21T01:05:47.781Z","position":"TE","status":"Active","team":"IND"},
 "4443":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Pharaoh Brown","news_updated":"2026-10-13T21:20:31.707Z","position":"TE","status":"Active","team":"IND"},
 "4937":{"active":true,"full_name":"Al Riles","position":"WR","status":"Active","team":"IND"},
 "5870":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Daniel Jones","news_updated":"2026-10-19T19:00:09.847Z","position":"QB","status":"Active","team":"IND"},
@@ -17,7 +17,7 @@
 "8489":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Drew Ogletree","news_updated":"2026-09-13T22:35:58.022Z","position":"TE","status":"Active","team":"IND"},
 "9229":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Anthony Richardson","news_updated":"2026-10-10T20:05:06.013Z","position":"QB","status":"Active","team":"IND"},
 "9500":{"active":true,"depth_chart_order":1,"depth_chart_position":"SWR","full_name":"Josh Downs","news_updated":"2026-10-19T03:05:03.520Z","position":"WR","status":"Active","team":"IND"},
-"10220":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Will Mallory","news_updated":"2026-10-17T23:15:48.242Z","position":"TE","status":"Active","team":"IND"},
+"10220":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Will Mallory","news_updated":"2026-10-21T01:15:47.754Z","position":"TE","status":"Active","team":"IND"},
 "11762":{"active":true,"depth_chart_order":5,"depth_chart_position":"SWR","full_name":"Anthony Gould","injury_body_part":"Concussion","injury_status":"Questionable","news_updated":"2026-10-18T18:50:58.231Z","position":"WR","status":"Active","team":"IND"},
 "12185":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Spencer Shrader","news_updated":"2026-10-20T02:50:34.468Z","position":"K","status":"Active","team":"IND"},
 "12470":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Riley Leonard","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-10-18T15:55:56.420Z","position":"QB","status":"Active","team":"IND"},
@@ -27,5 +27,5 @@
 "13333":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Deion Burks","news_updated":"2026-10-19T03:15:03.718Z","position":"WR","status":"Active","team":"IND"},
 "13339":{"active":true,"full_name":"Davon Booth","news_updated":"2026-09-02T01:30:25.381Z","position":"RB","status":"Active","team":"IND"},
 "13407":{"active":true,"depth_chart_order":6,"depth_chart_position":"TE","full_name":"Carson Towt","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-08-19T07:20:54.406Z","position":"TE","status":"Inactive","team":"IND"},
-"13424":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Seth McGowan","news_updated":"2026-10-20T17:20:39.265Z","position":"RB","status":"Active","team":"IND"}
+"13424":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Seth McGowan","news_updated":"2026-10-21T01:00:47.698Z","position":"RB","status":"Active","team":"IND"}
 }
