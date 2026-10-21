@@ -1,5 +1,5 @@
 {
-"1466":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Travis Kelce","news_updated":"2026-10-19T01:35:01.914Z","position":"TE","status":"Active","team":"KC"},
+"1466":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Travis Kelce","injury_body_part":"Ankle","injury_status":"Questionable","news_updated":"2026-10-21T23:25:51.399Z","position":"TE","status":"Active","team":"KC"},
 "4046":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Patrick Mahomes","news_updated":"2026-10-19T01:15:02.798Z","position":"QB","status":"Active","team":"KC"},
 "4227":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Harrison Butker","news_updated":"2026-10-20T02:30:34.086Z","position":"K","status":"Active","team":"KC"},
 "4263":{"active":true,"full_name":"Elijah McGuire","news_updated":"2022-01-19T23:10:17.596Z","position":"RB","status":"Active","team":"KC"},
@@ -19,7 +19,7 @@
 "12505":{"active":true,"depth_chart_order":2,"depth_chart_position":"LWR","full_name":"Jalen Royals","news_updated":"2026-10-21T01:15:47.754Z","position":"WR","status":"Active","team":"KC"},
 "12817":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Jake Briningstool","news_updated":"2026-09-28T01:00:58.710Z","position":"TE","status":"Active","team":"KC"},
 "12863":{"active":true,"full_name":"Andrew Armstrong","news_updated":"2026-10-20T01:45:33.873Z","position":"WR","status":"Active","team":"KC"},
-"12897":{"active":true,"full_name":"Nate Carter","news_updated":"2026-10-21T16:55:54.724Z","position":"RB","status":"Active","team":"KC"},
+"12897":{"active":true,"full_name":"Nate Carter","news_updated":"2026-10-21T23:25:52.066Z","position":"RB","status":"Active","team":"KC"},
 "13173":{"active":true,"depth_chart_order":9,"depth_chart_position":"RWR","full_name":"Jimmy Holiday","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-08-31T17:45:14.766Z","position":"WR","status":"Inactive","team":"KC"},
 "13337":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Emmett Johnson","news_updated":"2026-10-20T05:25:34.597Z","position":"RB","status":"Active","team":"KC"},
 "13342":{"active":true,"depth_chart_order":6,"depth_chart_position":"TE","full_name":"John Michael Gyllenborg","injury_body_part":"Knee","injury_status":"IR","news_updated":"2026-07-28T22:00:01.616Z","position":"TE","status":"Inactive","team":"KC"},
