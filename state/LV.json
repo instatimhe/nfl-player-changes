@@ -12,7 +12,7 @@
 "9482":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Michael Mayer","news_updated":"2026-10-20T01:25:32.946Z","position":"TE","status":"Active","team":"LV"},
 "9490":{"active":true,"depth_chart_order":8,"full_name":"Tyler Scott","injury_body_part":"Undisclosed","injury_status":"Out","news_updated":"2026-10-12T23:30:06.517Z","position":"WR","status":"Active","team":"LV"},
 "10213":{"active":true,"depth_chart_order":1,"depth_chart_position":"LWR","full_name":"Tre Tucker","news_updated":"2026-10-19T18:00:09.264Z","position":"WR","status":"Active","team":"LV"},
-"10866":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Aidan O'Connell","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-10-18T19:15:58.510Z","position":"QB","status":"Active","team":"LV"},
+"10866":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Aidan O'Connell","news_updated":"2026-10-18T19:15:58.510Z","position":"QB","status":"Active","team":"LV"},
 "11384":{"active":true,"full_name":"Owen Wright","news_updated":"2026-09-30T18:00:20.512Z","position":"RB","status":"Active","team":"LV"},
 "11574":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Dylan Laube","news_updated":"2026-10-19T16:35:10.264Z","position":"RB","status":"Active","team":"LV"},
 "11604":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Brock Bowers","news_updated":"2026-10-19T16:25:10.016Z","position":"TE","status":"Active","team":"LV"},
@@ -27,6 +27,6 @@
 "13329":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Malik Benson","news_updated":"2026-09-21T12:45:05.313Z","position":"WR","status":"Active","team":"LV"},
 "13416":{"active":true,"full_name":"Roman Hemby","news_updated":"2026-10-13T02:30:13.283Z","position":"RB","status":"Active","team":"LV"},
 "13804":{"active":true,"full_name":"Kansei Matsuzawa","news_updated":"2026-09-02T02:30:25.439Z","position":"K","status":"Active","team":"LV"},
-"13898":{"active":true,"full_name":"Corey Rucker","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-10-20T23:55:47.334Z","position":"WR","status":"Inactive","team":"LV"},
+"13898":{"active":true,"full_name":"Corey Rucker","injury_body_part":"Undisclosed","injury_status":"Questionable","news_updated":"2026-10-20T23:55:47.334Z","position":"WR","status":"Inactive","team":"LV"},
 "13913":{"active":true,"full_name":"Patrick Gurd","news_updated":"2026-09-08T07:50:48.477Z","position":"TE","status":"Active","team":"LV"}
 }
