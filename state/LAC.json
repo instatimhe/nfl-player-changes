@@ -23,7 +23,7 @@
 "12860":{"active":true,"depth_chart_order":3,"depth_chart_position":"RWR","full_name":"Theo Wease Jr.","news_updated":"2026-10-11T01:10:09.072Z","position":"WR","status":"Active","team":"LAC"},
 "12901":{"active":true,"full_name":"Patrick Herbert","news_updated":"2026-10-06T01:20:39.745Z","position":"TE","status":"Active","team":"LAC"},
 "12928":{"active":true,"full_name":"Amar Johnson","news_updated":"2025-07-19T18:30:10.943Z","position":"RB","status":"Active","team":"LAC"},
-"13380":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Brenen Thompson","news_updated":"2026-10-18T19:20:58.454Z","position":"WR","status":"Active","team":"LAC"},
+"13380":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Brenen Thompson","injury_body_part":"Quadriceps","injury_status":"Questionable","news_updated":"2026-10-22T14:50:10.785Z","position":"WR","status":"Active","team":"LAC"},
 "13603":{"active":true,"full_name":"Gregory Desrosiers","news_updated":"2026-09-02T02:30:25.422Z","position":"RB","status":"Active","team":"LAC"},
 "13630":{"active":true,"depth_chart_order":6,"depth_chart_position":"TE","full_name":"Evan Svoboda","injury_body_part":"Undisclosed","injury_status":"Out","news_updated":"2026-10-14T23:40:09.262Z","position":"TE","status":"Active","team":"LAC"}
 }
