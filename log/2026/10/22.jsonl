@@ -291,3 +291,14 @@
 {"detected_between":["2026-10-22T22:05:37Z","2026-10-22T22:35:38Z"],"field":"news_updated","kind":"change","new":"2026-10-22T22:25:16.015Z","old":"2026-10-19T12:30:08.252Z","player_id":"9493","source":"projections_feed","team":"LAR"}
 {"detected_between":["2026-10-22T22:05:37Z","2026-10-22T22:35:38Z"],"field":"news_updated","kind":"change","new":"2026-10-22T22:05:13.411Z","old":"2026-10-22T21:00:13.822Z","player_id":"10229","source":"projections_feed","team":"KC"}
 {"detected_between":["2026-10-22T22:05:37Z","2026-10-22T22:35:38Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Doubtful","player_id":"13287","source":"projections_feed","team":"ARI"}
+{"detected_between":["2026-10-22T22:35:38Z","2026-10-22T23:05:36Z"],"field":"injury_status","kind":"change","new":"Out","old":null,"player_id":"1737","source":"projections_feed","team":"CHI"}
+{"detected_between":["2026-10-22T22:35:38Z","2026-10-22T23:05:36Z"],"field":"injury_body_part","kind":"change","new":"Coach's Decision","old":null,"player_id":"1737","source":"projections_feed","team":"CHI"}
+{"detected_between":["2026-10-22T22:35:38Z","2026-10-22T23:05:36Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"5022","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-10-22T22:35:38Z","2026-10-22T23:05:36Z"],"field":"injury_body_part","kind":"change","new":"Knee","old":null,"player_id":"5022","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-10-22T22:35:38Z","2026-10-22T23:05:36Z"],"field":"news_updated","kind":"change","new":"2026-10-22T22:30:14.451Z","old":"2026-10-22T03:50:55.014Z","player_id":"5844","source":"projections_feed","team":"MIN"}
+{"detected_between":["2026-10-22T22:35:38Z","2026-10-22T23:05:36Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"7525","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-10-22T22:35:38Z","2026-10-22T23:05:36Z"],"field":"injury_body_part","kind":"change","new":"Hamstring","old":null,"player_id":"7525","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-10-22T22:35:38Z","2026-10-22T23:05:36Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"9486","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-10-22T22:35:38Z","2026-10-22T23:05:36Z"],"field":"injury_body_part","kind":"change","new":"Ankle","old":null,"player_id":"9486","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-10-22T22:35:38Z","2026-10-22T23:05:36Z"],"field":"injury_status","kind":"change","new":"Out","old":null,"player_id":"13295","source":"projections_feed","team":"NE"}
+{"detected_between":["2026-10-22T22:35:38Z","2026-10-22T23:05:36Z"],"field":"injury_body_part","kind":"change","new":"Coach's Decision","old":null,"player_id":"13295","source":"projections_feed","team":"NE"}
