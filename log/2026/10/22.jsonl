@@ -116,3 +116,6 @@
 {"detected_between":["2026-10-22T14:35:37Z","2026-10-22T15:05:40Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"13380","source":"projections_feed","team":"LAC"}
 {"detected_between":["2026-10-22T14:35:37Z","2026-10-22T15:05:40Z"],"field":"injury_body_part","kind":"change","new":"Quadriceps","old":null,"player_id":"13380","source":"projections_feed","team":"LAC"}
 {"detected_between":["2026-10-22T14:35:37Z","2026-10-22T15:05:40Z"],"field":"news_updated","kind":"change","new":"2026-10-22T14:50:10.785Z","old":"2026-10-18T19:20:58.454Z","player_id":"13380","source":"projections_feed","team":"LAC"}
+{"detected_between":["2026-10-22T15:05:40Z","2026-10-22T15:35:35Z"],"field":"news_updated","kind":"change","new":"2026-10-22T15:00:10.887Z","old":"2026-10-20T10:00:38.078Z","player_id":"4217","source":"projections_feed","team":"SF"}
+{"detected_between":["2026-10-22T15:05:40Z","2026-10-22T15:35:35Z"],"field":"news_updated","kind":"change","new":"2026-10-22T15:15:10.346Z","old":"2026-10-19T09:35:05.561Z","player_id":"9228","source":"projections_feed","team":"CAR"}
+{"detected_between":["2026-10-22T15:05:40Z","2026-10-22T15:35:35Z"],"field":"news_updated","kind":"change","new":"2026-10-22T15:05:10.492Z","old":"2026-10-22T14:05:10.044Z","player_id":"10235","source":"projections_feed","team":"CHI"}
