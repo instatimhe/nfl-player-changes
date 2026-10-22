@@ -89,3 +89,10 @@
 {"detected_between":["2026-10-22T04:35:34Z","2026-10-22T05:05:35Z"],"field":"news_updated","kind":"change","new":"2026-10-22T04:55:53.960Z","old":"2026-10-18T21:41:00.611Z","player_id":"12474","source":"projections_feed","team":"HOU"}
 {"detected_between":["2026-10-22T04:35:34Z","2026-10-22T05:05:35Z"],"field":"news_updated","kind":"change","new":"2026-10-22T04:35:55.672Z","old":"2026-10-21T22:35:51.606Z","player_id":"13277","source":"projections_feed","team":"NO"}
 {"detected_between":["2026-10-22T05:05:35Z","2026-10-22T05:35:36Z"],"field":"news_updated","kind":"change","new":"2026-10-22T05:05:53.896Z","old":"2026-10-19T09:40:06.325Z","player_id":"11646","source":"projections_feed","team":"CAR"}
+{"detected_between":["2026-10-21T22:05:35Z","2026-10-22T07:05:38Z"],"field":"depth_chart_position","kind":"change","new":null,"old":"LWR","player_id":"5781","source":"players_nfl","team":"SF"}
+{"detected_between":["2026-10-21T22:05:35Z","2026-10-22T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":null,"old":7,"player_id":"5781","source":"players_nfl","team":"SF"}
+{"detected_between":["2026-10-21T22:05:35Z","2026-10-22T07:05:38Z"],"field":"depth_chart_position","kind":"change","new":"RWR","old":null,"player_id":"6819","source":"players_nfl","team":"PIT"}
+{"detected_between":["2026-10-22T06:35:35Z","2026-10-22T07:05:38Z"],"field":"news_updated","kind":"change","new":"2026-10-22T06:45:54.767Z","old":"2026-10-19T08:20:06.546Z","player_id":"7611","source":"projections_feed","team":"NE"}
+{"detected_between":["2026-10-22T06:35:35Z","2026-10-22T07:05:38Z"],"field":"news_updated","kind":"change","new":"2026-10-22T06:45:54.793Z","old":"2026-10-19T06:15:04.818Z","player_id":"11564","source":"projections_feed","team":"NE"}
+{"detected_between":["2026-10-22T06:35:35Z","2026-10-22T07:05:38Z"],"field":"news_updated","kind":"change","new":"2026-10-22T06:45:54.769Z","old":"2026-10-19T08:30:06.684Z","player_id":"12529","source":"projections_feed","team":"NE"}
+{"detected_between":["2026-10-21T22:05:35Z","2026-10-22T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":null,"old":6,"player_id":"13345","source":"players_nfl","team":"DEN"}
