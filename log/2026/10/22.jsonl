@@ -96,3 +96,6 @@
 {"detected_between":["2026-10-22T06:35:35Z","2026-10-22T07:05:38Z"],"field":"news_updated","kind":"change","new":"2026-10-22T06:45:54.793Z","old":"2026-10-19T06:15:04.818Z","player_id":"11564","source":"projections_feed","team":"NE"}
 {"detected_between":["2026-10-22T06:35:35Z","2026-10-22T07:05:38Z"],"field":"news_updated","kind":"change","new":"2026-10-22T06:45:54.769Z","old":"2026-10-19T08:30:06.684Z","player_id":"12529","source":"projections_feed","team":"NE"}
 {"detected_between":["2026-10-21T22:05:35Z","2026-10-22T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":null,"old":6,"player_id":"13345","source":"players_nfl","team":"DEN"}
+{"detected_between":["2026-10-22T07:05:38Z","2026-10-22T07:35:36Z"],"field":"news_updated","kind":"change","new":"2026-10-22T06:50:54.795Z","old":"2026-10-19T22:40:11.119Z","player_id":"3214","source":"projections_feed","team":"NE"}
+{"detected_between":["2026-10-22T07:05:38Z","2026-10-22T07:35:36Z"],"field":"news_updated","kind":"change","new":"2026-10-22T06:50:54.794Z","old":"2026-10-19T22:45:11.098Z","player_id":"9501","source":"projections_feed","team":"NE"}
+{"detected_between":["2026-10-22T07:05:38Z","2026-10-22T07:35:36Z"],"field":"news_updated","kind":"change","new":"2026-10-22T06:55:55.020Z","old":"2026-10-20T03:05:34.417Z","player_id":"12713","source":"projections_feed","team":"NE"}
