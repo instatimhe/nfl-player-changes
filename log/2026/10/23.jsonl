@@ -43,3 +43,7 @@
 {"detected_between":["2026-10-23T02:05:35Z","2026-10-23T02:35:36Z"],"field":"news_updated","kind":"change","new":"2026-10-23T02:25:15.610Z","old":"2026-10-22T20:50:13.736Z","player_id":"9481","source":"projections_feed","team":"GB"}
 {"detected_between":["2026-10-23T02:05:35Z","2026-10-23T02:35:36Z"],"field":"news_updated","kind":"change","new":"2026-10-23T02:05:15.381Z","old":"2026-10-23T00:20:16.433Z","player_id":"9486","source":"projections_feed","team":"PHI"}
 {"detected_between":["2026-10-23T02:35:35Z","2026-10-23T03:05:32Z"],"field":"news_updated","kind":"change","new":"2026-10-23T02:35:15.808Z","old":"2026-10-22T16:40:11.173Z","player_id":"6813","source":"projections_feed","team":"IND"}
+{"detected_between":["2026-10-23T03:05:31Z","2026-10-23T03:35:33Z"],"field":"news_updated","kind":"change","new":"2026-10-23T03:20:16.128Z","old":"2026-10-23T01:00:14.954Z","player_id":"4866","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-10-23T03:05:31Z","2026-10-23T03:35:33Z"],"field":"injury_status","kind":"change","new":"Out","old":null,"player_id":"6826","source":"projections_feed","team":"CHI"}
+{"detected_between":["2026-10-23T03:05:31Z","2026-10-23T03:35:33Z"],"field":"injury_body_part","kind":"change","new":"Knee","old":null,"player_id":"6826","source":"projections_feed","team":"CHI"}
+{"detected_between":["2026-10-23T03:05:31Z","2026-10-23T03:35:33Z"],"field":"news_updated","kind":"change","new":"2026-10-23T03:20:17.170Z","old":"2026-10-18T23:06:01.702Z","player_id":"6826","source":"projections_feed","team":"CHI"}
