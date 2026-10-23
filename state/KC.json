@@ -1,6 +1,6 @@
 {
-"1466":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Travis Kelce","injury_body_part":"Ankle","injury_status":"Questionable","news_updated":"2026-10-23T00:00:14.456Z","position":"TE","status":"Active","team":"KC"},
-"4046":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Patrick Mahomes","news_updated":"2026-10-21T23:45:53.424Z","position":"QB","status":"Active","team":"KC"},
+"1466":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Travis Kelce","news_updated":"2026-10-23T19:45:24.198Z","position":"TE","status":"Active","team":"KC"},
+"4046":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Patrick Mahomes","news_updated":"2026-10-23T19:55:23.813Z","position":"QB","status":"Active","team":"KC"},
 "4227":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Harrison Butker","news_updated":"2026-10-20T02:30:34.086Z","position":"K","status":"Active","team":"KC"},
 "4263":{"active":true,"full_name":"Elijah McGuire","news_updated":"2022-01-19T23:10:17.596Z","position":"RB","status":"Active","team":"KC"},
 "5374":{"active":true,"full_name":"Justin Watson","news_updated":"2026-10-20T01:45:33.886Z","position":"WR","status":"Active","team":"KC"},
@@ -15,7 +15,7 @@
 "11320":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Nikko Remigio","news_updated":"2026-09-16T00:30:54.938Z","position":"WR","status":"Active","team":"KC"},
 "11595":{"active":true,"depth_chart_order":5,"depth_chart_position":"TE","full_name":"Jared Wiley","news_updated":"2026-10-04T19:35:12.596Z","position":"TE","status":"Active","team":"KC"},
 "11624":{"active":true,"depth_chart_order":1,"depth_chart_position":"RWR","full_name":"Xavier Worthy","news_updated":"2026-10-22T20:05:12.560Z","position":"WR","status":"Active","team":"KC"},
-"12455":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Brashard Smith","injury_body_part":"Hamstring","injury_status":"Questionable","news_updated":"2026-09-28T01:00:58.664Z","position":"RB","status":"Active","team":"KC"},
+"12455":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Brashard Smith","injury_body_part":"Hamstring","injury_status":"Out","news_updated":"2026-09-28T01:00:58.664Z","position":"RB","status":"Active","team":"KC"},
 "12505":{"active":true,"depth_chart_order":2,"depth_chart_position":"LWR","full_name":"Jalen Royals","news_updated":"2026-10-21T01:15:47.754Z","position":"WR","status":"Active","team":"KC"},
 "12817":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Jake Briningstool","news_updated":"2026-09-28T01:00:58.710Z","position":"TE","status":"Active","team":"KC"},
 "12863":{"active":true,"full_name":"Andrew Armstrong","news_updated":"2026-10-20T01:45:33.873Z","position":"WR","status":"Active","team":"KC"},
