@@ -67,3 +67,16 @@
 {"detected_between":["2026-10-23T05:05:35Z","2026-10-23T05:35:32Z"],"field":"news_updated","kind":"change","new":"2026-10-23T05:20:17.023Z","old":"2026-10-23T04:05:16.839Z","player_id":"7611","source":"projections_feed","team":"NE"}
 {"detected_between":["2026-10-23T05:05:35Z","2026-10-23T05:35:32Z"],"field":"news_updated","kind":"change","new":"2026-10-23T05:10:16.857Z","old":"2026-10-23T04:30:17.141Z","player_id":"12517","source":"projections_feed","team":"CHI"}
 {"detected_between":["2026-10-23T05:05:35Z","2026-10-23T05:35:32Z"],"field":"news_updated","kind":"change","new":"2026-10-23T05:05:17.472Z","old":"2026-10-22T06:45:54.769Z","player_id":"12529","source":"projections_feed","team":"NE"}
+{"detected_between":["2026-10-22T22:05:37Z","2026-10-23T07:05:40Z"],"field":"depth_chart_order","kind":"change","new":4,"old":3,"player_id":"8177","source":"players_nfl","team":"PHI"}
+{"detected_between":["2026-10-22T22:05:37Z","2026-10-23T07:05:40Z"],"field":"depth_chart_order","kind":"change","new":4,"old":3,"player_id":"9225","source":"players_nfl","team":"PHI"}
+{"detected_between":["2026-10-22T22:05:37Z","2026-10-23T07:05:40Z"],"field":"depth_chart_order","kind":"change","new":6,"old":5,"player_id":"10867","source":"players_nfl","team":"SEA"}
+{"detected_between":["2026-10-22T22:05:37Z","2026-10-23T07:05:40Z"],"field":"depth_chart_position","kind":"change","new":"RB","old":null,"player_id":"11299","source":"players_nfl","team":"CHI"}
+{"detected_between":["2026-10-22T22:05:37Z","2026-10-23T07:05:40Z"],"field":"depth_chart_order","kind":"change","new":5,"old":null,"player_id":"11299","source":"players_nfl","team":"CHI"}
+{"detected_between":["2026-10-22T22:05:37Z","2026-10-23T07:05:40Z"],"field":"depth_chart_order","kind":"change","new":5,"old":4,"player_id":"11577","source":"players_nfl","team":"PHI"}
+{"detected_between":["2026-10-22T22:05:37Z","2026-10-23T07:05:40Z"],"field":"depth_chart_order","kind":"change","new":9,"old":8,"player_id":"11636","source":"players_nfl","team":"PHI"}
+{"detected_between":["2026-10-22T22:05:37Z","2026-10-23T07:05:40Z"],"field":"depth_chart_position","kind":"change","new":null,"old":"TE","player_id":"12217","source":"players_nfl","team":"ARI"}
+{"detected_between":["2026-10-22T22:05:37Z","2026-10-23T07:05:40Z"],"field":"depth_chart_order","kind":"change","new":null,"old":7,"player_id":"12217","source":"players_nfl","team":"ARI"}
+{"detected_between":["2026-10-22T22:05:37Z","2026-10-23T07:05:40Z"],"field":"depth_chart_order","kind":"change","new":4,"old":3,"player_id":"12521","source":"players_nfl","team":"SEA"}
+{"detected_between":["2026-10-22T22:05:37Z","2026-10-23T07:05:40Z"],"field":"depth_chart_order","kind":"change","new":5,"old":4,"player_id":"13151","source":"players_nfl","team":"SEA"}
+{"detected_between":["2026-10-22T22:05:37Z","2026-10-23T07:05:40Z"],"field":"depth_chart_order","kind":"change","new":8,"old":6,"player_id":"13199","source":"players_nfl","team":"SEA"}
+{"detected_between":["2026-10-22T22:05:37Z","2026-10-23T07:05:40Z"],"field":"depth_chart_order","kind":"change","new":5,"old":4,"player_id":"13349","source":"players_nfl","team":"PHI"}
