@@ -1,5 +1,5 @@
 {
-"2750":{"active":true,"depth_chart_order":4,"depth_chart_position":"RWR","full_name":"DeAndre Carter","news_updated":"2026-10-22T21:10:13.567Z","position":"WR","status":"Active","team":"DET"},
+"2750":{"active":true,"depth_chart_order":5,"depth_chart_position":"RWR","full_name":"DeAndre Carter","news_updated":"2026-10-22T21:10:13.567Z","position":"WR","status":"Active","team":"DET"},
 "3163":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Jared Goff","news_updated":"2026-10-12T15:20:29.799Z","position":"QB","status":"Active","team":"DET"},
 "4179":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Joshua Dobbs","news_updated":"2026-08-30T01:10:51.731Z","position":"QB","status":"Active","team":"DET"},
 "5133":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Tyler Conklin","news_updated":"2026-09-27T16:10:53.291Z","position":"TE","status":"Active","team":"DET"},
@@ -9,7 +9,7 @@
 "7891":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Brock Wright","news_updated":"2026-09-14T12:55:04.135Z","position":"TE","status":"Active","team":"DET"},
 "8148":{"active":true,"depth_chart_order":2,"depth_chart_position":"RWR","full_name":"Jameson Williams","news_updated":"2026-10-22T01:45:52.442Z","position":"WR","status":"Active","team":"DET"},
 "8205":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Isiah Pacheco","injury_body_part":"Back","injury_status":"IR","news_updated":"2026-09-14T22:25:06.229Z","position":"RB","status":"Inactive","team":"DET"},
-"8250":{"active":true,"depth_chart_order":5,"depth_chart_position":"LWR","full_name":"Tay Martin","news_updated":"2026-09-05T14:35:17.601Z","position":"WR","status":"Active","team":"DET"},
+"8250":{"active":true,"depth_chart_order":4,"depth_chart_position":"LWR","full_name":"Tay Martin","news_updated":"2026-09-05T14:35:17.601Z","position":"WR","status":"Active","team":"DET"},
 "9221":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Jahmyr Gibbs","news_updated":"2026-10-12T15:30:29.963Z","position":"RB","status":"Active","team":"DET"},
 "10859":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Sam LaPorta","news_updated":"2026-10-21T20:15:54.471Z","position":"TE","status":"Active","team":"DET"},
 "11237":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Jacob Saylors","news_updated":"2026-09-19T00:50:50.554Z","position":"RB","status":"Active","team":"DET"},
