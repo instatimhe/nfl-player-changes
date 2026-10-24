@@ -1,7 +1,7 @@
 {
 "96":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Aaron Rodgers","news_updated":"2026-10-24T00:25:52.276Z","position":"QB","status":"Active","team":"PIT"},
 "138":{"active":true,"full_name":"Ben Roethlisberger","news_updated":"2022-01-27T15:20:17.250Z","position":"QB","status":"Active","team":"PIT"},
-"1945":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Chris Boswell","news_updated":"2026-10-20T02:00:34.313Z","position":"K","status":"Active","team":"PIT"},
+"1945":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Chris Boswell","news_updated":"2026-10-24T03:00:53.129Z","position":"K","status":"Active","team":"PIT"},
 "2118":{"active":true,"full_name":"Eric Ebron","news_updated":"2024-12-04T20:00:17.170Z","position":"TE","status":"Inactive","team":"PIT"},
 "4602":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Robert Tonyan","news_updated":"2026-06-05T01:15:39.428Z","position":"TE","status":"Active","team":"PIT"},
 "4926":{"active":true,"full_name":"Nick Schuessler","position":"QB","status":"Active","team":"PIT"},
@@ -13,7 +13,7 @@
 "6016":{"active":true,"full_name":"Dax Raymond","news_updated":"2021-10-13T03:15:04.503Z","position":"TE","status":"Active","team":"PIT"},
 "6819":{"active":true,"depth_chart_order":5,"depth_chart_position":"RWR","full_name":"Michael Pittman Jr.","injury_body_part":"Foot","injury_notes":"Plantar Fasciitis","injury_status":"IR","news_updated":"2026-10-11T01:25:09.934Z","position":"WR","status":"Inactive","team":"PIT"},
 "6920":{"active":true,"full_name":"Isaiah Hodgins","news_updated":"2026-09-22T23:45:09.813Z","position":"WR","status":"Active","team":"PIT"},
-"7021":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Rico Dowdle","injury_body_part":"Knee","injury_status":"Questionable","news_updated":"2026-10-23T20:30:24.705Z","position":"RB","status":"Active","team":"PIT"},
+"7021":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Rico Dowdle","injury_body_part":"Knee","injury_status":"Questionable","news_updated":"2026-10-24T03:00:53.130Z","position":"RB","status":"Active","team":"PIT"},
 "7600":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Pat Freiermuth","news_updated":"2026-10-24T02:05:52.882Z","position":"TE","status":"Active","team":"PIT"},
 "7757":{"active":true,"depth_chart_order":7,"depth_chart_position":"RWR","full_name":"Ben Skowronek","injury_body_part":"Calf","injury_status":"Out","news_updated":"2026-10-22T21:55:14.007Z","position":"WR","status":"Active","team":"PIT"},
 "7865":{"active":true,"full_name":"Brandon Smith","news_updated":"2026-10-20T01:55:33.827Z","position":"WR","status":"Active","team":"PIT"},
