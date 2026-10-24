@@ -267,3 +267,4 @@
 {"detected_between":["2026-10-24T18:05:34Z","2026-10-24T18:35:33Z"],"field":"news_updated","kind":"change","new":"2026-10-24T17:55:59.054Z","old":"2026-10-13T04:15:06.747Z","player_id":"12516","source":"projections_feed","team":"TEN"}
 {"detected_between":["2026-10-24T18:05:34Z","2026-10-24T18:35:33Z"],"field":"news_updated","kind":"change","new":"2026-10-24T18:20:58.456Z","old":"2026-10-24T16:30:57.746Z","player_id":"12718","source":"projections_feed","team":"LAR"}
 {"detected_between":["2026-10-24T18:05:34Z","2026-10-24T18:35:33Z"],"field":"news_updated","kind":"change","new":"2026-10-24T18:05:58.864Z","old":"2026-09-02T02:10:25.468Z","player_id":"13419","source":"projections_feed","team":"KC"}
+{"detected_between":["2026-10-24T18:35:33Z","2026-10-24T19:05:36Z"],"field":"news_updated","kind":"change","new":"2026-10-24T18:40:58.535Z","old":"2026-10-24T01:15:53.433Z","player_id":"10220","source":"projections_feed","team":"IND"}
