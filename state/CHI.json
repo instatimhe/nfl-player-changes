@@ -9,7 +9,7 @@
 "6451":{"active":true,"full_name":"Stephen Carlson","news_updated":"2026-09-02T00:40:24.489Z","position":"TE","status":"Active","team":"CHI"},
 "6465":{"active":true,"full_name":"Thomas Ives","news_updated":"2021-08-21T00:30:56.455Z","position":"WR","status":"Inactive","team":"CHI"},
 "6790":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"D'Andre Swift","news_updated":"2026-10-23T14:25:22.537Z","position":"RB","status":"Active","team":"CHI"},
-"6826":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Cole Kmet","injury_body_part":"Knee","injury_status":"IR","news_updated":"2026-10-23T21:40:52.432Z","position":"TE","status":"Inactive","team":"CHI"},
+"6826":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Cole Kmet","injury_body_part":"Knee","injury_status":"IR","news_updated":"2026-10-23T21:40:52.432Z","position":"TE","status":"Inactive","team":"CHI"},
 "6918":{"active":true,"full_name":"Salvon Ahmed","news_updated":"2026-09-02T00:20:24.202Z","position":"RB","status":"Active","team":"CHI"},
 "8107":{"active":true,"depth_chart_order":5,"depth_chart_position":"TE","full_name":"Nikola Kalinic","injury_body_part":"Knee","injury_status":"IR","news_updated":"2026-08-18T23:40:50.285Z","position":"TE","status":"Inactive","team":"CHI"},
 "8423":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Brittain Brown","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-08-31T16:25:13.409Z","position":"RB","status":"Inactive","team":"CHI"},
@@ -27,7 +27,7 @@
 "12746":{"active":true,"full_name":"JP Richardson","news_updated":"2026-09-02T00:55:24.614Z","position":"WR","status":"Active","team":"CHI"},
 "13079":{"active":true,"depth_chart_order":5,"depth_chart_position":"LWR","full_name":"Jahdae Walker","news_updated":"2026-10-19T18:50:10.148Z","position":"WR","status":"Active","team":"CHI"},
 "13310":{"active":true,"full_name":"Miller Moss","news_updated":"2026-09-16T01:05:55.094Z","position":"QB","status":"Active","team":"CHI"},
-"13322":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Sam Roush","news_updated":"2026-10-24T04:15:54.157Z","position":"TE","status":"Active","team":"CHI"},
+"13322":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Sam Roush","news_updated":"2026-10-24T04:15:54.157Z","position":"TE","status":"Active","team":"CHI"},
 "13411":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Zavion Thomas","news_updated":"2026-10-18T23:06:01.647Z","position":"WR","status":"Active","team":"CHI"},
 "13712":{"active":true,"depth_chart_order":7,"depth_chart_position":"TE","full_name":"Hayden Large","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-09-01T23:45:23.960Z","position":"TE","status":"Inactive","team":"CHI"}
 }
