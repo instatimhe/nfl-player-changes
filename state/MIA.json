@@ -12,7 +12,7 @@
 "11056":{"active":true,"full_name":"Jared Wayne","news_updated":"2026-10-13T22:05:32.169Z","position":"WR","status":"Active","team":"MIA"},
 "11186":{"active":true,"full_name":"Carlos Washington Jr.","news_updated":"2026-10-13T03:05:06.851Z","position":"RB","status":"Active","team":"MIA"},
 "11610":{"active":true,"depth_chart_order":1,"depth_chart_position":"SWR","full_name":"Malik Washington","news_updated":"2026-10-25T04:00:01.845Z","position":"WR","status":"Active","team":"MIA"},
-"11643":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Jaylen Wright","news_updated":"2026-10-24T13:20:56.672Z","position":"RB","status":"Active","team":"MIA"},
+"11643":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Jaylen Wright","injury_body_part":"Quadriceps","injury_status":"Questionable","news_updated":"2026-10-25T20:15:08.784Z","position":"RB","status":"Active","team":"MIA"},
 "12494":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Kyle McCord","news_updated":"2026-09-01T21:15:21.661Z","position":"QB","status":"Active","team":"MIA"},
 "12495":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Ollie Gordon II","news_updated":"2026-10-24T13:10:56.624Z","position":"RB","status":"Active","team":"MIA"},
 "12538":{"active":true,"full_name":"Brady Cook","news_updated":"2026-10-15T05:45:13.272Z","position":"QB","status":"Active","team":"MIA"},
