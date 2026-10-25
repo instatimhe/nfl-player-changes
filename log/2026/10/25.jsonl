@@ -100,3 +100,5 @@
 {"detected_between":["2026-10-25T13:05:36Z","2026-10-25T13:35:32Z"],"field":"news_updated","kind":"change","new":"2026-10-25T13:10:05.535Z","old":"2026-10-23T23:00:52.516Z","player_id":"6271","source":"projections_feed","team":"ATL"}
 {"detected_between":["2026-10-25T13:05:36Z","2026-10-25T13:35:32Z"],"field":"news_updated","kind":"change","new":"2026-10-25T13:05:05.434Z","old":"2026-10-20T22:05:45.973Z","player_id":"6783","source":"projections_feed","team":"CLE"}
 {"detected_between":["2026-10-25T13:05:36Z","2026-10-25T13:35:32Z"],"field":"news_updated","kind":"change","new":"2026-10-25T13:15:08.470Z","old":"2026-10-24T18:55:58.658Z","player_id":"11655","source":"projections_feed","team":"NYG"}
+{"detected_between":["2026-10-25T13:35:32Z","2026-10-25T14:05:34Z"],"field":"news_updated","kind":"change","new":"2026-10-25T13:45:05.776Z","old":"2026-10-24T15:40:57.480Z","player_id":"8126","source":"projections_feed","team":"TEN"}
+{"detected_between":["2026-10-25T13:35:32Z","2026-10-25T14:05:34Z"],"field":"news_updated","kind":"change","new":"2026-10-25T13:40:07.102Z","old":"2026-10-25T12:25:05.154Z","player_id":"8155","source":"projections_feed","team":"NYJ"}
