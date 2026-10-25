@@ -11,7 +11,7 @@
 "8188":{"active":true,"depth_chart_order":7,"depth_chart_position":"LWR","full_name":"Tyquan Thornton","injury_body_part":"Ankle","injury_notes":"Surgery","injury_status":"IR","news_updated":"2026-10-13T18:35:48.519Z","position":"WR","status":"Inactive","team":"KC"},
 "8924":{"active":true,"full_name":"Thomas Odukoya","news_updated":"2026-09-07T00:15:34.498Z","position":"TE","status":"Active","team":"KC"},
 "10229":{"active":true,"depth_chart_order":8,"depth_chart_position":"SWR","full_name":"Rashee Rice","injury_body_part":"Hamstring","injury_status":"Out","news_updated":"2026-10-23T19:05:25.105Z","position":"WR","status":"Active","team":"KC"},
-"11273":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Ben VanSumeren","news_updated":"2026-09-16T01:15:55.303Z","position":"RB","status":"Active","team":"KC"},
+"11273":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Ben VanSumeren","news_updated":"2026-09-16T01:15:55.303Z","position":"RB","status":"Active","team":"KC"},
 "11320":{"active":true,"depth_chart_order":5,"depth_chart_position":"SWR","full_name":"Nikko Remigio","news_updated":"2026-09-16T00:30:54.938Z","position":"WR","status":"Active","team":"KC"},
 "11595":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Jared Wiley","news_updated":"2026-10-04T19:35:12.596Z","position":"TE","status":"Active","team":"KC"},
 "11624":{"active":true,"depth_chart_order":1,"depth_chart_position":"RWR","full_name":"Xavier Worthy","news_updated":"2026-10-23T22:25:52.444Z","position":"WR","status":"Active","team":"KC"},
@@ -26,6 +26,6 @@
 "13392":{"active":true,"depth_chart_order":10,"full_name":"Jeff Caldwell","injury_body_part":"Knee","injury_notes":"Soreness","injury_status":"IR","news_updated":"2026-08-25T23:15:41.662Z","position":"WR","status":"Inactive","team":"KC"},
 "13404":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Garrett Nussmeier","news_updated":"2026-10-04T19:35:12.571Z","position":"QB","status":"Active","team":"KC"},
 "13413":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Cyrus Allen","news_updated":"2026-10-23T20:10:23.877Z","position":"WR","status":"Active","team":"KC"},
-"13419":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Jaydn Ott","news_updated":"2026-10-24T18:05:58.864Z","position":"RB","status":"Active","team":"KC"},
+"13419":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Jaydn Ott","news_updated":"2026-10-24T18:05:58.864Z","position":"RB","status":"Active","team":"KC"},
 "13905":{"active":true,"full_name":"Omari Evans","news_updated":"2026-09-02T02:05:25.183Z","position":"WR","status":"Active","team":"KC"}
 }
