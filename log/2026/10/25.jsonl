@@ -72,3 +72,5 @@
 {"detected_between":["2026-10-24T22:05:34Z","2026-10-25T07:05:34Z"],"field":"depth_chart_order","kind":"change","new":6,"old":8,"player_id":"13879","source":"players_nfl","team":"ARI"}
 {"detected_between":["2026-10-24T22:05:34Z","2026-10-25T07:05:34Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"13964","source":"players_nfl","team":"NE"}
 {"detected_between":["2026-10-25T11:05:35Z","2026-10-25T11:35:34Z"],"field":"news_updated","kind":"change","new":"2026-10-25T11:20:05.419Z","old":"2026-10-24T02:35:52.922Z","player_id":"12481","source":"projections_feed","team":"NYG"}
+{"detected_between":["2026-10-25T11:35:34Z","2026-10-25T12:05:34Z"],"field":"news_updated","kind":"change","new":"2026-10-25T11:50:05.360Z","old":"2026-10-24T15:05:57.350Z","player_id":"8155","source":"projections_feed","team":"NYJ"}
+{"detected_between":["2026-10-25T11:35:34Z","2026-10-25T12:05:34Z"],"field":"news_updated","kind":"change","new":"2026-10-25T11:50:05.360Z","old":"2026-10-25T01:40:01.087Z","player_id":"13305","source":"projections_feed","team":"LV"}
