@@ -20,7 +20,7 @@
 "12356":{"active":true,"full_name":"Jabari Small","news_updated":"2026-09-08T07:50:48.514Z","position":"RB","status":"Active","team":"DET"},
 "12535":{"active":true,"depth_chart_order":3,"depth_chart_position":"LWR","full_name":"Isaac TeSlaa","news_updated":"2026-10-24T14:30:57.145Z","position":"WR","status":"Active","team":"DET"},
 "12732":{"active":true,"full_name":"Dominic Lovett","news_updated":"2026-09-02T01:10:24.792Z","position":"WR","status":"Active","team":"DET"},
-"12938":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Jackson Meeks","news_updated":"2026-10-11T19:20:18.556Z","position":"TE","status":"Active","team":"DET"},
+"12938":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Jackson Meeks","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-10-11T19:20:18.556Z","position":"TE","status":"Active","team":"DET"},
 "13249":{"active":true,"full_name":"Thomas Gordon","news_updated":"2026-09-02T01:10:24.804Z","position":"TE","status":"Active","team":"DET"},
 "13314":{"active":true,"full_name":"Luke Altmyer","news_updated":"2026-09-02T01:05:25.671Z","position":"QB","status":"Active","team":"DET"},
 "13412":{"active":true,"depth_chart_order":10,"full_name":"Kendrick Law","injury_body_part":"Knee - ACL","injury_status":"IR","news_updated":"2026-06-18T07:55:16.050Z","position":"WR","status":"Inactive","team":"DET"},
