@@ -3,7 +3,7 @@
 "4037":{"active":true,"depth_chart_order":1,"depth_chart_position":"SWR","full_name":"Chris Godwin Jr.","news_updated":"2026-10-23T19:45:23.749Z","position":"WR","status":"Active","team":"TB"},
 "4892":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Baker Mayfield","injury_body_part":"Thumb","injury_status":"Questionable","news_updated":"2026-10-23T19:20:23.499Z","position":"QB","status":"Active","team":"TB"},
 "6037":{"active":true,"full_name":"Brett Rypien","news_updated":"2026-09-30T06:00:14.952Z","position":"QB","status":"Active","team":"TB"},
-"6154":{"active":true,"depth_chart_order":5,"depth_chart_position":"RWR","full_name":"David Sills V","news_updated":"2026-10-23T00:30:15.636Z","position":"WR","status":"Active","team":"TB"},
+"6154":{"active":true,"depth_chart_order":5,"depth_chart_position":"LWR","full_name":"David Sills V","news_updated":"2026-10-23T00:30:15.636Z","position":"WR","status":"Active","team":"TB"},
 "6185":{"active":true,"full_name":"Easton Stick","news_updated":"2026-10-20T02:00:34.333Z","position":"QB","status":"Active","team":"TB"},
 "6650":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Chase McLaughlin","news_updated":"2026-10-20T02:00:34.331Z","position":"K","status":"Active","team":"TB"},
 "7567":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Kenny Gainwell","news_updated":"2026-10-24T02:30:52.828Z","position":"RB","status":"Active","team":"TB"},
@@ -22,6 +22,6 @@
 "13308":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Bauer Sharp","news_updated":"2026-06-02T23:20:50.830Z","position":"TE","status":"Active","team":"TB"},
 "13316":{"active":true,"full_name":"Eric Rivers Jr.","news_updated":"2026-09-03T04:50:38.534Z","position":"WR","status":"Active","team":"TB"},
 "13317":{"active":true,"depth_chart_order":2,"depth_chart_position":"RWR","full_name":"Ted Hurst III","news_updated":"2026-10-24T15:10:57.331Z","position":"WR","status":"Active","team":"TB"},
-"13425":{"active":true,"depth_chart_order":4,"depth_chart_position":"QB","full_name":"Jalon Daniels","news_updated":"2026-10-24T01:30:53.466Z","position":"QB","status":"Active","team":"TB"},
+"13425":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Jalon Daniels","news_updated":"2026-10-24T01:30:53.466Z","position":"QB","status":"Active","team":"TB"},
 "14020":{"active":true,"full_name":"Dean Patterson IV","news_updated":"2026-09-03T04:40:38.344Z","position":"WR","status":"Active","team":"TB"}
 }
