@@ -334,3 +334,4 @@
 {"detected_between":["2026-10-26T07:03:03Z","2026-10-26T14:35:37Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"13423","source":"players_nfl","team":"PIT"}
 {"detected_between":["2026-10-26T07:03:03Z","2026-10-26T14:35:37Z"],"field":"depth_chart_order","kind":"change","new":6,"old":5,"player_id":"13433","source":"players_nfl","team":"PIT"}
 {"detected_between":["2026-10-26T07:03:03Z","2026-10-26T14:35:37Z"],"field":"depth_chart_order","kind":"change","new":4,"old":6,"player_id":"13577","source":"players_nfl","team":"DEN"}
+{"detected_between":["2026-10-26T14:35:36Z","2026-10-26T15:05:39Z"],"field":"news_updated","kind":"change","new":"2026-10-26T14:45:16.261Z","old":"2026-10-26T01:50:12.984Z","player_id":"13345","source":"projections_feed","team":"DEN"}
