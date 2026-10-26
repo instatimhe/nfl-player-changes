@@ -1,9 +1,9 @@
 {
 "1379":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Kyle Juszczyk","news_updated":"2026-10-26T01:40:12.140Z","position":"FB","status":"Active","team":"SF"},
 "2197":{"active":true,"depth_chart_order":3,"depth_chart_position":"LWR","full_name":"Brandin Cooks","news_updated":"2026-10-24T19:25:58.836Z","position":"WR","status":"Active","team":"SF"},
-"2216":{"active":true,"depth_chart_order":5,"depth_chart_position":"LWR","full_name":"Mike Evans","injury_body_part":"Achilles","injury_notes":"Tendinitis","injury_status":"Out","news_updated":"2026-10-23T21:50:51.467Z","position":"WR","status":"Active","team":"SF"},
+"2216":{"active":true,"depth_chart_order":5,"depth_chart_position":"LWR","full_name":"Mike Evans","injury_body_part":"Achilles","injury_notes":"Tendinitis","injury_status":"Out","news_updated":"2026-10-26T22:20:11.471Z","position":"WR","status":"Active","team":"SF"},
 "3286":{"active":true,"depth_chart_order":6,"depth_chart_position":"LWR","full_name":"Demarcus Robinson","injury_body_part":"Ankle","injury_status":"IR","news_updated":"2026-10-16T06:10:36.902Z","position":"WR","status":"Inactive","team":"SF"},
-"4034":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Christian McCaffrey","injury_body_part":"Calf","injury_status":"Questionable","news_updated":"2026-10-26T13:45:15.974Z","position":"RB","status":"Active","team":"SF"},
+"4034":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Christian McCaffrey","injury_body_part":"Calf","injury_status":"Questionable","news_updated":"2026-10-26T22:15:11.627Z","position":"RB","status":"Active","team":"SF"},
 "4217":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"George Kittle","news_updated":"2026-10-25T23:00:12.719Z","position":"TE","status":"Active","team":"SF"},
 "4914":{"active":false,"full_name":"Glen Coffee","position":"RB","status":"Active","team":"SF"},
 "4950":{"active":true,"depth_chart_order":1,"depth_chart_position":"SWR","full_name":"Christian Kirk","news_updated":"2026-10-25T16:00:08.448Z","position":"WR","status":"Active","team":"SF"},
@@ -26,7 +26,7 @@
 "12477":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Kurtis Rourke","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-10-11T19:20:18.553Z","position":"QB","status":"Active","team":"SF"},
 "12634":{"active":true,"depth_chart_order":2,"depth_chart_position":"RWR","full_name":"Jordan Watkins","news_updated":"2026-10-26T05:00:13.937Z","position":"WR","status":"Active","team":"SF"},
 "13414":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Kaelon Black","news_updated":"2026-10-26T20:25:03.797Z","position":"RB","status":"Active","team":"SF"},
-"13417":{"active":true,"depth_chart_order":12,"depth_chart_position":"SWR","full_name":"De'Zhaun Stribling","injury_body_part":"Ankle","injury_notes":"Surgery","injury_status":"IR","news_updated":"2026-09-19T21:15:47.855Z","position":"WR","status":"Inactive","team":"SF"},
+"13417":{"active":true,"depth_chart_order":12,"depth_chart_position":"SWR","full_name":"De'Zhaun Stribling","injury_body_part":"Ankle","injury_notes":"Surgery","injury_status":"IR","news_updated":"2026-10-26T22:20:11.476Z","position":"WR","status":"Inactive","team":"SF"},
 "13432":{"active":true,"full_name":"Khalil Dinkins","news_updated":"2026-09-03T03:50:37.985Z","position":"TE","status":"Active","team":"SF"},
 "13662":{"active":true,"full_name":"Will Pauling","news_updated":"2026-09-03T03:55:38.584Z","position":"WR","status":"Active","team":"SF"},
 "13663":{"active":true,"full_name":"Wesley Grimes","news_updated":"2026-09-03T03:50:37.985Z","position":"WR","status":"Active","team":"SF"}
