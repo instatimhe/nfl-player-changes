@@ -1,5 +1,5 @@
 {
-"421":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Matthew Stafford","news_updated":"2026-10-26T00:35:11.959Z","position":"QB","status":"Active","team":"LAR"},
+"421":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Matthew Stafford","news_updated":"2026-10-26T03:15:12.856Z","position":"QB","status":"Active","team":"LAR"},
 "1433":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Brandon McManus","news_updated":"2026-10-26T00:25:11.291Z","position":"K","status":"Active","team":"LAR"},
 "2133":{"active":true,"depth_chart_order":5,"depth_chart_position":"LWR","full_name":"Davante Adams","injury_body_part":"Hamstring","injury_notes":"Surgery","injury_status":"IR","news_updated":"2026-10-21T22:30:51.028Z","position":"WR","status":"Inactive","team":"LAR"},
 "3271":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Tyler Higbee","news_updated":"2026-10-26T00:20:12.270Z","position":"TE","status":"Active","team":"LAR"},
@@ -15,7 +15,7 @@
 "11586":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Blake Corum","news_updated":"2026-10-26T02:50:12.402Z","position":"RB","status":"Active","team":"LAR"},
 "11623":{"active":true,"depth_chart_order":3,"depth_chart_position":"SWR","full_name":"Jordan Whittington","news_updated":"2026-10-24T14:20:57.093Z","position":"WR","status":"Active","team":"LAR"},
 "12487":{"active":true,"depth_chart_order":5,"depth_chart_position":"TE","full_name":"Terrance Ferguson","injury_body_part":"Ankle","injury_notes":"Sprain","injury_status":"IR","news_updated":"2026-10-24T18:15:58.345Z","position":"TE","status":"Inactive","team":"LAR"},
-"12718":{"active":true,"depth_chart_order":2,"depth_chart_position":"SWR","full_name":"Konata Mumpfield","news_updated":"2026-10-26T00:15:11.903Z","position":"WR","status":"Active","team":"LAR"},
+"12718":{"active":true,"depth_chart_order":2,"depth_chart_position":"SWR","full_name":"Konata Mumpfield","news_updated":"2026-10-26T03:15:11.846Z","position":"WR","status":"Active","team":"LAR"},
 "13010":{"active":true,"full_name":"Jordan Waters","news_updated":"2026-09-02T03:05:25.457Z","position":"RB","status":"Active","team":"LAR"},
 "13011":{"active":true,"full_name":"Brennan Presley","news_updated":"2026-09-02T03:00:26.081Z","position":"WR","status":"Active","team":"LAR"},
 "13270":{"active":true,"depth_chart_order":8,"depth_chart_position":"LWR","full_name":"CJ Daniels","news_updated":"2026-09-11T00:05:29.527Z","position":"WR","status":"Active","team":"LAR"},
