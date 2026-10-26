@@ -7,7 +7,7 @@
 "5854":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Drew Lock","injury_body_part":"Elbow","injury_status":"Out","news_updated":"2026-10-25T23:05:10.561Z","position":"QB","status":"Active","team":"SEA"},
 "7050":{"active":true,"full_name":"Josiah Deguara","news_updated":"2026-10-19T23:40:12.101Z","position":"TE","status":"Active","team":"SEA"},
 "8223":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Velus Jones Jr.","injury_body_part":"Hamstring","injury_status":"Out","news_updated":"2026-10-26T03:00:13.277Z","position":"WR","status":"Active","team":"SEA"},
-"8676":{"active":true,"depth_chart_order":2,"depth_chart_position":"RWR","full_name":"Rashid Shaheed","injury_body_part":"Knee","injury_status":"Out","news_updated":"2026-10-26T04:35:14.079Z","position":"WR","status":"Active","team":"SEA"},
+"8676":{"active":true,"depth_chart_order":2,"depth_chart_position":"RWR","full_name":"Rashid Shaheed","injury_body_part":"Knee","injury_status":"Out","news_updated":"2026-10-26T17:15:17.470Z","position":"WR","status":"Active","team":"SEA"},
 "8861":{"active":true,"depth_chart_order":5,"depth_chart_position":"LWR","full_name":"Irvin Charles","news_updated":"2026-10-24T23:41:00.958Z","position":"WR","status":"Active","team":"SEA"},
 "9488":{"active":true,"depth_chart_order":1,"depth_chart_position":"LWR","full_name":"Jaxon Smith-Njigba","news_updated":"2026-10-26T05:50:12.977Z","position":"WR","status":"Active","team":"SEA"},
 "9753":{"active":true,"depth_chart_order":5,"depth_chart_position":"RB","full_name":"Zach Charbonnet","injury_body_part":"Knee - ACL","injury_notes":"Surgery","injury_status":"Out","news_updated":"2026-10-26T00:20:10.946Z","position":"RB","status":"Active","team":"SEA"},
@@ -23,7 +23,7 @@
 "12656":{"active":true,"depth_chart_order":6,"depth_chart_position":"RB","full_name":"Robbie Ouzts","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-08-14T23:30:45.438Z","position":"RB","status":"Inactive","team":"SEA"},
 "13047":{"active":true,"depth_chart_order":7,"depth_chart_position":"RB","full_name":"Jacardia Wright","injury_body_part":"Foot","injury_status":"Out","news_updated":"2026-10-07T00:05:02.577Z","position":"RB","status":"Active","team":"SEA"},
 "13151":{"active":true,"depth_chart_order":5,"depth_chart_position":"TE","full_name":"Nick Kallerup","news_updated":"2025-12-31T16:10:24.526Z","position":"TE","status":"Active","team":"SEA"},
-"13286":{"active":true,"depth_chart_order":8,"depth_chart_position":"RB","full_name":"Jadarian Price","injury_body_part":"Chest","injury_status":"IR","news_updated":"2026-10-21T16:10:53.046Z","position":"RB","status":"Inactive","team":"SEA"},
+"13286":{"active":true,"depth_chart_order":8,"depth_chart_position":"RB","full_name":"Jadarian Price","injury_body_part":"Chest","injury_status":"IR","news_updated":"2026-10-26T17:20:17.123Z","position":"RB","status":"Inactive","team":"SEA"},
 "13313":{"active":true,"full_name":"Emmanuel Henderson Jr.","news_updated":"2026-09-03T04:15:38.179Z","position":"WR","status":"Active","team":"SEA"},
 "13418":{"active":true,"depth_chart_order":9,"depth_chart_position":"RB","full_name":"Robert Henry Jr.","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-10-06T04:15:42.079Z","position":"RB","status":"Active","team":"SEA"},
 "13937":{"active":true,"full_name":"Jackson Acker","news_updated":"2026-10-19T23:50:32.893Z","position":"FB","status":"Active","team":"SEA"}
