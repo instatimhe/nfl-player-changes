@@ -276,3 +276,9 @@
 {"detected_between":["2026-10-27T07:05:38Z","2026-10-27T14:35:41Z"],"field":"depth_chart_order","kind":"change","new":4,"old":6,"player_id":"13577","source":"players_nfl","team":"DEN"}
 {"detected_between":["2026-10-27T07:05:38Z","2026-10-27T14:35:41Z"],"field":"depth_chart_order","kind":"change","new":9,"old":6,"player_id":"13825","source":"players_nfl","team":"NYJ"}
 {"detected_between":["2026-10-27T07:05:38Z","2026-10-27T14:35:41Z"],"field":"depth_chart_order","kind":"change","new":4,"old":3,"player_id":"14026","source":"players_nfl","team":"MIA"}
+{"detected_between":["2026-10-27T14:35:40Z","2026-10-27T15:05:40Z"],"field":"news_updated","kind":"change","new":"2026-10-27T14:30:04.478Z","old":"2026-10-26T01:20:12.190Z","player_id":"6865","source":"projections_feed","team":"LAR"}
+{"detected_between":["2026-10-27T14:35:40Z","2026-10-27T15:05:40Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"8129","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-10-27T14:35:40Z","2026-10-27T15:05:40Z"],"field":"injury_body_part","kind":"change","new":"Undisclosed","old":null,"player_id":"8129","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-10-27T14:35:40Z","2026-10-27T15:05:40Z"],"field":"news_updated","kind":"change","new":"2026-10-27T14:30:04.154Z","old":"2026-10-27T12:10:04.119Z","player_id":"8129","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-10-27T14:35:40Z","2026-10-27T15:05:40Z"],"field":"news_updated","kind":"change","new":"2026-10-27T14:45:03.577Z","old":"2026-10-25T22:20:11.295Z","player_id":"8172","source":"projections_feed","team":"MIA"}
+{"detected_between":["2026-10-27T14:35:40Z","2026-10-27T15:05:40Z"],"field":"news_updated","kind":"change","new":"2026-10-27T14:35:03.362Z","old":"2026-10-26T14:55:17.702Z","player_id":"9482","source":"projections_feed","team":"LV"}
