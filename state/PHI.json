@@ -12,7 +12,7 @@
 "8114":{"active":true,"full_name":"Erik Ezukanma","news_updated":"2026-10-07T23:50:02.015Z","position":"WR","status":"Active","team":"PHI"},
 "8129":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Dameon Pierce","news_updated":"2026-10-26T23:00:11.789Z","position":"RB","status":"Active","team":"PHI"},
 "8177":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Grant Calcaterra","news_updated":"2026-10-26T21:20:11.079Z","position":"TE","status":"Active","team":"PHI"},
-"8414":{"active":true,"depth_chart_order":5,"depth_chart_position":"SWR","full_name":"Britain Covey","news_updated":"2026-09-16T14:51:01.041Z","position":"WR","status":"Active","team":"PHI"},
+"8414":{"active":true,"depth_chart_order":5,"depth_chart_position":"SWR","full_name":"Britain Covey","injury_body_part":"Knee","injury_status":"Out","news_updated":"2026-10-27T00:45:26.975Z","position":"WR","status":"Active","team":"PHI"},
 "9225":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Tank Bigsby","injury_body_part":"Abdomen","injury_notes":"Surgery","injury_status":"IR","news_updated":"2026-10-07T03:55:02.570Z","position":"RB","status":"Inactive","team":"PHI"},
 "9230":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Tanner McKee","news_updated":"2026-10-24T21:25:59.510Z","position":"QB","status":"Active","team":"PHI"},
 "9486":{"active":true,"depth_chart_order":7,"depth_chart_position":"RWR","full_name":"Dontayvion Wicks","injury_body_part":"Ankle","injury_status":"Out","news_updated":"2026-10-24T21:26:00.855Z","position":"WR","status":"Active","team":"PHI"},
