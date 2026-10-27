@@ -154,3 +154,4 @@
 {"detected_between":["2026-10-27T12:05:39Z","2026-10-27T12:35:36Z"],"field":"news_updated","kind":"change","new":"2026-10-27T12:00:03.872Z","old":"2026-10-27T04:10:27.805Z","player_id":"9230","source":"projections_feed","team":"PHI"}
 {"detected_between":["2026-10-27T12:05:39Z","2026-10-27T12:35:36Z"],"field":"news_updated","kind":"change","new":"2026-10-27T12:00:04.120Z","old":"2026-10-24T21:30:59.466Z","player_id":"13150","source":"projections_feed","team":"PHI"}
 {"detected_between":["2026-10-27T12:05:39Z","2026-10-27T12:35:36Z"],"field":"news_updated","kind":"change","new":"2026-10-27T12:00:03.819Z","old":"2026-10-27T04:15:27.768Z","player_id":"13294","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-10-27T13:05:42Z","2026-10-27T13:35:39Z"],"field":"news_updated","kind":"change","new":"2026-10-27T13:20:02.940Z","old":"2026-10-27T12:00:03.846Z","player_id":"4866","source":"projections_feed","team":"PHI"}
