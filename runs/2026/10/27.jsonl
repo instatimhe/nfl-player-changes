@@ -1,0 +1,1 @@
+{"lines":{"change":21},"observed_until":"2026-10-27T00:05:36Z","reasons":[],"run_at":"2026-10-27T00:05:35Z","sources":{"players_nfl":{"result":"not_due","slot":"2026-10-26T22:00:00Z"},"projections_feed":{"detected_between":["2026-10-26T23:35:35Z","2026-10-27T00:05:36Z"],"players":3302,"result":"ok","week":7}},"status":"ok","tracked":881,"trigger":"workflow_dispatch"}
