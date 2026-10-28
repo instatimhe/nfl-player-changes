@@ -186,3 +186,5 @@
 {"detected_between":["2026-10-28T07:05:36Z","2026-10-28T07:35:34Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"13602","source":"projections_feed","team":"ATL"}
 {"detected_between":["2026-10-28T07:05:36Z","2026-10-28T07:35:34Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13602","source":"projections_feed","team":"ATL"}
 {"detected_between":["2026-10-28T07:05:36Z","2026-10-28T07:35:34Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"IR","player_id":"13879","source":"projections_feed","team":"ARI"}
+{"detected_between":["2026-10-28T07:35:34Z","2026-10-28T08:05:41Z"],"field":"news_updated","kind":"change","new":"2026-10-28T07:40:18.178Z","old":"2026-10-27T01:00:27.468Z","player_id":"5995","source":"projections_feed","team":"BAL"}
+{"detected_between":["2026-10-28T07:35:34Z","2026-10-28T08:05:41Z"],"field":"news_updated","kind":"change","new":"2026-10-28T07:35:18.124Z","old":"2026-10-27T00:00:25.922Z","player_id":"13417","source":"projections_feed","team":"SF"}
