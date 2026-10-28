@@ -193,3 +193,16 @@
 {"detected_between":["2026-10-28T13:35:35Z","2026-10-28T14:05:38Z"],"kind":"enter","player_id":"1264","record":{"news_updated":"2026-10-28T13:50:21.037Z","position":"K","team":"KC"},"source":"projections_feed","team":"KC"}
 {"detected_between":["2026-10-28T13:35:35Z","2026-10-28T14:05:38Z"],"field":"news_updated","kind":"change","new":"2026-10-28T13:45:20.692Z","old":"2026-10-26T03:45:13.346Z","player_id":"5967","source":"projections_feed","team":"TEN"}
 {"detected_between":["2026-10-28T13:35:35Z","2026-10-28T14:05:38Z"],"field":"news_updated","kind":"change","new":"2026-10-28T13:50:20.504Z","old":"2026-10-26T23:25:12.087Z","player_id":"7608","source":"projections_feed","team":"ATL"}
+{"detected_between":["2026-10-28T07:05:36Z","2026-10-28T14:35:51Z"],"kind":"fill","player_id":"1264","record":{"active":true,"full_name":"Justin Tucker","status":"Active"},"source":"players_nfl","team":"KC"}
+{"detected_between":["2026-10-28T14:05:38Z","2026-10-28T14:35:51Z"],"field":"news_updated","kind":"change","new":"2026-10-28T14:20:22.423Z","old":"2026-10-26T01:50:12.957Z","player_id":"7526","source":"projections_feed","team":"DEN"}
+{"detected_between":["2026-10-28T14:05:38Z","2026-10-28T14:35:51Z"],"field":"news_updated","kind":"change","new":"2026-10-28T14:25:20.706Z","old":"2026-10-26T02:05:11.451Z","player_id":"8132","source":"projections_feed","team":"ARI"}
+{"detected_between":["2026-10-28T07:05:36Z","2026-10-28T14:35:51Z"],"field":"depth_chart_order","kind":"change","new":7,"old":6,"player_id":"11034","source":"players_nfl","team":"ARI"}
+{"detected_between":["2026-10-28T14:05:38Z","2026-10-28T14:35:51Z"],"field":"news_updated","kind":"change","new":"2026-10-28T14:05:20.728Z","old":"2026-10-26T12:20:16.934Z","player_id":"11581","source":"projections_feed","team":"GB"}
+{"detected_between":["2026-10-28T07:05:36Z","2026-10-28T14:35:51Z"],"field":"depth_chart_order","kind":"change","new":4,"old":3,"player_id":"11595","source":"players_nfl","team":"KC"}
+{"detected_between":["2026-10-28T07:05:36Z","2026-10-28T14:35:51Z"],"field":"depth_chart_order","kind":"change","new":10,"old":11,"player_id":"12483","source":"players_nfl","team":"LV"}
+{"detected_between":["2026-10-28T07:05:36Z","2026-10-28T14:35:51Z"],"field":"depth_chart_order","kind":"change","new":5,"old":4,"player_id":"12521","source":"players_nfl","team":"SEA"}
+{"detected_between":["2026-10-28T07:05:36Z","2026-10-28T14:35:51Z"],"field":"depth_chart_order","kind":"change","new":3,"old":4,"player_id":"12817","source":"players_nfl","team":"KC"}
+{"detected_between":["2026-10-28T07:05:36Z","2026-10-28T14:35:51Z"],"field":"depth_chart_order","kind":"change","new":8,"old":7,"player_id":"13312","source":"players_nfl","team":"CIN"}
+{"detected_between":["2026-10-28T07:05:36Z","2026-10-28T14:35:51Z"],"field":"depth_chart_order","kind":"change","new":6,"old":5,"player_id":"13603","source":"players_nfl","team":"NYG"}
+{"detected_between":["2026-10-28T07:05:36Z","2026-10-28T14:35:51Z"],"field":"depth_chart_position","kind":"change","new":null,"old":"TE","player_id":"13879","source":"players_nfl","team":"ARI"}
+{"detected_between":["2026-10-28T07:05:36Z","2026-10-28T14:35:51Z"],"field":"depth_chart_order","kind":"change","new":null,"old":8,"player_id":"13879","source":"players_nfl","team":"ARI"}
