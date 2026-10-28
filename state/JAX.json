@@ -1,5 +1,5 @@
 {
-"2359":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Ameer Abdullah","injury_body_part":"Concussion","injury_status":"Questionable","news_updated":"2026-09-23T03:50:11.386Z","position":"RB","status":"Active","team":"JAX"},
+"2359":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Ameer Abdullah","news_updated":"2026-09-23T03:50:11.386Z","position":"RB","status":"Active","team":"JAX"},
 "4464":{"active":true,"full_name":"Nick Mullens","news_updated":"2026-09-22T01:35:54.452Z","position":"QB","status":"Active","team":"JAX"},
 "5947":{"active":true,"depth_chart_order":2,"depth_chart_position":"RWR","full_name":"Jakobi Meyers","news_updated":"2026-10-26T15:10:16.439Z","position":"WR","status":"Active","team":"JAX"},
 "7523":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Trevor Lawrence","news_updated":"2026-10-18T22:01:00.884Z","position":"QB","status":"Active","team":"JAX"},
@@ -22,6 +22,6 @@
 "13394":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Josh Cameron","news_updated":"2026-10-20T02:30:34.073Z","position":"WR","status":"Active","team":"JAX"},
 "13408":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Tanner Koziol","news_updated":"2026-09-20T19:00:57.345Z","position":"TE","status":"Active","team":"JAX"},
 "13428":{"active":true,"full_name":"Joey Aguilar","news_updated":"2026-09-02T01:55:24.996Z","position":"QB","status":"Active","team":"JAX"},
-"13554":{"active":true,"depth_chart_order":8,"depth_chart_position":"LWR","full_name":"CJ Williams","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-09-27T16:40:53.607Z","position":"WR","status":"Active","team":"JAX"},
+"13554":{"active":true,"depth_chart_order":8,"depth_chart_position":"LWR","full_name":"CJ Williams","news_updated":"2026-09-27T16:40:53.607Z","position":"WR","status":"Active","team":"JAX"},
 "13645":{"active":true,"full_name":"Michael Wortham","news_updated":"2026-09-02T02:10:25.464Z","position":"WR","status":"Active","team":"JAX"}
 }
