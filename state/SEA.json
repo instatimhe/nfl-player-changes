@@ -5,7 +5,6 @@
 "4936":{"active":true,"full_name":"Skyler Howard","position":"QB","status":"Active","team":"SEA"},
 "4943":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Sam Darnold","news_updated":"2026-10-27T20:05:05.213Z","position":"QB","status":"Active","team":"SEA"},
 "5854":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Drew Lock","injury_body_part":"Elbow","injury_status":"Questionable","news_updated":"2026-10-25T23:05:10.561Z","position":"QB","status":"Active","team":"SEA"},
-"7050":{"active":true,"full_name":"Josiah Deguara","news_updated":"2026-10-28T00:20:07.305Z","position":"TE","status":"Active","team":"SEA"},
 "8223":{"active":true,"depth_chart_order":5,"depth_chart_position":"RB","full_name":"Velus Jones Jr.","injury_body_part":"Hamstring","injury_status":"Questionable","news_updated":"2026-10-26T03:00:13.277Z","position":"WR","status":"Active","team":"SEA"},
 "8676":{"active":true,"depth_chart_order":2,"depth_chart_position":"RWR","full_name":"Rashid Shaheed","injury_body_part":"Knee","injury_status":"Questionable","news_updated":"2026-10-26T17:40:18.662Z","position":"WR","status":"Active","team":"SEA"},
 "8861":{"active":true,"depth_chart_order":5,"depth_chart_position":"LWR","full_name":"Irvin Charles","news_updated":"2026-10-24T23:41:00.958Z","position":"WR","status":"Active","team":"SEA"},
@@ -28,6 +27,5 @@
 "13286":{"active":true,"depth_chart_order":8,"depth_chart_position":"RB","full_name":"Jadarian Price","injury_body_part":"Chest","injury_status":"IR","news_updated":"2026-10-26T17:40:18.675Z","position":"RB","status":"Inactive","team":"SEA"},
 "13313":{"active":true,"full_name":"Emmanuel Henderson Jr.","news_updated":"2026-09-03T04:15:38.179Z","position":"WR","status":"Active","team":"SEA"},
 "13418":{"active":true,"depth_chart_order":9,"depth_chart_position":"RB","full_name":"Robert Henry Jr.","news_updated":"2026-10-06T04:15:42.079Z","position":"RB","status":"Active","team":"SEA"},
-"13937":{"active":true,"full_name":"Jackson Acker","news_updated":"2026-10-27T22:50:07.634Z","position":"FB","status":"Active","team":"SEA"},
 "14058":{"active":true,"full_name":"Malick Meiga","news_updated":"2026-10-27T22:40:06.956Z","position":"WR","status":"Active","team":"SEA"}
 }
