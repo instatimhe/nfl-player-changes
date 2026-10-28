@@ -1,7 +1,7 @@
 {
 "421":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Matthew Stafford","news_updated":"2026-10-26T03:15:12.856Z","position":"QB","status":"Active","team":"LAR"},
 "1433":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Brandon McManus","news_updated":"2026-10-26T00:25:11.291Z","position":"K","status":"Active","team":"LAR"},
-"2133":{"active":true,"depth_chart_order":6,"depth_chart_position":"LWR","full_name":"Davante Adams","injury_body_part":"Hamstring","injury_notes":"Surgery","injury_status":"IR","news_updated":"2026-10-21T22:30:51.028Z","position":"WR","status":"Inactive","team":"LAR"},
+"2133":{"active":true,"depth_chart_order":6,"depth_chart_position":"LWR","full_name":"Davante Adams","injury_body_part":"Hamstring","injury_notes":"Surgery","injury_status":"IR","news_updated":"2026-10-28T21:05:23.678Z","position":"WR","status":"Inactive","team":"LAR"},
 "3271":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Tyler Higbee","news_updated":"2026-10-27T14:55:03.366Z","position":"TE","status":"Active","team":"LAR"},
 "6386":{"active":true,"depth_chart_order":7,"depth_chart_position":"SWR","full_name":"Alex Bachman","news_updated":"2026-10-03T23:40:38.254Z","position":"WR","status":"Active","team":"LAR"},
 "6865":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Colby Parkinson","news_updated":"2026-10-27T14:30:04.478Z","position":"TE","status":"Active","team":"LAR"},
@@ -15,7 +15,7 @@
 "11586":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Blake Corum","news_updated":"2026-10-26T02:50:12.402Z","position":"RB","status":"Active","team":"LAR"},
 "11623":{"active":true,"depth_chart_order":3,"depth_chart_position":"SWR","full_name":"Jordan Whittington","news_updated":"2026-10-27T01:50:27.433Z","position":"WR","status":"Active","team":"LAR"},
 "11789":{"news_updated":"2026-09-02T19:55:33.773Z","position":"K","team":"LAR"},
-"12487":{"active":true,"depth_chart_order":5,"depth_chart_position":"TE","full_name":"Terrance Ferguson","injury_body_part":"Ankle","injury_notes":"Sprain","injury_status":"IR","news_updated":"2026-10-26T21:20:10.613Z","position":"TE","status":"Inactive","team":"LAR"},
+"12487":{"active":true,"depth_chart_order":5,"depth_chart_position":"TE","full_name":"Terrance Ferguson","injury_body_part":"Ankle","injury_notes":"Sprain","injury_status":"IR","news_updated":"2026-10-28T21:15:23.788Z","position":"TE","status":"Inactive","team":"LAR"},
 "12718":{"active":true,"depth_chart_order":2,"depth_chart_position":"SWR","full_name":"Konata Mumpfield","news_updated":"2026-10-27T14:05:03.140Z","position":"WR","status":"Active","team":"LAR"},
 "13010":{"active":true,"full_name":"Jordan Waters","news_updated":"2026-09-02T03:05:25.457Z","position":"RB","status":"Active","team":"LAR"},
 "13011":{"active":true,"full_name":"Brennan Presley","news_updated":"2026-09-02T03:00:26.081Z","position":"WR","status":"Active","team":"LAR"},
