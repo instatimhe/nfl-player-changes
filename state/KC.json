@@ -1,6 +1,6 @@
 {
 "1264":{"active":true,"full_name":"Justin Tucker","news_updated":"2026-10-28T13:50:21.037Z","position":"K","status":"Active","team":"KC"},
-"1466":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Travis Kelce","injury_body_part":"Ankle","injury_status":"Questionable","news_updated":"2026-10-26T06:50:13.635Z","position":"TE","status":"Active","team":"KC"},
+"1466":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Travis Kelce","injury_body_part":"Ankle","injury_status":"Questionable","news_updated":"2026-10-29T21:05:33.117Z","position":"TE","status":"Active","team":"KC"},
 "4046":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Patrick Mahomes","news_updated":"2026-10-29T15:50:30.829Z","position":"QB","status":"Active","team":"KC"},
 "4227":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Harrison Butker","news_updated":"2026-10-29T19:55:32.259Z","position":"K","status":"Active","team":"KC"},
 "4263":{"active":true,"full_name":"Elijah McGuire","news_updated":"2022-01-19T23:10:17.596Z","position":"RB","status":"Active","team":"KC"},
@@ -11,7 +11,7 @@
 "8151":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Kenneth Walker III","news_updated":"2026-10-26T06:05:13.141Z","position":"RB","status":"Active","team":"KC"},
 "8188":{"active":true,"depth_chart_order":8,"depth_chart_position":"LWR","full_name":"Tyquan Thornton","injury_body_part":"Ankle","injury_notes":"Surgery","injury_status":"IR","news_updated":"2026-10-13T18:35:48.519Z","position":"WR","status":"Inactive","team":"KC"},
 "8924":{"active":true,"full_name":"Thomas Odukoya","news_updated":"2026-09-07T00:15:34.498Z","position":"TE","status":"Active","team":"KC"},
-"10229":{"active":true,"depth_chart_order":1,"depth_chart_position":"SWR","full_name":"Rashee Rice","injury_body_part":"Hamstring","injury_status":"Questionable","news_updated":"2026-10-28T22:20:23.824Z","position":"WR","status":"Active","team":"KC"},
+"10229":{"active":true,"depth_chart_order":1,"depth_chart_position":"SWR","full_name":"Rashee Rice","injury_body_part":"Hamstring","injury_status":"Questionable","news_updated":"2026-10-29T21:10:33.209Z","position":"WR","status":"Active","team":"KC"},
 "11273":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Ben VanSumeren","news_updated":"2026-09-16T01:15:55.303Z","position":"RB","status":"Active","team":"KC"},
 "11320":{"active":true,"depth_chart_order":6,"depth_chart_position":"SWR","full_name":"Nikko Remigio","news_updated":"2026-09-16T00:30:54.938Z","position":"WR","status":"Active","team":"KC"},
 "11595":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Jared Wiley","news_updated":"2026-10-04T19:35:12.596Z","position":"TE","status":"Active","team":"KC"},
