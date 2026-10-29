@@ -1,6 +1,6 @@
 {
 "3976":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Mitchell Trubisky","news_updated":"2026-09-09T23:00:47.353Z","position":"QB","status":"Active","team":"TEN"},
-"4981":{"active":true,"depth_chart_order":4,"depth_chart_position":"LWR","full_name":"Calvin Ridley","injury_body_part":"Hip","injury_status":"Questionable","news_updated":"2026-10-28T21:25:26.028Z","position":"WR","status":"Active","team":"TEN"},
+"4981":{"active":true,"depth_chart_order":4,"depth_chart_position":"LWR","full_name":"Calvin Ridley","injury_body_part":"Hip","injury_status":"Questionable","news_updated":"2026-10-29T21:20:34.624Z","position":"WR","status":"Active","team":"TEN"},
 "5223":{"active":true,"full_name":"Caleb Scott","news_updated":"2021-12-30T05:30:39.083Z","position":"WR","status":"Active","team":"TEN"},
 "5288":{"active":false,"full_name":"Donnie Ernsberger","injury_status":"Questionable","news_updated":"2021-08-15T00:25:37.889Z","position":"TE","status":"Inactive","team":"TEN"},
 "5967":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Tony Pollard","news_updated":"2026-10-29T18:10:32.818Z","position":"RB","status":"Active","team":"TEN"},
@@ -23,6 +23,6 @@
 "12540":{"active":true,"depth_chart_order":5,"depth_chart_position":"SWR","full_name":"Chimere Dike","news_updated":"2026-09-27T02:50:02.113Z","position":"WR","status":"Active","team":"TEN"},
 "13279":{"active":true,"depth_chart_order":1,"depth_chart_position":"RWR","full_name":"Carnell Tate","injury_body_part":"Shoulder","injury_status":"Questionable","news_updated":"2026-10-29T17:45:31.384Z","position":"WR","status":"Active","team":"TEN"},
 "13288":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Nicholas Singleton","news_updated":"2026-10-25T16:05:07.272Z","position":"RB","status":"Active","team":"TEN"},
-"13422":{"active":true,"depth_chart_order":5,"depth_chart_position":"TE","full_name":"Jaren Kanak","injury_body_part":"Pectoral","injury_status":"IR","news_updated":"2026-08-17T06:05:22.005Z","position":"TE","status":"Inactive","team":"TEN"},
+"13422":{"active":true,"depth_chart_order":6,"depth_chart_position":"TE","full_name":"Jaren Kanak","injury_body_part":"Pectoral","injury_status":"IR","news_updated":"2026-08-17T06:05:22.005Z","position":"TE","status":"Inactive","team":"TEN"},
 "13600":{"active":true,"full_name":"Tyren Montgomery","news_updated":"2026-09-04T00:35:16.507Z","position":"WR","status":"Active","team":"TEN"}
 }
