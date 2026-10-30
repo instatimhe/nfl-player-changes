@@ -75,3 +75,4 @@
 {"detected_between":["2026-10-30T06:35:32Z","2026-10-30T07:05:34Z"],"field":"news_updated","kind":"change","new":"2026-10-30T06:30:09.842Z","old":"2026-10-29T00:40:25.441Z","player_id":"12907","source":"projections_feed","team":"PHI"}
 {"detected_between":["2026-10-29T22:05:33Z","2026-10-30T07:05:34Z"],"field":"depth_chart_order","kind":"change","new":3,"old":4,"player_id":"12939","source":"players_nfl","team":"CAR"}
 {"detected_between":["2026-10-29T22:05:33Z","2026-10-30T07:05:34Z"],"field":"depth_chart_order","kind":"change","new":3,"old":4,"player_id":"13013","source":"players_nfl","team":"GB"}
+{"detected_between":["2026-10-30T07:05:33Z","2026-10-30T07:35:32Z"],"field":"news_updated","kind":"change","new":"2026-10-30T07:00:08.866Z","old":"2026-10-30T04:20:07.741Z","player_id":"6804","source":"projections_feed","team":"GB"}
