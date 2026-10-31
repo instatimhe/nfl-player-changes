@@ -10,7 +10,7 @@
   "5845": "2026-10-30T22:05:32Z",
   "6677": "2026-10-30T22:05:32Z"
  },
- "last_run_at": "2026-10-31T06:05:46Z",
+ "last_run_at": "2026-10-31T06:35:32Z",
  "last_run_status": "ok",
  "schema_version": 1,
  "sources": {
@@ -22,8 +22,8 @@
    "slot_attempts": 1
   },
   "projections_feed": {
-   "last_attempt_at": "2026-10-31T06:05:46Z",
-   "last_ok_at": "2026-10-31T06:05:46Z",
+   "last_attempt_at": "2026-10-31T06:35:32Z",
+   "last_ok_at": "2026-10-31T06:35:32Z",
    "last_result": "ok",
    "week": 8
   }
