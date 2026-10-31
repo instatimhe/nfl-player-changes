@@ -182,3 +182,7 @@
 {"detected_between":["2026-10-31T17:35:31Z","2026-10-31T18:05:37Z"],"field":"news_updated","kind":"change","new":"2026-10-31T17:30:23.673Z","old":"2026-10-31T17:15:23.877Z","player_id":"12529","source":"projections_feed","team":"NE"}
 {"detected_between":["2026-10-31T18:05:36Z","2026-10-31T18:35:34Z"],"field":"news_updated","kind":"change","new":"2026-10-31T18:15:23.965Z","old":"2026-10-29T02:30:25.306Z","player_id":"11586","source":"projections_feed","team":"LAR"}
 {"detected_between":["2026-10-31T18:05:36Z","2026-10-31T18:35:34Z"],"field":"news_updated","kind":"change","new":"2026-10-31T18:00:24.048Z","old":"2026-10-30T21:25:14.846Z","player_id":"12483","source":"projections_feed","team":"LV"}
+{"detected_between":["2026-10-31T18:35:34Z","2026-10-31T19:05:31Z"],"field":"news_updated","kind":"change","new":"2026-10-31T18:55:24.264Z","old":"2026-10-26T00:25:11.291Z","player_id":"1433","source":"projections_feed","team":"LAR"}
+{"detected_between":["2026-10-31T18:35:34Z","2026-10-31T19:05:31Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"IR","player_id":"12483","source":"projections_feed","team":"LV"}
+{"detected_between":["2026-10-31T18:35:34Z","2026-10-31T19:05:31Z"],"field":"injury_status","kind":"change","new":null,"old":"Questionable","player_id":"12517","source":"projections_feed","team":"CHI"}
+{"detected_between":["2026-10-31T18:35:34Z","2026-10-31T19:05:31Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Neck","player_id":"12517","source":"projections_feed","team":"CHI"}
