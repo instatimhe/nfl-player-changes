@@ -111,3 +111,5 @@
 {"detected_between":["2026-11-01T07:05:32Z","2026-11-01T14:35:32Z"],"field":"depth_chart_order","kind":"change","new":5,"old":4,"player_id":"13516","source":"players_nfl","team":"MIN"}
 {"detected_between":["2026-11-01T14:35:31Z","2026-11-01T15:05:32Z"],"field":"news_updated","kind":"change","new":"2026-11-01T15:00:35.345Z","old":"2026-10-31T15:55:23.090Z","player_id":"4983","source":"projections_feed","team":"BUF"}
 {"detected_between":["2026-11-01T14:35:31Z","2026-11-01T15:05:32Z"],"field":"news_updated","kind":"change","new":"2026-11-01T14:40:33.560Z","old":"2026-10-29T14:40:30.276Z","player_id":"6790","source":"projections_feed","team":"CHI"}
+{"detected_between":["2026-11-01T15:05:32Z","2026-11-01T15:35:32Z"],"field":"news_updated","kind":"change","new":"2026-11-01T15:05:34.080Z","old":"2026-10-31T16:20:23.279Z","player_id":"10236","source":"projections_feed","team":"BUF"}
+{"detected_between":["2026-11-01T15:05:32Z","2026-11-01T15:35:32Z"],"field":"news_updated","kind":"change","new":"2026-11-01T15:15:34.141Z","old":"2026-10-30T23:40:16.274Z","player_id":"13302","source":"projections_feed","team":"BAL"}
