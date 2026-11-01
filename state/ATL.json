@@ -11,7 +11,7 @@
 "7553":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Kyle Pitts Sr.","news_updated":"2026-10-31T15:35:22.838Z","position":"TE","status":"Active","team":"ATL"},
 "7593":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Trey Sermon","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-08-19T23:35:16.868Z","position":"RB","status":"Inactive","team":"ATL"},
 "7608":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Khalil Herbert","news_updated":"2026-11-01T00:30:26.924Z","position":"RB","status":"Active","team":"ATL"},
-"8112":{"active":true,"depth_chart_order":1,"depth_chart_position":"LWR","full_name":"Drake London","injury_body_part":"Head","injury_status":"Questionable","news_updated":"2026-11-01T18:25:35.889Z","position":"WR","status":"Active","team":"ATL"},
+"8112":{"active":true,"depth_chart_order":1,"depth_chart_position":"LWR","full_name":"Drake London","injury_body_part":"Head","injury_status":"Questionable","news_updated":"2026-11-01T18:35:35.824Z","position":"WR","status":"Active","team":"ATL"},
 "8119":{"active":true,"depth_chart_order":2,"depth_chart_position":"RWR","full_name":"Jahan Dotson","news_updated":"2026-10-31T15:55:23.050Z","position":"WR","status":"Active","team":"ATL"},
 "8154":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Brian Robinson Jr.","injury_body_part":"Hamstring","injury_status":"Out","news_updated":"2026-11-01T17:05:36.171Z","position":"RB","status":"Active","team":"ATL"},
 "8523":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Nick Muse","news_updated":"2026-10-27T00:00:26.753Z","position":"TE","status":"Active","team":"ATL"},
@@ -22,7 +22,7 @@
 "11559":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Michael Penix Jr.","news_updated":"2026-10-31T14:05:22.103Z","position":"QB","status":"Active","team":"ATL"},
 "12460":{"active":true,"full_name":"Antwane Wells Jr.","news_updated":"2026-06-17T21:10:14.267Z","position":"WR","status":"Active","team":"ATL"},
 "12889":{"active":true,"depth_chart_order":8,"depth_chart_position":"RWR","full_name":"Beaux Collins","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-11-01T00:35:26.938Z","position":"WR","status":"Inactive","team":"ATL"},
-"13320":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Zachariah Branch","news_updated":"2026-10-27T00:10:26.757Z","position":"WR","status":"Active","team":"ATL"},
+"13320":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Zachariah Branch","injury_body_part":"Hamstring","injury_status":"Out","news_updated":"2026-10-27T00:10:26.757Z","position":"WR","status":"Active","team":"ATL"},
 "13343":{"active":true,"full_name":"Vinny Anthony II","news_updated":"2026-09-01T04:50:16.850Z","position":"WR","status":"Active","team":"ATL"},
 "13403":{"active":true,"full_name":"Jam Miller","news_updated":"2026-10-08T07:25:40.322Z","position":"RB","status":"Active","team":"ATL"},
 "13602":{"active":true,"depth_chart_order":4,"depth_chart_position":"QB","full_name":"Jack Strand","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-10-25T16:00:07.608Z","position":"QB","status":"Active","team":"ATL"}
