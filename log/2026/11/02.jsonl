@@ -246,3 +246,4 @@
 {"detected_between":["2026-11-02T05:35:34Z","2026-11-02T06:05:33Z"],"field":"news_updated","kind":"change","new":"2026-11-02T05:35:41.329Z","old":"2026-11-02T04:30:40.822Z","player_id":"8130","source":"projections_feed","team":"ARI"}
 {"detected_between":["2026-11-02T05:35:34Z","2026-11-02T06:05:33Z"],"field":"news_updated","kind":"change","new":"2026-11-02T05:55:41.561Z","old":"2026-11-02T04:40:40.867Z","player_id":"11625","source":"projections_feed","team":"NYJ"}
 {"detected_between":["2026-11-02T05:35:34Z","2026-11-02T06:05:33Z"],"field":"news_updated","kind":"change","new":"2026-11-02T05:30:41.992Z","old":"2026-11-02T04:55:43.476Z","player_id":"13274","source":"projections_feed","team":"PIT"}
+{"detected_between":["2026-11-02T06:05:33Z","2026-11-02T06:35:35Z"],"field":"news_updated","kind":"change","new":"2026-11-02T06:20:41.790Z","old":"2026-11-02T04:40:41.467Z","player_id":"4866","source":"projections_feed","team":"PHI"}
