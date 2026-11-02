@@ -248,3 +248,5 @@
 {"detected_between":["2026-11-02T05:35:34Z","2026-11-02T06:05:33Z"],"field":"news_updated","kind":"change","new":"2026-11-02T05:30:41.992Z","old":"2026-11-02T04:55:43.476Z","player_id":"13274","source":"projections_feed","team":"PIT"}
 {"detected_between":["2026-11-02T06:05:33Z","2026-11-02T06:35:35Z"],"field":"news_updated","kind":"change","new":"2026-11-02T06:20:41.790Z","old":"2026-11-02T04:40:41.467Z","player_id":"4866","source":"projections_feed","team":"PHI"}
 {"detected_between":["2026-11-01T22:05:31Z","2026-11-02T07:05:40Z"],"field":"status","kind":"change","new":"Inactive","old":"Active","player_id":"4881","source":"players_nfl","team":"BAL"}
+{"detected_between":["2026-11-02T07:05:39Z","2026-11-02T07:35:37Z"],"field":"news_updated","kind":"change","new":"2026-11-02T06:55:42.180Z","old":"2026-11-01T23:05:39.461Z","player_id":"1166","source":"projections_feed","team":"LV"}
+{"detected_between":["2026-11-02T07:05:39Z","2026-11-02T07:35:37Z"],"field":"news_updated","kind":"change","new":"2026-11-02T07:10:42.283Z","old":"2026-11-02T04:55:43.138Z","player_id":"8228","source":"projections_feed","team":"PIT"}
