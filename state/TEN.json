@@ -1,6 +1,6 @@
 {
 "3976":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Mitchell Trubisky","news_updated":"2026-09-09T23:00:47.353Z","position":"QB","status":"Active","team":"TEN"},
-"4981":{"active":true,"depth_chart_order":3,"depth_chart_position":"LWR","full_name":"Calvin Ridley","news_updated":"2026-11-02T22:35:48.743Z","position":"WR","status":"Active","team":"TEN"},
+"4981":{"active":true,"depth_chart_order":3,"depth_chart_position":"LWR","full_name":"Calvin Ridley","news_updated":"2026-11-03T03:10:51.264Z","position":"WR","status":"Active","team":"TEN"},
 "5223":{"active":true,"full_name":"Caleb Scott","news_updated":"2021-12-30T05:30:39.083Z","position":"WR","status":"Active","team":"TEN"},
 "5288":{"active":false,"full_name":"Donnie Ernsberger","injury_status":"Questionable","news_updated":"2021-08-15T00:25:37.889Z","position":"TE","status":"Inactive","team":"TEN"},
 "5967":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Tony Pollard","news_updated":"2026-11-02T12:10:45.794Z","position":"RB","status":"Active","team":"TEN"},
@@ -18,7 +18,7 @@
 "12499":{"active":true,"depth_chart_order":2,"depth_chart_position":"LWR","full_name":"Elic Ayomanor","news_updated":"2026-11-03T01:50:50.407Z","position":"WR","status":"Active","team":"TEN"},
 "12502":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Gunnar Helm","news_updated":"2026-11-02T13:00:46.537Z","position":"TE","status":"Active","team":"TEN"},
 "12516":{"active":true,"full_name":"Kalel Mullings","news_updated":"2026-10-26T23:45:13.129Z","position":"RB","status":"Active","team":"TEN"},
-"12520":{"active":true,"depth_chart_order":5,"depth_chart_position":"RWR","full_name":"Xavier Restrepo","news_updated":"2026-10-31T22:25:26.023Z","position":"WR","status":"Active","team":"TEN"},
+"12520":{"active":true,"depth_chart_order":5,"depth_chart_position":"RWR","full_name":"Xavier Restrepo","news_updated":"2026-11-03T03:00:51.153Z","position":"WR","status":"Active","team":"TEN"},
 "12522":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Cam Ward","news_updated":"2026-11-02T12:10:45.805Z","position":"QB","status":"Active","team":"TEN"},
 "12540":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Chimere Dike","news_updated":"2026-11-02T13:00:46.561Z","position":"WR","status":"Active","team":"TEN"},
 "13279":{"active":true,"depth_chart_order":7,"depth_chart_position":"RWR","full_name":"Carnell Tate","injury_body_part":"Shoulder","injury_status":"Out","news_updated":"2026-10-31T15:25:22.744Z","position":"WR","status":"Active","team":"TEN"},
