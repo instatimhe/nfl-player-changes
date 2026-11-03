@@ -475,3 +475,5 @@
 {"detected_between":["2026-11-03T22:05:37Z","2026-11-03T22:35:36Z"],"field":"injury_notes","kind":"change","new":"Surgery","old":null,"player_id":"13315","source":"projections_feed","team":"LAR"}
 {"detected_between":["2026-11-03T22:05:37Z","2026-11-03T22:35:36Z"],"field":"news_updated","kind":"change","new":"2026-11-03T22:00:29.531Z","old":"2026-11-03T21:25:28.157Z","player_id":"13350","source":"projections_feed","team":"BAL"}
 {"detected_between":["2026-11-03T22:05:37Z","2026-11-03T22:35:36Z"],"kind":"enter","player_id":"13418","record":{"news_updated":"2026-11-03T21:35:29.713Z","position":"RB","team":"WAS"},"source":"projections_feed","team":"WAS"}
+{"detected_between":["2026-11-03T22:35:36Z","2026-11-03T23:05:35Z"],"field":"news_updated","kind":"change","new":"2026-11-03T22:40:28.519Z","old":"2026-11-03T22:00:29.508Z","player_id":"5995","source":"projections_feed","team":"BAL"}
+{"detected_between":["2026-11-03T22:35:36Z","2026-11-03T23:05:35Z"],"field":"news_updated","kind":"change","new":"2026-11-03T22:30:28.516Z","old":"2026-11-03T22:00:29.570Z","player_id":"10219","source":"projections_feed","team":"JAX"}
