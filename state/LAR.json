@@ -22,7 +22,7 @@
 "13270":{"active":true,"depth_chart_order":5,"depth_chart_position":"LWR","full_name":"CJ Daniels","news_updated":"2026-09-11T00:05:29.527Z","position":"WR","status":"Active","team":"LAR"},
 "13275":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Ty Simpson","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-11-01T20:00:37.237Z","position":"QB","status":"Active","team":"LAR"},
 "13278":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Max Klare","news_updated":"2026-09-30T22:05:20.173Z","position":"TE","status":"Active","team":"LAR"},
-"13315":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Dean Connors","injury_body_part":"Hand","injury_status":"Questionable","news_updated":"2026-11-03T02:10:50.566Z","position":"RB","status":"Active","team":"LAR"},
+"13315":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Dean Connors","injury_body_part":"Hand","injury_notes":"Surgery","injury_status":"IR","news_updated":"2026-11-03T02:10:50.566Z","position":"RB","status":"Active","team":"LAR"},
 "13321":{"active":true,"full_name":"Dan Villari","news_updated":"2026-09-02T03:00:26.098Z","position":"TE","status":"Active","team":"LAR"},
 "13597":{"active":true,"depth_chart_order":4,"depth_chart_position":"QB","full_name":"Matthew Caldwell","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-08-29T22:25:50.424Z","position":"QB","status":"Inactive","team":"LAR"}
 }
