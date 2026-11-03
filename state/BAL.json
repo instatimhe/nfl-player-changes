@@ -4,7 +4,7 @@
 "3269":{"active":true,"full_name":"Chris Moore","news_updated":"2026-10-15T00:05:09.413Z","position":"WR","status":"Active","team":"BAL"},
 "4683":{"active":true,"depth_chart_order":4,"depth_chart_position":"QB","full_name":"Aaron Bailey","position":"QB","status":"Active","team":"BAL"},
 "4744":{"active":true,"full_name":"Barrett Burns","position":"TE","status":"Active","team":"BAL"},
-"4881":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Lamar Jackson","injury_body_part":"Thumb","injury_status":"Out","news_updated":"2026-11-02T20:50:47.970Z","position":"QB","status":"Inactive","team":"BAL"},
+"4881":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Lamar Jackson","injury_body_part":"Thumb","injury_status":"Out","news_updated":"2026-11-03T00:35:49.623Z","position":"QB","status":"Inactive","team":"BAL"},
 "4924":{"active":true,"full_name":"Zach Terrell","position":"QB","status":"Active","team":"BAL"},
 "5008":{"active":true,"depth_chart_order":5,"depth_chart_position":"TE","full_name":"Durham Smythe","injury_body_part":"Achilles","injury_notes":"Surgery","injury_status":"IR","news_updated":"2026-10-07T23:20:01.773Z","position":"TE","status":"Inactive","team":"BAL"},
 "5012":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Mark Andrews","news_updated":"2026-11-02T02:50:40.384Z","position":"TE","status":"Active","team":"BAL"},
@@ -26,6 +26,6 @@
 "13293":{"active":true,"depth_chart_order":3,"depth_chart_position":"RWR","full_name":"Ja'Kobi Lane","news_updated":"2026-11-01T22:20:39.310Z","position":"WR","status":"Active","team":"BAL"},
 "13302":{"active":true,"depth_chart_order":5,"depth_chart_position":"RB","full_name":"Adam Randall","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-11-01T15:15:34.141Z","position":"RB","status":"Inactive","team":"BAL"},
 "13324":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Matt Hibner","news_updated":"2026-10-23T00:10:15.387Z","position":"TE","status":"Active","team":"BAL"},
-"13350":{"active":true,"depth_chart_order":4,"depth_chart_position":"QB","full_name":"Joe Fagnano","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-11-02T23:50:49.509Z","position":"QB","status":"Active","team":"BAL"},
+"13350":{"active":true,"depth_chart_order":4,"depth_chart_position":"QB","full_name":"Joe Fagnano","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-11-03T00:30:49.800Z","position":"QB","status":"Active","team":"BAL"},
 "13705":{"active":true,"full_name":"Ty Pezza","position":"TE","status":"Active","team":"BAL"}
 }
