@@ -230,3 +230,4 @@
 {"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13577","source":"projections_feed","team":"DEN"}
 {"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"13602","source":"projections_feed","team":"ATL"}
 {"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13602","source":"projections_feed","team":"ATL"}
+{"detected_between":["2026-11-04T12:35:35Z","2026-11-04T13:05:32Z"],"field":"news_updated","kind":"change","new":"2026-11-04T12:40:35.498Z","old":"2026-11-03T21:00:27.856Z","player_id":"7083","source":"projections_feed","team":"BAL"}
