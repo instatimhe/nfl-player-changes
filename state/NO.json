@@ -1,7 +1,6 @@
 {
 "1979":{"active":true,"full_name":"Blake Bortles","news_updated":"2022-10-05T14:30:59.619Z","position":"QB","status":"Active","team":"NO"},
 "4035":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Alvin Kamara","news_updated":"2026-10-26T03:10:13.512Z","position":"RB","status":"Active","team":"NO"},
-"5095":{"active":true,"full_name":"Daniel Carlson","news_updated":"2026-11-03T21:40:28.409Z","position":"K","status":"Active","team":"NO"},
 "5744":{"active":true,"full_name":"Eldridge Massington","news_updated":"2018-08-05T22:25:02.281Z","position":"WR","status":"Active","team":"NO"},
 "5857":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Noah Fant","news_updated":"2026-10-27T00:15:26.629Z","position":"TE","status":"Active","team":"NO"},
 "7002":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Juwan Johnson","news_updated":"2026-10-28T14:35:21.822Z","position":"TE","status":"Active","team":"NO"},
@@ -24,7 +23,7 @@
 "12480":{"active":true,"depth_chart_order":5,"depth_chart_position":"TE","full_name":"Moliki Matavao","injury_body_part":"Knee","injury_status":"IR","news_updated":"2026-08-25T22:45:41.804Z","position":"TE","status":"Inactive","team":"NO"},
 "12545":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Tyler Shough","news_updated":"2026-10-26T03:00:13.429Z","position":"QB","status":"Active","team":"NO"},
 "13277":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"CJ Donaldson","injury_body_part":"Shoulder","injury_status":"Questionable","news_updated":"2026-10-25T15:25:07.120Z","position":"RB","status":"Active","team":"NO"},
-"13281":{"active":true,"depth_chart_order":8,"depth_chart_position":"LWR","full_name":"Jordyn Tyson","injury_body_part":"Hamstring","injury_notes":"Strain","injury_status":"IR","news_updated":"2026-11-04T16:25:35.958Z","position":"WR","status":"Inactive","team":"NO"},
+"13281":{"active":true,"depth_chart_order":8,"depth_chart_position":"LWR","full_name":"Jordyn Tyson","injury_body_part":"Hamstring","injury_notes":"Strain","injury_status":"IR","news_updated":"2026-11-04T17:05:37.650Z","position":"WR","status":"Inactive","team":"NO"},
 "13319":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Oscar Delp","news_updated":"2026-10-07T00:25:01.968Z","position":"TE","status":"Active","team":"NO"},
 "13420":{"active":true,"depth_chart_order":3,"depth_chart_position":"LWR","full_name":"Bryce Lance","news_updated":"2026-10-27T00:00:26.751Z","position":"WR","status":"Active","team":"NO"},
 "13533":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Barion Brown","news_updated":"2026-10-26T23:50:12.436Z","position":"WR","status":"Active","team":"NO"}
