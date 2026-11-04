@@ -107,3 +107,126 @@
 {"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_position","kind":"change","new":"LWR","old":null,"player_id":"13670","source":"players_nfl","team":"ARI"}
 {"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":9,"old":null,"player_id":"13670","source":"players_nfl","team":"ARI"}
 {"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":3,"old":4,"player_id":"14026","source":"players_nfl","team":"MIA"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"829","source":"projections_feed","team":"ATL"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"829","source":"projections_feed","team":"ATL"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"1737","source":"projections_feed","team":"CHI"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"1737","source":"projections_feed","team":"CHI"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"2216","source":"projections_feed","team":"SF"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"3214","source":"projections_feed","team":"NE"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"4144","source":"projections_feed","team":"GB"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"4144","source":"projections_feed","team":"GB"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"4351","source":"projections_feed","team":"NYJ"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"4351","source":"projections_feed","team":"NYJ"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"4443","source":"projections_feed","team":"IND"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"4443","source":"projections_feed","team":"IND"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"5854","source":"projections_feed","team":"SEA"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"5859","source":"projections_feed","team":"NE"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"5872","source":"projections_feed","team":"SF"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"5892","source":"projections_feed","team":"HOU"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Questionable","player_id":"5995","source":"projections_feed","team":"BAL"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Groin","player_id":"5995","source":"projections_feed","team":"BAL"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"6828","source":"projections_feed","team":"CAR"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"6828","source":"projections_feed","team":"CAR"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"6865","source":"projections_feed","team":"LAR"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Doubtful","old":"Out","player_id":"7083","source":"projections_feed","team":"BAL"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_notes","kind":"change","new":"Sprain","old":null,"player_id":"7083","source":"projections_feed","team":"BAL"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"7525","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"7538","source":"projections_feed","team":"NO"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"7538","source":"projections_feed","team":"NO"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Questionable","player_id":"7547","source":"projections_feed","team":"DET"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Undisclosed","player_id":"7547","source":"projections_feed","team":"DET"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"7583","source":"projections_feed","team":"DEN"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"7583","source":"projections_feed","team":"DEN"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"7670","source":"projections_feed","team":"BUF"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"8110","source":"projections_feed","team":"DAL"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_notes","kind":"change","new":"Sprain","old":null,"player_id":"8110","source":"projections_feed","team":"DAL"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Questionable","player_id":"8112","source":"projections_feed","team":"ATL"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Head","player_id":"8112","source":"projections_feed","team":"ATL"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"8122","source":"projections_feed","team":"ARI"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Questionable","player_id":"8138","source":"projections_feed","team":"BUF"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Undisclosed","player_id":"8138","source":"projections_feed","team":"BUF"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"8154","source":"projections_feed","team":"ATL"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"8155","source":"projections_feed","team":"NYJ"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"8223","source":"projections_feed","team":"SEA"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"8414","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"8676","source":"projections_feed","team":"SEA"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"8917","source":"projections_feed","team":"DAL"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"9220","source":"projections_feed","team":"ARI"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"9220","source":"projections_feed","team":"ARI"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"9486","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"10215","source":"projections_feed","team":"NYG"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"10215","source":"projections_feed","team":"NYG"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"10866","source":"projections_feed","team":"LV"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"10866","source":"projections_feed","team":"LV"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"10871","source":"projections_feed","team":"DAL"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"11056","source":"projections_feed","team":"MIA"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"11056","source":"projections_feed","team":"MIA"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"11068","source":"projections_feed","team":"CIN"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"11068","source":"projections_feed","team":"CIN"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"11273","source":"projections_feed","team":"KC"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"11273","source":"projections_feed","team":"KC"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"11597","source":"projections_feed","team":"NYG"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"11600","source":"projections_feed","team":"CAR"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"11600","source":"projections_feed","team":"CAR"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"11748","source":"projections_feed","team":"CLE"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"11762","source":"projections_feed","team":"IND"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"12079","source":"projections_feed","team":"NO"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"12079","source":"projections_feed","team":"NO"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"12470","source":"projections_feed","team":"IND"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"12470","source":"projections_feed","team":"IND"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Questionable","player_id":"12474","source":"projections_feed","team":"HOU"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Leg","player_id":"12474","source":"projections_feed","team":"HOU"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"12477","source":"projections_feed","team":"SF"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"12477","source":"projections_feed","team":"SF"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"12486","source":"projections_feed","team":"CLE"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"12486","source":"projections_feed","team":"CLE"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"12504","source":"projections_feed","team":"GB"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"12504","source":"projections_feed","team":"GB"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"12514","source":"projections_feed","team":"TB"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"12529","source":"projections_feed","team":"NE"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"12534","source":"projections_feed","team":"CHI"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":"Toe","old":"Thumb","player_id":"12534","source":"projections_feed","team":"CHI"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"12541","source":"projections_feed","team":"LV"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"12541","source":"projections_feed","team":"LV"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"12775","source":"projections_feed","team":"MIN"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"12775","source":"projections_feed","team":"MIN"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"12860","source":"projections_feed","team":"LAC"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"12860","source":"projections_feed","team":"LAC"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"12938","source":"projections_feed","team":"DET"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"12938","source":"projections_feed","team":"DET"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"13268","source":"projections_feed","team":"BAL"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13268","source":"projections_feed","team":"BAL"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"13272","source":"projections_feed","team":"ARI"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13272","source":"projections_feed","team":"ARI"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"13275","source":"projections_feed","team":"LAR"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13275","source":"projections_feed","team":"LAR"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"13277","source":"projections_feed","team":"NO"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"13295","source":"projections_feed","team":"NE"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13295","source":"projections_feed","team":"NE"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"13306","source":"projections_feed","team":"CLE"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13306","source":"projections_feed","team":"CLE"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"13307","source":"projections_feed","team":"HOU"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13307","source":"projections_feed","team":"HOU"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"13329","source":"projections_feed","team":"LV"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13329","source":"projections_feed","team":"LV"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"13347","source":"projections_feed","team":"MIN"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13347","source":"projections_feed","team":"MIN"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"13350","source":"projections_feed","team":"BAL"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13350","source":"projections_feed","team":"BAL"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"Out","player_id":"13380","source":"projections_feed","team":"LAC"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"13400","source":"projections_feed","team":"MIA"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13400","source":"projections_feed","team":"MIA"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"13402","source":"projections_feed","team":"BUF"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13402","source":"projections_feed","team":"BUF"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"13404","source":"projections_feed","team":"KC"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13404","source":"projections_feed","team":"KC"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"13415","source":"projections_feed","team":"CAR"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13415","source":"projections_feed","team":"CAR"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"13554","source":"projections_feed","team":"JAX"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13554","source":"projections_feed","team":"JAX"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"13557","source":"projections_feed","team":"WAS"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13557","source":"projections_feed","team":"WAS"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"13577","source":"projections_feed","team":"DEN"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13577","source":"projections_feed","team":"DEN"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"13602","source":"projections_feed","team":"ATL"}
+{"detected_between":["2026-11-04T08:05:35Z","2026-11-04T08:35:33Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13602","source":"projections_feed","team":"ATL"}
