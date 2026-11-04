@@ -1,7 +1,7 @@
 {
 "1979":{"active":true,"full_name":"Blake Bortles","news_updated":"2022-10-05T14:30:59.619Z","position":"QB","status":"Active","team":"NO"},
 "4035":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Alvin Kamara","news_updated":"2026-10-26T03:10:13.512Z","position":"RB","status":"Active","team":"NO"},
-"5095":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Daniel Carlson","news_updated":"2026-11-03T21:40:28.409Z","position":"K","status":"Active","team":"NO"},
+"5095":{"active":true,"full_name":"Daniel Carlson","news_updated":"2026-11-03T21:40:28.409Z","position":"K","status":"Active","team":"NO"},
 "5744":{"active":true,"full_name":"Eldridge Massington","news_updated":"2018-08-05T22:25:02.281Z","position":"WR","status":"Active","team":"NO"},
 "5857":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Noah Fant","news_updated":"2026-10-27T00:15:26.629Z","position":"TE","status":"Active","team":"NO"},
 "7002":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Juwan Johnson","news_updated":"2026-10-28T14:35:21.822Z","position":"TE","status":"Active","team":"NO"},
@@ -16,7 +16,7 @@
 "11506":{"active":true,"full_name":"Jalen Cropper","news_updated":"2026-09-29T01:25:09.251Z","position":"WR","status":"Active","team":"NO"},
 "11562":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Spencer Rattler","news_updated":"2026-10-25T12:50:06.205Z","position":"QB","status":"Active","team":"NO"},
 "11569":{"active":true,"full_name":"Jarquez Hunter","news_updated":"2026-10-14T23:50:09.575Z","position":"RB","status":"Active","team":"NO"},
-"11579":{"news_updated":"2026-11-03T23:45:29.201Z","position":"RB","team":"NO"},
+"11579":{"active":true,"depth_chart_order":7,"depth_chart_position":"RB","full_name":"Audric Estime","news_updated":"2026-11-03T23:45:29.201Z","position":"RB","status":"Active","team":"NO"},
 "11653":{"active":true,"full_name":"Charlie Smyth","news_updated":"2026-11-04T00:10:29.426Z","position":"K","status":"Active","team":"NO"},
 "11834":{"active":true,"depth_chart_order":2,"depth_chart_position":"SWR","full_name":"Devaughn Vele","news_updated":"2026-11-03T16:00:56.293Z","position":"WR","status":"Active","team":"NO"},
 "11895":{"active":true,"depth_chart_order":8,"depth_chart_position":"RWR","full_name":"Mason Tipton","injury_body_part":"Groin","injury_status":"PUP","news_updated":"2026-08-31T18:45:14.889Z","position":"WR","status":"Active","team":"NO"},

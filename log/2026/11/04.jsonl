@@ -53,3 +53,57 @@
 {"detected_between":["2026-11-04T05:05:34Z","2026-11-04T05:35:32Z"],"field":"news_updated","kind":"change","new":"2026-11-04T05:10:32.625Z","old":"2026-11-04T01:25:29.855Z","player_id":"13315","source":"projections_feed","team":"LAR"}
 {"detected_between":["2026-11-04T06:05:35Z","2026-11-04T06:35:33Z"],"field":"news_updated","kind":"change","new":"2026-11-04T06:05:31.517Z","old":"2026-11-02T04:35:42.213Z","player_id":"4017","source":"projections_feed","team":"CLE"}
 {"detected_between":["2026-11-04T06:05:35Z","2026-11-04T06:35:33Z"],"field":"news_updated","kind":"change","new":"2026-11-04T06:05:31.553Z","old":"2026-10-31T19:55:24.799Z","player_id":"12718","source":"projections_feed","team":"LAR"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":3,"old":2,"player_id":"2197","source":"players_nfl","team":"SF"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":2,"old":1,"player_id":"3257","source":"players_nfl","team":"ARI"}
+{"detected_between":["2026-11-04T06:35:32Z","2026-11-04T07:05:33Z"],"field":"news_updated","kind":"change","new":"2026-11-04T06:55:31.963Z","old":"2026-11-04T03:10:30.466Z","player_id":"3271","source":"projections_feed","team":"LAR"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":2,"old":3,"player_id":"4039","source":"players_nfl","team":"SEA"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":3,"old":4,"player_id":"4137","source":"players_nfl","team":"ARI"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":6,"old":5,"player_id":"4351","source":"players_nfl","team":"NYJ"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_position","kind":"change","new":null,"old":"SWR","player_id":"4454","source":"players_nfl","team":"ARI"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":4,"old":3,"player_id":"4718","source":"players_nfl","team":"HOU"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":2,"old":3,"player_id":"4950","source":"players_nfl","team":"SF"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_position","kind":"change","new":null,"old":"K","player_id":"5095","source":"players_nfl","team":"NO"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":null,"old":1,"player_id":"5095","source":"players_nfl","team":"NO"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":1,"old":2,"player_id":"6011","source":"players_nfl","team":"ARI"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_position","kind":"change","new":null,"old":"SWR","player_id":"6386","source":"players_nfl","team":"LAR"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":null,"old":7,"player_id":"6386","source":"players_nfl","team":"LAR"}
+{"detected_between":["2026-11-04T06:35:32Z","2026-11-04T07:05:33Z"],"kind":"enter","player_id":"7537","record":{"active":true,"full_name":"Jaret Patterson","news_updated":"2026-11-04T00:25:29.491Z","position":"RB","status":"Active","team":"DEN"},"source":"projections_feed","team":"DEN"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":3,"old":4,"player_id":"7562","source":"players_nfl","team":"LAR"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_position","kind":"change","new":"TE","old":null,"player_id":"7597","source":"players_nfl","team":"ARI"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":5,"old":null,"player_id":"7597","source":"players_nfl","team":"ARI"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":3,"old":4,"player_id":"8116","source":"players_nfl","team":"GB"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":2,"old":3,"player_id":"8122","source":"players_nfl","team":"ARI"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":3,"old":4,"player_id":"8195","source":"players_nfl","team":"LAR"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":5,"old":4,"player_id":"8208","source":"players_nfl","team":"DEN"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"8223","source":"players_nfl","team":"SEA"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":6,"old":7,"player_id":"8527","source":"players_nfl","team":"LV"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":3,"old":2,"player_id":"8676","source":"players_nfl","team":"SEA"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"9220","source":"players_nfl","team":"ARI"}
+{"detected_between":["2026-11-04T06:35:32Z","2026-11-04T07:05:33Z"],"field":"news_updated","kind":"change","new":"2026-11-04T06:40:31.665Z","old":"2026-10-27T00:55:26.792Z","player_id":"9502","source":"projections_feed","team":"HOU"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":3,"old":4,"player_id":"11199","source":"players_nfl","team":"HOU"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":6,"old":5,"player_id":"11280","source":"players_nfl","team":"SEA"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":3,"old":2,"player_id":"11435","source":"players_nfl","team":"SEA"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"kind":"fill","player_id":"11579","record":{"active":true,"depth_chart_order":7,"depth_chart_position":"RB","full_name":"Audric Estime","status":"Active"},"source":"players_nfl","team":"NO"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":6,"old":7,"player_id":"11589","source":"players_nfl","team":"ARI"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":4,"old":3,"player_id":"11623","source":"players_nfl","team":"LAR"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":null,"old":7,"player_id":"11748","source":"players_nfl","team":"CLE"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":7,"old":6,"player_id":"12489","source":"players_nfl","team":"DEN"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":4,"old":3,"player_id":"12504","source":"players_nfl","team":"GB"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":10,"old":5,"player_id":"12541","source":"players_nfl","team":"LV"}
+{"detected_between":["2026-11-04T06:35:32Z","2026-11-04T07:05:33Z"],"field":"news_updated","kind":"change","new":"2026-11-04T06:50:31.766Z","old":"2026-11-04T02:20:30.393Z","player_id":"12542","source":"projections_feed","team":"NE"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":3,"old":4,"player_id":"12542","source":"players_nfl","team":"NE"}
+{"detected_between":["2026-11-04T06:35:32Z","2026-11-04T07:05:33Z"],"field":"news_updated","kind":"change","new":"2026-11-04T06:45:31.841Z","old":"2026-11-02T04:40:41.464Z","player_id":"12547","source":"projections_feed","team":"NE"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":4,"old":3,"player_id":"12547","source":"players_nfl","team":"NE"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"kind":"fill","player_id":"13042","record":{"active":true,"full_name":"Xavier Guillory","status":"Active"},"source":"players_nfl","team":"CLE"}
+{"detected_between":["2026-11-04T06:35:32Z","2026-11-04T07:05:33Z"],"field":"news_updated","kind":"change","new":"2026-11-04T06:40:31.664Z","old":"2026-11-04T02:25:30.321Z","player_id":"13150","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-11-04T06:35:32Z","2026-11-04T07:05:33Z"],"field":"news_updated","kind":"change","new":"2026-11-04T06:55:31.962Z","old":"2026-10-27T13:30:03.617Z","player_id":"13285","source":"projections_feed","team":"NYG"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":2,"old":3,"player_id":"13286","source":"players_nfl","team":"SEA"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":7,"old":2,"player_id":"13287","source":"players_nfl","team":"ARI"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"status","kind":"change","new":"Inactive","old":"Active","player_id":"13315","source":"players_nfl","team":"LAR"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":5,"old":3,"player_id":"13315","source":"players_nfl","team":"LAR"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"13329","source":"players_nfl","team":"LV"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":4,"old":3,"player_id":"13405","source":"players_nfl","team":"MIA"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"kind":"fill","player_id":"13418","record":{"active":true,"depth_chart_order":7,"depth_chart_position":"RB","full_name":"Robert Henry Jr.","status":"Active"},"source":"players_nfl","team":"WAS"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_position","kind":"change","new":"LWR","old":null,"player_id":"13670","source":"players_nfl","team":"ARI"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":9,"old":null,"player_id":"13670","source":"players_nfl","team":"ARI"}
+{"detected_between":["2026-11-03T22:05:37Z","2026-11-04T07:05:33Z"],"field":"depth_chart_order","kind":"change","new":3,"old":4,"player_id":"14026","source":"players_nfl","team":"MIA"}
