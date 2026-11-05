@@ -28,6 +28,6 @@
 "13404":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Garrett Nussmeier","news_updated":"2026-11-01T20:30:36.963Z","position":"QB","status":"Active","team":"KC"},
 "13413":{"active":true,"depth_chart_order":3,"depth_chart_position":"SWR","full_name":"Cyrus Allen","news_updated":"2026-11-03T03:45:51.460Z","position":"WR","status":"Active","team":"KC"},
 "13419":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Jaydn Ott","news_updated":"2026-10-24T18:05:58.864Z","position":"RB","status":"Active","team":"KC"},
-"13904":{"news_updated":"2026-11-05T02:35:39.808Z","position":"WR","team":"KC"},
+"13904":{"active":true,"full_name":"Jacob De Jesus","news_updated":"2026-11-05T02:35:39.808Z","position":"WR","status":"Active","team":"KC"},
 "13905":{"active":true,"full_name":"Omari Evans","news_updated":"2026-09-02T02:05:25.183Z","position":"WR","status":"Active","team":"KC"}
 }
