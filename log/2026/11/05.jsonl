@@ -162,3 +162,11 @@
 {"detected_between":["2026-11-04T22:05:34Z","2026-11-05T07:05:32Z"],"field":"depth_chart_order","kind":"change","new":7,"old":6,"player_id":"13964","source":"players_nfl","team":"NE"}
 {"detected_between":["2026-11-05T07:05:31Z","2026-11-05T07:35:30Z"],"kind":"enter","player_id":"8194","record":{"news_updated":"2026-11-05T02:30:40.081Z","position":"RB","team":"DAL"},"source":"projections_feed","team":"DAL"}
 {"detected_between":["2026-11-05T11:05:34Z","2026-11-05T11:35:39Z"],"field":"news_updated","kind":"change","new":"2026-11-05T11:10:42.842Z","old":"2026-10-21T17:30:53.410Z","player_id":"6904","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-11-05T07:05:31Z","2026-11-05T14:35:34Z"],"field":"depth_chart_order","kind":"change","new":3,"old":2,"player_id":"4039","source":"players_nfl","team":"SEA"}
+{"detected_between":["2026-11-05T07:05:31Z","2026-11-05T14:35:34Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"4351","source":"players_nfl","team":"NYJ"}
+{"detected_between":["2026-11-05T14:05:35Z","2026-11-05T14:35:34Z"],"field":"news_updated","kind":"change","new":"2026-11-05T14:25:43.502Z","old":"2026-11-02T16:15:48.223Z","player_id":"7523","source":"projections_feed","team":"JAX"}
+{"detected_between":["2026-11-05T07:05:31Z","2026-11-05T14:35:34Z"],"kind":"fill","player_id":"8194","record":{"active":true,"full_name":"Jashaun Corbin","status":"Active"},"source":"players_nfl","team":"DAL"}
+{"detected_between":["2026-11-05T07:05:31Z","2026-11-05T14:35:34Z"],"field":"depth_chart_order","kind":"change","new":2,"old":3,"player_id":"8676","source":"players_nfl","team":"SEA"}
+{"detected_between":["2026-11-05T07:05:31Z","2026-11-05T14:35:34Z"],"field":"depth_chart_order","kind":"change","new":5,"old":4,"player_id":"8800","source":"players_nfl","team":"DAL"}
+{"detected_between":["2026-11-05T07:05:31Z","2026-11-05T14:35:34Z"],"field":"depth_chart_order","kind":"change","new":4,"old":3,"player_id":"12510","source":"players_nfl","team":"SEA"}
+{"detected_between":["2026-11-05T14:05:35Z","2026-11-05T14:35:34Z"],"field":"news_updated","kind":"change","new":"2026-11-05T14:20:43.385Z","old":"2026-11-05T01:10:40.014Z","player_id":"13281","source":"projections_feed","team":"NO"}
