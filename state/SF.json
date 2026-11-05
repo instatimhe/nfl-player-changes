@@ -6,7 +6,7 @@
 "4034":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Christian McCaffrey","injury_body_part":"Calf","injury_status":"Questionable","news_updated":"2026-11-04T22:30:38.054Z","position":"RB","status":"Active","team":"SF"},
 "4217":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"George Kittle","news_updated":"2026-10-25T23:00:12.719Z","position":"TE","status":"Active","team":"SF"},
 "4914":{"active":false,"full_name":"Glen Coffee","position":"RB","status":"Active","team":"SF"},
-"4950":{"active":true,"depth_chart_order":2,"depth_chart_position":"SWR","full_name":"Christian Kirk","news_updated":"2026-10-26T23:50:12.475Z","position":"WR","status":"Active","team":"SF"},
+"4950":{"active":true,"depth_chart_order":2,"depth_chart_position":"SWR","full_name":"Christian Kirk","injury_body_part":"Knee","injury_status":"Questionable","news_updated":"2026-10-26T23:50:12.475Z","position":"WR","status":"Active","team":"SF"},
 "5189":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Eddy Pineiro","news_updated":"2026-10-27T18:00:05.363Z","position":"K","status":"Active","team":"SF"},
 "5773":{"active":true,"full_name":"KhaDarel Hodge","news_updated":"2026-11-03T01:05:50.007Z","position":"WR","status":"Active","team":"SF"},
 "5872":{"active":true,"depth_chart_order":8,"depth_chart_position":"SWR","full_name":"Deebo Samuel Sr.","injury_body_part":"Hamstring","injury_status":"Questionable","news_updated":"2026-11-04T23:20:38.259Z","position":"WR","status":"Active","team":"SF"},

@@ -1,0 +1,8 @@
+{"detected_between":["2026-11-04T23:35:30Z","2026-11-05T00:05:31Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"4950","source":"projections_feed","team":"SF"}
+{"detected_between":["2026-11-04T23:35:30Z","2026-11-05T00:05:31Z"],"field":"injury_body_part","kind":"change","new":"Knee","old":null,"player_id":"4950","source":"projections_feed","team":"SF"}
+{"detected_between":["2026-11-04T23:35:30Z","2026-11-05T00:05:31Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"4995","source":"projections_feed","team":"LV"}
+{"detected_between":["2026-11-04T23:35:30Z","2026-11-05T00:05:31Z"],"field":"injury_body_part","kind":"change","new":"Ankle","old":null,"player_id":"4995","source":"projections_feed","team":"LV"}
+{"detected_between":["2026-11-04T23:35:30Z","2026-11-05T00:05:31Z"],"field":"news_updated","kind":"change","new":"2026-11-04T23:30:38.517Z","old":"2026-11-04T21:40:37.817Z","player_id":"7525","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-11-04T23:35:30Z","2026-11-05T00:05:31Z"],"field":"news_updated","kind":"change","new":"2026-11-04T23:35:38.357Z","old":"2026-10-30T16:05:12.675Z","player_id":"9228","source":"projections_feed","team":"CAR"}
+{"detected_between":["2026-11-04T23:35:30Z","2026-11-05T00:05:31Z"],"field":"news_updated","kind":"change","new":"2026-11-04T23:35:38.854Z","old":"2026-11-04T21:45:37.797Z","player_id":"9486","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-11-04T23:35:30Z","2026-11-05T00:05:31Z"],"field":"news_updated","kind":"change","new":"2026-11-04T23:45:38.539Z","old":"2026-11-04T22:10:38.242Z","player_id":"12487","source":"projections_feed","team":"LAR"}
