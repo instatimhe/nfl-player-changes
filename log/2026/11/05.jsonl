@@ -160,3 +160,4 @@
 {"detected_between":["2026-11-04T22:05:34Z","2026-11-05T07:05:32Z"],"field":"depth_chart_order","kind":"change","new":6,"old":5,"player_id":"13827","source":"players_nfl","team":"NE"}
 {"detected_between":["2026-11-04T22:05:34Z","2026-11-05T07:05:32Z"],"kind":"fill","player_id":"13904","record":{"active":true,"full_name":"Jacob De Jesus","status":"Active"},"source":"players_nfl","team":"KC"}
 {"detected_between":["2026-11-04T22:05:34Z","2026-11-05T07:05:32Z"],"field":"depth_chart_order","kind":"change","new":7,"old":6,"player_id":"13964","source":"players_nfl","team":"NE"}
+{"detected_between":["2026-11-05T07:05:31Z","2026-11-05T07:35:30Z"],"kind":"enter","player_id":"8194","record":{"news_updated":"2026-11-05T02:30:40.081Z","position":"RB","team":"DAL"},"source":"projections_feed","team":"DAL"}
