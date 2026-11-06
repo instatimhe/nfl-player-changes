@@ -123,3 +123,5 @@
 {"detected_between":["2026-11-06T07:35:32Z","2026-11-06T08:05:35Z"],"field":"news_updated","kind":"change","new":"2026-11-06T07:40:51.008Z","old":"2026-11-06T00:25:47.602Z","player_id":"10232","source":"projections_feed","team":"ARI"}
 {"detected_between":["2026-11-06T07:35:32Z","2026-11-06T08:05:35Z"],"field":"news_updated","kind":"change","new":"2026-11-06T07:25:51.335Z","old":"2026-11-03T02:10:50.583Z","player_id":"12688","source":"projections_feed","team":"GB"}
 {"detected_between":["2026-11-06T07:35:32Z","2026-11-06T08:05:35Z"],"field":"news_updated","kind":"change","new":"2026-11-06T07:35:51.626Z","old":"2026-11-06T03:40:48.337Z","player_id":"13281","source":"projections_feed","team":"NO"}
+{"detected_between":["2026-11-06T13:35:33Z","2026-11-06T14:05:33Z"],"field":"injury_status","kind":"change","new":"Out","old":"Questionable","player_id":"8154","source":"projections_feed","team":"ATL"}
+{"detected_between":["2026-11-06T13:35:33Z","2026-11-06T14:05:33Z"],"field":"news_updated","kind":"change","new":"2026-11-06T13:45:52.499Z","old":"2026-11-05T17:25:46.167Z","player_id":"8154","source":"projections_feed","team":"ATL"}
