@@ -1,6 +1,6 @@
 {
 "2944":{"active":true,"full_name":"Matt LaCosse","news_updated":"2022-07-13T16:50:46.065Z","position":"TE","status":"Active","team":"NE"},
-"3214":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Hunter Henry","injury_body_part":"Foot","injury_status":"Questionable","news_updated":"2026-11-06T19:10:16.522Z","position":"TE","status":"Active","team":"NE"},
+"3214":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Hunter Henry","injury_body_part":"Foot","injury_status":"Questionable","news_updated":"2026-11-06T19:10:16.522Z","position":"TE","status":"Active","team":"NE"},
 "4177":{"active":true,"depth_chart_order":5,"depth_chart_position":"RWR","full_name":"Mack Hollins","injury_body_part":"Calf","injury_status":"IR","news_updated":"2026-11-06T21:10:04.471Z","position":"WR","status":"Inactive","team":"NE"},
 "5859":{"active":true,"depth_chart_order":3,"depth_chart_position":"LWR","full_name":"A.J. Brown","injury_body_part":"Knee","injury_status":"Out","news_updated":"2026-11-06T18:40:16.508Z","position":"WR","status":"Active","team":"NE"},
 "7204":{"active":true,"depth_chart_order":5,"depth_chart_position":"RB","full_name":"Reggie Gilliam","injury_body_part":"Ankle","injury_status":"IR","news_updated":"2026-10-11T00:40:08.528Z","position":"RB","status":"Inactive","team":"NE"},
@@ -22,7 +22,7 @@
 "12908":{"active":true,"full_name":"Chandler Brayboy","news_updated":"2026-09-15T00:55:08.093Z","position":"WR","status":"Active","team":"NE"},
 "12969":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Lan Larison","news_updated":"2026-11-01T00:20:26.783Z","position":"RB","status":"Active","team":"NE"},
 "13295":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Behren Morton","news_updated":"2026-11-01T20:25:37.073Z","position":"QB","status":"Active","team":"NE"},
-"13421":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Eli Raridon","news_updated":"2026-11-04T16:10:35.563Z","position":"TE","status":"Active","team":"NE"},
+"13421":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Eli Raridon","news_updated":"2026-11-04T16:10:35.563Z","position":"TE","status":"Active","team":"NE"},
 "13827":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Tanner Arkin","news_updated":"2026-09-20T16:20:55.903Z","position":"TE","status":"Active","team":"NE"},
 "13830":{"active":true,"full_name":"Kyle Dixon","news_updated":"2026-09-03T01:35:37.196Z","position":"WR","status":"Active","team":"NE"},
 "13964":{"active":true,"depth_chart_order":7,"depth_chart_position":"RB","full_name":"Myles Montgomery","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-08-13T23:10:46.055Z","position":"RB","status":"Inactive","team":"NE"}
