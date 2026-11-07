@@ -395,3 +395,7 @@
 {"detected_between":["2026-11-07T22:05:35Z","2026-11-07T22:35:36Z"],"kind":"enter","player_id":"10215","record":{"news_updated":"2026-11-06T07:10:51.366Z","position":"QB","team":"NYG"},"source":"projections_feed","team":"NYG"}
 {"detected_between":["2026-11-07T22:05:35Z","2026-11-07T22:35:36Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"IR","player_id":"12889","source":"projections_feed","team":"ATL"}
 {"detected_between":["2026-11-07T22:05:35Z","2026-11-07T22:35:36Z"],"field":"injury_body_part","kind":"change","new":"Hip","old":"Undisclosed","player_id":"12889","source":"projections_feed","team":"ATL"}
+{"detected_between":["2026-11-07T22:35:36Z","2026-11-07T23:05:36Z"],"field":"news_updated","kind":"change","new":"2026-11-07T22:30:12.731Z","old":"2026-11-06T20:40:04.392Z","player_id":"8137","source":"projections_feed","team":"DAL"}
+{"detected_between":["2026-11-07T22:35:36Z","2026-11-07T23:05:36Z"],"field":"news_updated","kind":"change","new":"2026-11-07T22:45:12.935Z","old":"2026-11-03T02:25:50.796Z","player_id":"8170","source":"projections_feed","team":"DAL"}
+{"detected_between":["2026-11-07T22:35:36Z","2026-11-07T23:05:36Z"],"field":"news_updated","kind":"change","new":"2026-11-07T22:50:12.734Z","old":"2026-11-02T18:20:46.953Z","player_id":"9500","source":"projections_feed","team":"IND"}
+{"detected_between":["2026-11-07T22:35:36Z","2026-11-07T23:05:36Z"],"field":"news_updated","kind":"change","new":"2026-11-07T22:55:12.914Z","old":"2026-11-07T20:25:12.073Z","player_id":"13325","source":"projections_feed","team":"DAL"}
