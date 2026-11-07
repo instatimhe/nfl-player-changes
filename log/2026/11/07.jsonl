@@ -387,3 +387,11 @@
 {"detected_between":["2026-11-07T14:35:32Z","2026-11-07T22:05:35Z"],"field":"depth_chart_order","kind":"change","new":4,"old":3,"player_id":"13420","source":"players_nfl","team":"NO"}
 {"detected_between":["2026-11-07T14:35:32Z","2026-11-07T22:05:35Z"],"field":"depth_chart_order","kind":"change","new":5,"old":4,"player_id":"13533","source":"players_nfl","team":"NO"}
 {"detected_between":["2026-11-07T14:35:32Z","2026-11-07T22:05:35Z"],"kind":"fill","player_id":"13580","record":{"active":true,"depth_chart_order":5,"depth_chart_position":"TE","full_name":"Carsen Ryan","status":"Active"},"source":"players_nfl","team":"CLE"}
+{"detected_between":["2026-11-07T22:05:35Z","2026-11-07T22:35:36Z"],"field":"news_updated","kind":"change","new":"2026-11-07T22:05:12.577Z","old":"2026-11-05T21:30:47.510Z","player_id":"1479","source":"projections_feed","team":"IND"}
+{"detected_between":["2026-11-07T22:05:35Z","2026-11-07T22:35:36Z"],"field":"injury_status","kind":"change","new":"IR","old":"Out","player_id":"4950","source":"projections_feed","team":"SF"}
+{"detected_between":["2026-11-07T22:05:35Z","2026-11-07T22:35:36Z"],"field":"news_updated","kind":"change","new":"2026-11-07T21:55:12.617Z","old":"2026-11-06T23:30:05.964Z","player_id":"4950","source":"projections_feed","team":"SF"}
+{"detected_between":["2026-11-07T22:05:35Z","2026-11-07T22:35:36Z"],"field":"news_updated","kind":"change","new":"2026-11-07T22:25:12.944Z","old":"2026-11-06T22:10:04.721Z","player_id":"7561","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-11-07T22:05:35Z","2026-11-07T22:35:36Z"],"field":"injury_status","kind":"change","new":"IR","old":"Out","player_id":"7587","source":"projections_feed","team":"WAS"}
+{"detected_between":["2026-11-07T22:05:35Z","2026-11-07T22:35:36Z"],"kind":"enter","player_id":"10215","record":{"news_updated":"2026-11-06T07:10:51.366Z","position":"QB","team":"NYG"},"source":"projections_feed","team":"NYG"}
+{"detected_between":["2026-11-07T22:05:35Z","2026-11-07T22:35:36Z"],"field":"injury_status","kind":"change","new":"Questionable","old":"IR","player_id":"12889","source":"projections_feed","team":"ATL"}
+{"detected_between":["2026-11-07T22:05:35Z","2026-11-07T22:35:36Z"],"field":"injury_body_part","kind":"change","new":"Hip","old":"Undisclosed","player_id":"12889","source":"projections_feed","team":"ATL"}
