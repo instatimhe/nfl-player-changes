@@ -289,3 +289,6 @@
 {"detected_between":["2026-11-07T18:05:35Z","2026-11-07T18:35:33Z"],"field":"news_updated","kind":"change","new":"2026-11-07T18:25:11.415Z","old":"2026-11-07T16:15:10.634Z","player_id":"13281","source":"projections_feed","team":"NO"}
 {"detected_between":["2026-11-07T18:05:35Z","2026-11-07T18:35:33Z"],"field":"news_updated","kind":"change","new":"2026-11-07T18:05:11.313Z","old":"2026-11-07T00:15:05.077Z","player_id":"13305","source":"projections_feed","team":"LV"}
 {"detected_between":["2026-11-07T18:05:35Z","2026-11-07T18:35:33Z"],"kind":"enter","player_id":"13580","record":{"news_updated":"2026-11-06T07:20:50.966Z","position":"TE","team":"CLE"},"source":"projections_feed","team":"CLE"}
+{"detected_between":["2026-11-07T18:35:33Z","2026-11-07T19:05:38Z"],"field":"news_updated","kind":"change","new":"2026-11-07T18:35:11.409Z","old":"2026-11-07T18:15:11.504Z","player_id":"4017","source":"projections_feed","team":"CLE"}
+{"detected_between":["2026-11-07T18:35:33Z","2026-11-07T19:05:38Z"],"field":"injury_status","kind":"change","new":"Out","old":"Questionable","player_id":"7670","source":"projections_feed","team":"BUF"}
+{"detected_between":["2026-11-07T18:35:33Z","2026-11-07T19:05:38Z"],"field":"news_updated","kind":"change","new":"2026-11-07T18:50:11.472Z","old":"2026-11-07T15:35:10.397Z","player_id":"9757","source":"projections_feed","team":"NO"}
