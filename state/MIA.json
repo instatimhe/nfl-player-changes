@@ -12,7 +12,7 @@
 "11056":{"active":true,"full_name":"Jared Wayne","news_updated":"2026-11-01T20:25:37.112Z","position":"WR","status":"Active","team":"MIA"},
 "11186":{"active":true,"depth_chart_order":5,"depth_chart_position":"RB","full_name":"Carlos Washington Jr.","news_updated":"2026-11-08T00:00:14.817Z","position":"RB","status":"Active","team":"MIA"},
 "11610":{"active":true,"depth_chart_order":1,"depth_chart_position":"SWR","full_name":"Malik Washington","news_updated":"2026-11-07T12:25:09.367Z","position":"WR","status":"Active","team":"MIA"},
-"11643":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Jaylen Wright","injury_body_part":"Quadriceps","injury_status":"Out","news_updated":"2026-11-08T14:05:18.249Z","position":"RB","status":"Active","team":"MIA"},
+"11643":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Jaylen Wright","injury_body_part":"Quadriceps","injury_status":"Out","news_updated":"2026-11-08T17:05:19.206Z","position":"RB","status":"Active","team":"MIA"},
 "12494":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Kyle McCord","news_updated":"2026-09-01T21:15:21.661Z","position":"QB","status":"Active","team":"MIA"},
 "12495":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Ollie Gordon II","news_updated":"2026-11-07T12:05:09.294Z","position":"RB","status":"Active","team":"MIA"},
 "12538":{"active":true,"full_name":"Brady Cook","news_updated":"2026-10-15T05:45:13.272Z","position":"QB","status":"Active","team":"MIA"},
@@ -23,7 +23,7 @@
 "13311":{"active":true,"depth_chart_order":3,"depth_chart_position":"LWR","full_name":"Chris Bell","news_updated":"2026-11-07T12:35:09.610Z","position":"WR","status":"Active","team":"MIA"},
 "13338":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Kevin Coleman Jr.","news_updated":"2026-11-07T12:45:09.513Z","position":"WR","status":"Active","team":"MIA"},
 "13400":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Justin Joly","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-10-22T00:30:52.483Z","position":"TE","status":"Active","team":"MIA"},
-"13405":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Kaytron Allen","news_updated":"2026-11-07T00:55:05.642Z","position":"RB","status":"Active","team":"MIA"},
+"13405":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Kaytron Allen","news_updated":"2026-11-08T17:25:19.695Z","position":"RB","status":"Active","team":"MIA"},
 "13429":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Seydou Traore","news_updated":"2026-09-11T20:25:15.055Z","position":"TE","status":"Active","team":"MIA"},
 "13434":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Will Kacmarek","news_updated":"2026-11-07T01:00:06.417Z","position":"TE","status":"Active","team":"MIA"},
 "14026":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"DJ Herman","position":"RB","status":"Active","team":"MIA"}
