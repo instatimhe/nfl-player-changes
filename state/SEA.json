@@ -5,7 +5,7 @@
 "4936":{"active":true,"full_name":"Skyler Howard","position":"QB","status":"Active","team":"SEA"},
 "4943":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Sam Darnold","injury_body_part":"Quadriceps","injury_status":"Out","news_updated":"2026-11-05T15:45:44.108Z","position":"QB","status":"Active","team":"SEA"},
 "5854":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Drew Lock","news_updated":"2026-11-07T01:05:05.515Z","position":"QB","status":"Active","team":"SEA"},
-"8223":{"news_updated":"2026-11-08T05:10:16.337Z","position":"WR","team":"SEA"},
+"8223":{"active":true,"full_name":"Velus Jones Jr.","news_updated":"2026-11-08T05:10:16.337Z","position":"WR","status":"Active","team":"SEA"},
 "8676":{"active":true,"depth_chart_order":5,"depth_chart_position":"RWR","full_name":"Rashid Shaheed","injury_body_part":"Knee","injury_status":"Out","news_updated":"2026-11-07T01:05:05.510Z","position":"WR","status":"Active","team":"SEA"},
 "8861":{"active":true,"depth_chart_order":4,"depth_chart_position":"LWR","full_name":"Irvin Charles","news_updated":"2026-10-24T23:41:00.958Z","position":"WR","status":"Active","team":"SEA"},
 "9488":{"active":true,"depth_chart_order":1,"depth_chart_position":"LWR","full_name":"Jaxon Smith-Njigba","news_updated":"2026-11-07T00:50:06.029Z","position":"WR","status":"Active","team":"SEA"},
@@ -24,7 +24,7 @@
 "12656":{"active":true,"depth_chart_order":7,"depth_chart_position":"RB","full_name":"Robbie Ouzts","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-08-14T23:30:45.438Z","position":"RB","status":"Inactive","team":"SEA"},
 "13047":{"active":true,"depth_chart_order":8,"depth_chart_position":"RB","full_name":"Jacardia Wright","injury_body_part":"Foot","injury_status":"Out","news_updated":"2026-10-07T00:05:02.577Z","position":"RB","status":"Active","team":"SEA"},
 "13151":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Nick Kallerup","news_updated":"2025-12-31T16:10:24.526Z","position":"TE","status":"Active","team":"SEA"},
-"13199":{"active":true,"full_name":"Montorie Foster Jr.","news_updated":"2026-11-08T00:50:13.691Z","position":"WR","status":"Active","team":"SEA"},
+"13199":{"active":true,"depth_chart_order":8,"depth_chart_position":"SWR","full_name":"Montorie Foster Jr.","news_updated":"2026-11-08T06:40:17.120Z","position":"WR","status":"Active","team":"SEA"},
 "13286":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Jadarian Price","news_updated":"2026-11-07T00:45:05.448Z","position":"RB","status":"Active","team":"SEA"},
 "13313":{"active":true,"full_name":"Emmanuel Henderson Jr.","news_updated":"2026-09-03T04:15:38.179Z","position":"WR","status":"Active","team":"SEA"}
 }
