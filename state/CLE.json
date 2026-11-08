@@ -1,6 +1,6 @@
 {
 "2471":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Michael Burton","news_updated":"2026-06-04T22:20:36.881Z","position":"FB","status":"Active","team":"CLE"},
-"4017":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Deshaun Watson","injury_body_part":"Concussion","injury_status":"Questionable","news_updated":"2026-11-08T14:30:18.414Z","position":"QB","status":"Active","team":"CLE"},
+"4017":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Deshaun Watson","injury_body_part":"Concussion","injury_status":"Out","news_updated":"2026-11-08T16:45:20.821Z","position":"QB","status":"Active","team":"CLE"},
 "6783":{"active":true,"depth_chart_order":3,"depth_chart_position":"RWR","full_name":"Jerry Jeudy","news_updated":"2026-11-03T01:05:50.016Z","position":"WR","status":"Active","team":"CLE"},
 "7048":{"active":true,"full_name":"Benny LeMay","news_updated":"2022-01-06T17:40:17.822Z","position":"RB","status":"Active","team":"CLE"},
 "7595":{"active":true,"depth_chart_order":5,"depth_chart_position":"RWR","full_name":"Tylan Wallace","news_updated":"2026-11-02T16:10:46.240Z","position":"WR","status":"Active","team":"CLE"},
@@ -20,7 +20,7 @@
 "12524":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Shedeur Sanders","news_updated":"2026-11-07T12:45:09.514Z","position":"QB","status":"Active","team":"CLE"},
 "13042":{"active":true,"full_name":"Xavier Guillory","news_updated":"2026-11-04T00:45:29.533Z","position":"WR","status":"Active","team":"CLE"},
 "13298":{"active":true,"depth_chart_order":2,"depth_chart_position":"SWR","full_name":"KC Concepcion Jr.","news_updated":"2026-11-07T13:15:09.688Z","position":"WR","status":"Active","team":"CLE"},
-"13306":{"active":true,"depth_chart_order":4,"depth_chart_position":"QB","full_name":"Taylen Green","news_updated":"2026-10-25T16:15:07.587Z","position":"QB","status":"Active","team":"CLE"},
+"13306":{"active":true,"depth_chart_order":4,"depth_chart_position":"QB","full_name":"Taylen Green","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-10-25T16:15:07.587Z","position":"QB","status":"Active","team":"CLE"},
 "13346":{"active":true,"depth_chart_order":1,"depth_chart_position":"LWR","full_name":"Denzel Boston","news_updated":"2026-11-07T13:10:09.655Z","position":"WR","status":"Active","team":"CLE"},
 "13435":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Joe Royer","injury_body_part":"Personal","injury_status":"PUP","news_updated":"2026-08-30T21:35:58.011Z","position":"TE","status":"Active","team":"CLE"},
 "13580":{"active":true,"depth_chart_order":5,"depth_chart_position":"TE","full_name":"Carsen Ryan","news_updated":"2026-11-07T20:50:12.184Z","position":"TE","status":"Active","team":"CLE"}
