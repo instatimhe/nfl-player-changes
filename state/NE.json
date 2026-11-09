@@ -1,6 +1,6 @@
 {
 "2944":{"active":true,"full_name":"Matt LaCosse","news_updated":"2022-07-13T16:50:46.065Z","position":"TE","status":"Active","team":"NE"},
-"3214":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Hunter Henry","news_updated":"2026-11-08T20:20:20.725Z","position":"TE","status":"Active","team":"NE"},
+"3214":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Hunter Henry","news_updated":"2026-11-09T01:40:23.566Z","position":"TE","status":"Active","team":"NE"},
 "4177":{"active":true,"depth_chart_order":2,"depth_chart_position":"RWR","full_name":"Mack Hollins","news_updated":"2026-11-08T20:15:22.316Z","position":"WR","status":"Active","team":"NE"},
 "5859":{"active":true,"depth_chart_order":5,"depth_chart_position":"LWR","full_name":"A.J. Brown","injury_body_part":"Knee","injury_status":"Out","news_updated":"2026-11-07T18:20:12.647Z","position":"WR","status":"Active","team":"NE"},
 "7204":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Reggie Gilliam","injury_body_part":"Ankle","injury_status":"IR","news_updated":"2026-10-11T00:40:08.528Z","position":"RB","status":"Inactive","team":"NE"},
@@ -16,7 +16,7 @@
 "12412":{"active":true,"full_name":"Terrell Jennings","news_updated":"2026-11-03T01:35:50.486Z","position":"RB","status":"Active","team":"NE"},
 "12491":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Corey Kiner","news_updated":"2026-11-04T15:40:35.385Z","position":"RB","status":"Active","team":"NE"},
 "12529":{"active":true,"depth_chart_order":5,"depth_chart_position":"RB","full_name":"TreVeyon Henderson","injury_body_part":"Illness","injury_status":"Out","news_updated":"2026-11-06T18:55:16.366Z","position":"RB","status":"Active","team":"NE"},
-"12542":{"active":true,"depth_chart_order":3,"depth_chart_position":"SWR","full_name":"Efton Chism III","news_updated":"2026-11-07T05:10:06.860Z","position":"WR","status":"Active","team":"NE"},
+"12542":{"active":true,"depth_chart_order":3,"depth_chart_position":"SWR","full_name":"Efton Chism III","news_updated":"2026-11-09T01:50:23.378Z","position":"WR","status":"Active","team":"NE"},
 "12547":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Kyle Williams","news_updated":"2026-11-04T06:45:31.841Z","position":"WR","status":"Active","team":"NE"},
 "12713":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Andy Borregales","news_updated":"2026-11-03T03:30:51.358Z","position":"K","status":"Active","team":"NE"},
 "12908":{"active":true,"full_name":"Chandler Brayboy","news_updated":"2026-09-15T00:55:08.093Z","position":"WR","status":"Active","team":"NE"},
