@@ -143,3 +143,4 @@
 {"detected_between":["2026-11-09T22:05:37Z","2026-11-10T07:05:37Z"],"field":"depth_chart_order","kind":"change","new":null,"old":6,"player_id":"13827","source":"players_nfl","team":"NE"}
 {"detected_between":["2026-11-10T07:05:37Z","2026-11-10T07:35:38Z"],"field":"news_updated","kind":"change","new":"2026-11-10T06:55:46.052Z","old":"2026-11-10T04:55:45.717Z","player_id":"6794","source":"projections_feed","team":"MIN"}
 {"detected_between":["2026-11-10T07:05:37Z","2026-11-10T07:35:38Z"],"field":"news_updated","kind":"change","new":"2026-11-10T07:10:46.144Z","old":"2026-11-10T05:20:45.883Z","player_id":"8408","source":"projections_feed","team":"MIN"}
+{"detected_between":["2026-11-10T07:35:38Z","2026-11-10T08:05:41Z"],"field":"news_updated","kind":"change","new":"2026-11-10T07:25:46.102Z","old":"2026-11-10T05:15:45.690Z","player_id":"3161","source":"projections_feed","team":"MIN"}
