@@ -1,6 +1,6 @@
 {
 "2078":{"active":true,"depth_chart_order":5,"depth_chart_position":"RWR","full_name":"Odell Beckham Jr.","news_updated":"2026-11-09T23:55:56.812Z","position":"WR","status":"Active","team":"MIN"},
-"3161":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Carson Wentz","news_updated":"2026-11-10T14:20:48.982Z","position":"QB","status":"Active","team":"MIN"},
+"3161":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Carson Wentz","news_updated":"2026-11-10T15:25:50.959Z","position":"QB","status":"Active","team":"MIN"},
 "4199":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Aaron Jones Sr.","news_updated":"2026-11-10T15:15:50.861Z","position":"RB","status":"Active","team":"MIN"},
 "5844":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"T.J. Hockenson","news_updated":"2026-11-10T15:05:50.596Z","position":"TE","status":"Active","team":"MIN"},
 "5849":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Kyler Murray","injury_body_part":"Hamstring","injury_notes":"Soreness","injury_status":"Out","news_updated":"2026-11-08T05:10:16.381Z","position":"QB","status":"Active","team":"MIN"},
@@ -15,7 +15,7 @@
 "11911":{"active":true,"full_name":"Jeshaun Jones","news_updated":"2026-10-13T03:45:06.972Z","position":"WR","status":"Active","team":"MIN"},
 "12496":{"active":true,"depth_chart_order":3,"depth_chart_position":"LWR","full_name":"Tai Felton","news_updated":"2026-10-12T00:20:22.351Z","position":"WR","status":"Active","team":"MIN"},
 "12700":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Gavin Bartholomew","news_updated":"2026-10-12T00:10:21.857Z","position":"TE","status":"Active","team":"MIN"},
-"12775":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Max Brosmer","news_updated":"2026-11-05T18:50:45.074Z","position":"QB","status":"Active","team":"MIN"},
+"12775":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Max Brosmer","news_updated":"2026-11-10T15:25:50.946Z","position":"QB","status":"Active","team":"MIN"},
 "13032":{"active":true,"full_name":"Marshall Lang","news_updated":"2026-09-02T07:30:27.816Z","position":"TE","status":"Active","team":"MIN"},
 "13075":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Myles Price","news_updated":"2026-10-25T17:55:08.208Z","position":"WR","status":"Active","team":"MIN"},
 "13121":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Ben Yurosek","news_updated":"2026-11-02T00:25:39.999Z","position":"TE","status":"Active","team":"MIN"},
