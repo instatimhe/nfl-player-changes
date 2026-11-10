@@ -314,3 +314,11 @@
 {"detected_between":["2026-11-10T14:35:38Z","2026-11-10T22:05:38Z"],"field":"depth_chart_order","kind":"change","new":5,"old":4,"player_id":"13435","source":"players_nfl","team":"CLE"}
 {"detected_between":["2026-11-10T14:35:38Z","2026-11-10T22:05:38Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"13577","source":"players_nfl","team":"DEN"}
 {"detected_between":["2026-11-10T14:35:38Z","2026-11-10T22:05:38Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"13630","source":"players_nfl","team":"LAC"}
+{"detected_between":["2026-11-10T22:05:37Z","2026-11-10T22:35:35Z"],"field":"injury_status","kind":"change","new":"IR","old":"Questionable","player_id":"6011","source":"projections_feed","team":"ARI"}
+{"detected_between":["2026-11-10T22:05:37Z","2026-11-10T22:35:35Z"],"field":"news_updated","kind":"change","new":"2026-11-10T22:25:19.531Z","old":"2026-11-09T23:55:55.272Z","player_id":"6011","source":"projections_feed","team":"ARI"}
+{"detected_between":["2026-11-10T22:05:37Z","2026-11-10T22:35:35Z"],"field":"news_updated","kind":"change","new":"2026-11-10T22:30:19.725Z","old":"2026-11-10T17:40:51.739Z","player_id":"8799","source":"projections_feed","team":"CLE"}
+{"detected_between":["2026-11-10T22:05:37Z","2026-11-10T22:35:35Z"],"field":"news_updated","kind":"change","new":"2026-11-10T22:20:19.464Z","old":"2026-11-10T21:50:19.365Z","player_id":"9757","source":"projections_feed","team":"DAL"}
+{"detected_between":["2026-11-10T22:05:37Z","2026-11-10T22:35:35Z"],"field":"injury_status","kind":"change","new":"IR","old":"Out","player_id":"10232","source":"projections_feed","team":"ARI"}
+{"detected_between":["2026-11-10T22:05:37Z","2026-11-10T22:35:35Z"],"field":"news_updated","kind":"change","new":"2026-11-10T22:05:19.374Z","old":"2026-11-10T15:20:49.393Z","player_id":"11623","source":"projections_feed","team":"LAR"}
+{"detected_between":["2026-11-10T22:05:37Z","2026-11-10T22:35:35Z"],"field":"news_updated","kind":"change","new":"2026-11-10T22:10:19.474Z","old":"2026-11-10T21:25:19.176Z","player_id":"12494","source":"projections_feed","team":"MIA"}
+{"detected_between":["2026-11-10T22:05:37Z","2026-11-10T22:35:35Z"],"field":"news_updated","kind":"change","new":"2026-11-10T22:15:19.588Z","old":"2026-10-27T21:50:06.808Z","player_id":"14080","source":"projections_feed","team":"TB"}
