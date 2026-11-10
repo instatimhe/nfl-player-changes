@@ -1,6 +1,6 @@
 {
 "4983":{"active":true,"depth_chart_order":1,"depth_chart_position":"LWR","full_name":"DJ Moore","news_updated":"2026-11-08T15:05:18.771Z","position":"WR","status":"Active","team":"BUF"},
-"4984":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Josh Allen","news_updated":"2026-11-08T14:40:18.453Z","position":"QB","status":"Active","team":"BUF"},
+"4984":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Josh Allen","news_updated":"2026-11-10T04:50:45.448Z","position":"QB","status":"Active","team":"BUF"},
 "5127":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Kyle Allen","news_updated":"2026-05-27T22:20:30.620Z","position":"QB","status":"Active","team":"BUF"},
 "5154":{"active":true,"full_name":"Trent Sherfield","news_updated":"2026-11-09T23:45:56.680Z","position":"WR","status":"Active","team":"BUF"},
 "5906":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Dawson Knox","news_updated":"2026-11-03T03:30:51.360Z","position":"TE","status":"Active","team":"BUF"},
@@ -10,7 +10,7 @@
 "7670":{"active":true,"depth_chart_order":7,"depth_chart_position":"RWR","full_name":"Joshua Palmer","injury_body_part":"Hamstring","injury_status":"IR","news_updated":"2026-11-09T23:05:47.949Z","position":"WR","status":"Active","team":"BUF"},
 "8002":{"active":true,"full_name":"Shane Buechele","news_updated":"2026-09-01T23:20:23.026Z","position":"QB","status":"Active","team":"BUF"},
 "8134":{"active":true,"depth_chart_order":2,"depth_chart_position":"SWR","full_name":"Khalil Shakir","news_updated":"2026-11-08T15:10:18.922Z","position":"WR","status":"Active","team":"BUF"},
-"8138":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"James Cook III","news_updated":"2026-11-08T14:50:18.609Z","position":"RB","status":"Active","team":"BUF"},
+"8138":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"James Cook III","news_updated":"2026-11-10T04:45:45.624Z","position":"RB","status":"Active","team":"BUF"},
 "10236":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Dalton Kincaid","news_updated":"2026-11-08T15:15:18.737Z","position":"TE","status":"Active","team":"BUF"},
 "11377":{"active":true,"depth_chart_order":8,"depth_chart_position":"RWR","full_name":"Tyrell Shavers","injury_body_part":"Knee - ACL","injury_notes":"Surgery","injury_status":"PUP","news_updated":"2026-11-10T00:15:55.743Z","position":"WR","status":"Active","team":"BUF"},
 "11573":{"active":true,"full_name":"Frank Gore Jr.","news_updated":"2026-09-19T03:20:51.759Z","position":"RB","status":"Active","team":"BUF"},
