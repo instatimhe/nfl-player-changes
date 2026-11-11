@@ -1,11 +1,10 @@
 {
 "2471":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Michael Burton","news_updated":"2026-11-08T19:15:20.607Z","position":"FB","status":"Active","team":"CLE"},
 "4017":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Deshaun Watson","news_updated":"2026-11-11T14:40:25.621Z","position":"QB","status":"Active","team":"CLE"},
-"6783":{"active":true,"depth_chart_order":3,"depth_chart_position":"RWR","full_name":"Jerry Jeudy","news_updated":"2026-11-09T03:35:25.465Z","position":"WR","status":"Active","team":"CLE"},
+"6783":{"active":true,"depth_chart_order":3,"depth_chart_position":"RWR","full_name":"Jerry Jeudy","news_updated":"2026-11-11T17:10:26.169Z","position":"WR","status":"Active","team":"CLE"},
 "7048":{"active":true,"full_name":"Benny LeMay","news_updated":"2022-01-06T17:40:17.822Z","position":"RB","status":"Active","team":"CLE"},
 "7595":{"active":true,"depth_chart_order":5,"depth_chart_position":"RWR","full_name":"Tylan Wallace","news_updated":"2026-11-02T16:10:46.240Z","position":"WR","status":"Active","team":"CLE"},
 "8123":{"active":true,"full_name":"Hassan Haskins","news_updated":"2026-11-05T05:10:41.941Z","position":"RB","status":"Active","team":"CLE"},
-"8500":{"active":true,"full_name":"John FitzPatrick","news_updated":"2026-11-11T01:15:20.902Z","position":"TE","status":"Active","team":"CLE"},
 "8799":{"active":true,"full_name":"Zaire Mitchell-Paden","news_updated":"2026-11-10T22:30:19.725Z","position":"TE","status":"Active","team":"CLE"},
 "11201":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Blake Whiteheart","news_updated":"2026-09-23T03:15:11.169Z","position":"TE","status":"Active","team":"CLE"},
 "11261":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Andre Szmyt","news_updated":"2026-11-09T05:10:24.909Z","position":"K","status":"Active","team":"CLE"},
@@ -22,7 +21,7 @@
 "13042":{"active":true,"full_name":"Xavier Guillory","news_updated":"2026-11-04T00:45:29.533Z","position":"WR","status":"Active","team":"CLE"},
 "13298":{"active":true,"depth_chart_order":2,"depth_chart_position":"SWR","full_name":"KC Concepcion Jr.","news_updated":"2026-11-09T03:10:25.305Z","position":"WR","status":"Active","team":"CLE"},
 "13306":{"active":true,"depth_chart_order":4,"depth_chart_position":"QB","full_name":"Taylen Green","news_updated":"2026-11-08T17:20:19.661Z","position":"QB","status":"Active","team":"CLE"},
-"13346":{"active":true,"depth_chart_order":1,"depth_chart_position":"LWR","full_name":"Denzel Boston","news_updated":"2026-11-09T03:20:25.536Z","position":"WR","status":"Active","team":"CLE"},
+"13346":{"active":true,"depth_chart_order":1,"depth_chart_position":"LWR","full_name":"Denzel Boston","injury_body_part":"Toe","injury_status":"Questionable","news_updated":"2026-11-11T17:20:26.145Z","position":"WR","status":"Active","team":"CLE"},
 "13435":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Joe Royer","injury_body_part":"Personal","injury_status":"PUP","news_updated":"2026-08-30T21:35:58.011Z","position":"TE","status":"Active","team":"CLE"},
 "13580":{"active":true,"full_name":"Carsen Ryan","news_updated":"2026-11-10T03:45:45.185Z","position":"TE","status":"Active","team":"CLE"}
 }
