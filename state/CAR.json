@@ -3,8 +3,8 @@
 "4490":{"active":true,"depth_chart_order":40,"depth_chart_position":"TE","full_name":"Wyatt Houston","position":"TE","status":"Active","team":"CAR"},
 "6828":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"AJ Dillon","news_updated":"2026-11-08T16:55:19.427Z","position":"RB","status":"Active","team":"CAR"},
 "7531":{"active":true,"depth_chart_order":5,"depth_chart_position":"TE","full_name":"Feleipe Franks","news_updated":"2026-03-22T18:55:54.255Z","position":"TE","status":"Active","team":"CAR"},
-"7559":{"active":true,"depth_chart_order":5,"full_name":"Ihmir Smith-Marsette","injury_body_part":"Undisclosed","injury_status":"Out","news_updated":"2026-11-11T05:50:23.457Z","position":"WR","status":"Active","team":"CAR"},
-"7594":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Chuba Hubbard","news_updated":"2026-11-09T01:35:24.522Z","position":"RB","status":"Active","team":"CAR"},
+"7559":{"active":true,"depth_chart_order":6,"full_name":"Ihmir Smith-Marsette","injury_body_part":"Undisclosed","injury_status":"Out","news_updated":"2026-11-11T05:50:23.457Z","position":"WR","status":"Active","team":"CAR"},
+"7594":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Chuba Hubbard","news_updated":"2026-11-11T21:45:28.188Z","position":"RB","status":"Active","team":"CAR"},
 "7618":{"active":true,"full_name":"Micah Simon","news_updated":"2021-08-20T00:45:11.214Z","position":"WR","status":"Active","team":"CAR"},
 "7694":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Tommy Tremble","news_updated":"2026-11-09T02:15:24.097Z","position":"TE","status":"Active","team":"CAR"},
 "7868":{"active":true,"full_name":"Mason Stokke","news_updated":"2021-05-03T00:40:36.980Z","position":"FB","status":"Active","team":"CAR"},
@@ -15,7 +15,7 @@
 "11157":{"active":true,"depth_chart_order":4,"depth_chart_position":"RWR","full_name":"Brycen Tremayne","news_updated":"2026-11-02T15:20:45.881Z","position":"WR","status":"Active","team":"CAR"},
 "11583":{"active":true,"depth_chart_order":5,"depth_chart_position":"RB","full_name":"Jonathon Brooks","injury_body_part":"Abdomen","injury_notes":"Surgery","injury_status":"IR","news_updated":"2026-11-11T20:25:27.307Z","position":"RB","status":"Inactive","team":"CAR"},
 "11600":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Ja'Tavion Sanders","news_updated":"2026-11-09T22:45:48.139Z","position":"TE","status":"Active","team":"CAR"},
-"11626":{"active":true,"depth_chart_order":5,"depth_chart_position":"RWR","full_name":"Xavier Legette","injury_body_part":"Knee","injury_status":"IR","news_updated":"2026-11-11T17:40:26.504Z","position":"WR","status":"Inactive","team":"CAR"},
+"11626":{"active":true,"depth_chart_order":7,"depth_chart_position":"RWR","full_name":"Xavier Legette","injury_body_part":"Knee","injury_status":"IR","news_updated":"2026-11-11T17:40:26.504Z","position":"WR","status":"Inactive","team":"CAR"},
 "11646":{"active":true,"depth_chart_order":2,"depth_chart_position":"SWR","full_name":"Jalen Coker","news_updated":"2026-11-09T02:55:24.029Z","position":"WR","status":"Active","team":"CAR"},
 "11806":{"active":true,"full_name":"Casey Washington","news_updated":"2026-09-02T00:40:24.501Z","position":"WR","status":"Active","team":"CAR"},
 "12473":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Mitchell Evans","news_updated":"2026-11-11T02:55:21.544Z","position":"TE","status":"Active","team":"CAR"},
@@ -25,6 +25,6 @@
 "12939":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Anthony Tyus III","news_updated":"2026-10-26T01:40:12.129Z","position":"RB","status":"Active","team":"CAR"},
 "12961":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Ryan Fitzgerald","news_updated":"2026-11-10T03:25:45.235Z","position":"K","status":"Active","team":"CAR"},
 "13179":{"active":true,"full_name":"Ja'seem Reed","news_updated":"2026-10-06T01:10:39.888Z","position":"WR","status":"Active","team":"CAR"},
-"13353":{"active":true,"depth_chart_order":8,"full_name":"Chris Brazzell II","injury_body_part":"Knee","injury_status":"IR","news_updated":"2026-10-10T19:35:05.856Z","position":"WR","status":"Inactive","team":"CAR"},
+"13353":{"active":true,"depth_chart_order":10,"full_name":"Chris Brazzell II","injury_body_part":"Knee","injury_status":"IR","news_updated":"2026-10-10T19:35:05.856Z","position":"WR","status":"Inactive","team":"CAR"},
 "13415":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Haynes King","news_updated":"2026-11-08T16:50:19.424Z","position":"QB","status":"Active","team":"CAR"}
 }
