@@ -411,3 +411,10 @@
 {"detected_between":["2026-11-11T07:05:37Z","2026-11-11T14:35:35Z"],"field":"depth_chart_order","kind":"change","new":8,"old":9,"player_id":"13890","source":"players_nfl","team":"MIN"}
 {"detected_between":["2026-11-11T07:05:37Z","2026-11-11T14:35:35Z"],"field":"depth_chart_order","kind":"change","new":6,"old":7,"player_id":"13964","source":"players_nfl","team":"NE"}
 {"detected_between":["2026-11-11T07:05:37Z","2026-11-11T14:35:35Z"],"field":"depth_chart_order","kind":"change","new":2,"old":3,"player_id":"14026","source":"players_nfl","team":"MIA"}
+{"detected_between":["2026-11-11T14:35:35Z","2026-11-11T15:05:39Z"],"field":"injury_status","kind":"change","new":null,"old":"Questionable","player_id":"4017","source":"projections_feed","team":"CLE"}
+{"detected_between":["2026-11-11T14:35:35Z","2026-11-11T15:05:39Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Concussion","player_id":"4017","source":"projections_feed","team":"CLE"}
+{"detected_between":["2026-11-11T14:35:35Z","2026-11-11T15:05:39Z"],"field":"news_updated","kind":"change","new":"2026-11-11T14:40:25.621Z","old":"2026-11-11T14:20:25.361Z","player_id":"4017","source":"projections_feed","team":"CLE"}
+{"detected_between":["2026-11-11T14:35:35Z","2026-11-11T15:05:39Z"],"field":"news_updated","kind":"change","new":"2026-11-11T14:30:25.266Z","old":"2026-11-10T20:20:18.860Z","player_id":"8137","source":"projections_feed","team":"DAL"}
+{"detected_between":["2026-11-11T14:35:35Z","2026-11-11T15:05:39Z"],"field":"news_updated","kind":"change","new":"2026-11-11T14:50:25.293Z","old":"2026-11-11T14:15:25.291Z","player_id":"9493","source":"projections_feed","team":"LAR"}
+{"detected_between":["2026-11-11T14:35:35Z","2026-11-11T15:05:39Z"],"field":"news_updated","kind":"change","new":"2026-11-11T14:45:25.339Z","old":"2026-11-10T00:50:43.696Z","player_id":"11635","source":"projections_feed","team":"LAC"}
+{"detected_between":["2026-11-11T14:35:35Z","2026-11-11T15:05:39Z"],"field":"news_updated","kind":"change","new":"2026-11-11T14:45:25.435Z","old":"2026-11-09T16:45:28.744Z","player_id":"12524","source":"projections_feed","team":"CLE"}
