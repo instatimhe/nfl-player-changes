@@ -12,7 +12,7 @@
 "8250":{"active":true,"depth_chart_order":5,"depth_chart_position":"LWR","full_name":"Tay Martin","news_updated":"2026-11-08T23:30:23.918Z","position":"WR","status":"Active","team":"DET"},
 "9221":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Jahmyr Gibbs","news_updated":"2026-11-09T00:20:23.879Z","position":"RB","status":"Active","team":"DET"},
 "10859":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Sam LaPorta","news_updated":"2026-11-10T16:10:49.665Z","position":"TE","status":"Active","team":"DET"},
-"11237":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Jacob Saylors","injury_body_part":"Neck","injury_status":"Out","news_updated":"2026-11-08T17:25:19.693Z","position":"RB","status":"Active","team":"DET"},
+"11237":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Jacob Saylors","injury_body_part":"Neck","injury_status":"Questionable","news_updated":"2026-11-08T17:25:19.693Z","position":"RB","status":"Active","team":"DET"},
 "11520":{"active":true,"full_name":"Lucky Jackson","news_updated":"2026-09-02T00:55:24.623Z","position":"WR","status":"Active","team":"DET"},
 "11539":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Jake Bates","news_updated":"2026-11-09T04:35:24.877Z","position":"K","status":"Active","team":"DET"},
 "11729":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Sione Vaki","news_updated":"2026-11-11T02:10:21.107Z","position":"RB","status":"Active","team":"DET"},
