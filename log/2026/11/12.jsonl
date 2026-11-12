@@ -49,3 +49,5 @@
 {"detected_between":["2026-11-12T00:35:33Z","2026-11-12T01:05:38Z"],"field":"news_updated","kind":"change","new":"2026-11-12T00:30:30.645Z","old":"2026-11-12T00:05:29.051Z","player_id":"8676","source":"projections_feed","team":"SEA"}
 {"detected_between":["2026-11-12T00:35:33Z","2026-11-12T01:05:38Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"10214","source":"projections_feed","team":"LAR"}
 {"detected_between":["2026-11-12T00:35:33Z","2026-11-12T01:05:38Z"],"field":"injury_body_part","kind":"change","new":"Oblique","old":null,"player_id":"10214","source":"projections_feed","team":"LAR"}
+{"detected_between":["2026-11-12T01:05:37Z","2026-11-12T01:35:35Z"],"field":"news_updated","kind":"change","new":"2026-11-12T01:00:29.632Z","old":"2026-11-11T06:00:23.422Z","player_id":"12938","source":"projections_feed","team":"DET"}
+{"detected_between":["2026-11-12T01:05:37Z","2026-11-12T01:35:35Z"],"field":"news_updated","kind":"change","new":"2026-11-12T01:10:29.601Z","old":"2026-10-20T23:30:47.175Z","player_id":"13949","source":"projections_feed","team":"MIN"}
