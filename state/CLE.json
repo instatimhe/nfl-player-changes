@@ -1,5 +1,5 @@
 {
-"2471":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Michael Burton","injury_body_part":"Calf","injury_status":"Questionable","news_updated":"2026-11-12T01:55:29.754Z","position":"FB","status":"Active","team":"CLE"},
+"2471":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Michael Burton","injury_body_part":"Calf","injury_status":"Questionable","news_updated":"2026-11-12T18:15:24.025Z","position":"FB","status":"Active","team":"CLE"},
 "4017":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Deshaun Watson","news_updated":"2026-11-11T14:40:25.621Z","position":"QB","status":"Active","team":"CLE"},
 "6783":{"active":true,"depth_chart_order":3,"depth_chart_position":"RWR","full_name":"Jerry Jeudy","news_updated":"2026-11-11T17:10:26.169Z","position":"WR","status":"Active","team":"CLE"},
 "7048":{"active":true,"full_name":"Benny LeMay","news_updated":"2022-01-06T17:40:17.822Z","position":"RB","status":"Active","team":"CLE"},
@@ -21,7 +21,7 @@
 "13042":{"active":true,"full_name":"Xavier Guillory","news_updated":"2026-11-04T00:45:29.533Z","position":"WR","status":"Active","team":"CLE"},
 "13298":{"active":true,"depth_chart_order":2,"depth_chart_position":"SWR","full_name":"KC Concepcion Jr.","news_updated":"2026-11-09T03:10:25.305Z","position":"WR","status":"Active","team":"CLE"},
 "13306":{"active":true,"depth_chart_order":4,"depth_chart_position":"QB","full_name":"Taylen Green","news_updated":"2026-11-08T17:20:19.661Z","position":"QB","status":"Active","team":"CLE"},
-"13346":{"active":true,"depth_chart_order":1,"depth_chart_position":"LWR","full_name":"Denzel Boston","injury_body_part":"Toe","injury_status":"Questionable","news_updated":"2026-11-12T17:50:23.625Z","position":"WR","status":"Active","team":"CLE"},
+"13346":{"active":true,"depth_chart_order":1,"depth_chart_position":"LWR","full_name":"Denzel Boston","injury_body_part":"Toe","injury_status":"Questionable","news_updated":"2026-11-12T18:15:24.070Z","position":"WR","status":"Active","team":"CLE"},
 "13435":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Joe Royer","injury_body_part":"Personal","injury_status":"PUP","news_updated":"2026-08-30T21:35:58.011Z","position":"TE","status":"Active","team":"CLE"},
 "13580":{"active":true,"full_name":"Carsen Ryan","news_updated":"2026-11-10T03:45:45.185Z","position":"TE","status":"Active","team":"CLE"}
 }
