@@ -1,6 +1,6 @@
 {
 "3451":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Ka'imi Fairbairn","news_updated":"2026-11-09T16:25:30.469Z","position":"K","status":"Active","team":"HOU"},
-"4718":{"active":true,"full_name":"Dare Ogunbowale","news_updated":"2026-11-13T16:30:30.745Z","position":"RB","status":"Active","team":"HOU"},
+"4718":{"active":true,"full_name":"Dare Ogunbowale","news_updated":"2026-11-13T22:20:18.592Z","position":"RB","status":"Active","team":"HOU"},
 "5001":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Dalton Schultz","news_updated":"2026-11-11T16:05:25.785Z","position":"TE","status":"Active","team":"HOU"},
 "5892":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"David Montgomery","injury_body_part":"Groin","injury_status":"Questionable","news_updated":"2026-11-13T21:25:19.865Z","position":"RB","status":"Active","team":"HOU"},
 "5985":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Foster Moreau","news_updated":"2026-11-11T04:35:21.961Z","position":"TE","status":"Active","team":"HOU"},
@@ -12,7 +12,7 @@
 "9758":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"C.J. Stroud","news_updated":"2026-11-09T14:20:29.418Z","position":"QB","status":"Active","team":"HOU"},
 "10218":{"active":true,"depth_chart_order":3,"depth_chart_position":"LWR","full_name":"Xavier Hutchinson","news_updated":"2026-11-09T16:15:30.028Z","position":"WR","status":"Active","team":"HOU"},
 "11199":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Emari Demercado","news_updated":"2026-11-10T02:30:44.673Z","position":"RB","status":"Active","team":"HOU"},
-"11320":{"active":true,"depth_chart_order":6,"depth_chart_position":"SWR","full_name":"Nikko Remigio","news_updated":"2026-11-11T19:30:27.120Z","position":"WR","status":"Active","team":"HOU"},
+"11320":{"active":true,"depth_chart_order":6,"depth_chart_position":"SWR","full_name":"Nikko Remigio","news_updated":"2026-11-13T22:20:18.562Z","position":"WR","status":"Active","team":"HOU"},
 "11588":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Jawhar Jordan","injury_body_part":"Undisclosed","injury_status":"Out","news_updated":"2026-10-21T18:50:53.899Z","position":"RB","status":"Active","team":"HOU"},
 "11599":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Cade Stover","news_updated":"2026-11-11T15:45:25.774Z","position":"TE","status":"Active","team":"HOU"},
 "11628":{"active":true,"depth_chart_order":5,"depth_chart_position":"RWR","full_name":"Marvin Harrison Jr.","injury_body_part":"Hamstring","injury_status":"Out","news_updated":"2026-11-13T21:25:19.751Z","position":"WR","status":"Active","team":"HOU"},

@@ -15,7 +15,7 @@
 "8142":{"active":true,"depth_chart_order":9,"depth_chart_position":"LWR","full_name":"Alec Pierce","injury_body_part":"Heel","injury_status":"IR","news_updated":"2026-11-11T18:05:27.664Z","position":"WR","status":"Inactive","team":"IND"},
 "8489":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Drew Ogletree","news_updated":"2026-11-07T00:35:05.657Z","position":"TE","status":"Active","team":"IND"},
 "9229":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Anthony Richardson Sr.","news_updated":"2026-11-09T16:25:28.617Z","position":"QB","status":"Active","team":"IND"},
-"10220":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Will Mallory","news_updated":"2026-10-27T01:40:27.295Z","position":"TE","status":"Active","team":"IND"},
+"10220":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Will Mallory","injury_body_part":"Hamstring","injury_status":"Questionable","news_updated":"2026-10-27T01:40:27.295Z","position":"TE","status":"Active","team":"IND"},
 "11762":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Anthony Gould","news_updated":"2026-11-11T17:05:26.037Z","position":"WR","status":"Active","team":"IND"},
 "12185":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Spencer Shrader","news_updated":"2026-11-13T20:20:32.088Z","position":"K","status":"Active","team":"IND"},
 "12470":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Riley Leonard","news_updated":"2026-11-08T17:10:19.581Z","position":"QB","status":"Active","team":"IND"},
