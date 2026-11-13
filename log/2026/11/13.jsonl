@@ -75,3 +75,25 @@
 {"detected_between":["2026-11-13T05:05:37Z","2026-11-13T05:35:36Z"],"field":"news_updated","kind":"change","new":"2026-11-13T05:00:27.532Z","old":"2026-11-11T23:30:28.781Z","player_id":"11566","source":"projections_feed","team":"WAS"}
 {"detected_between":["2026-11-13T05:35:36Z","2026-11-13T06:05:39Z"],"field":"news_updated","kind":"change","new":"2026-11-13T05:30:27.084Z","old":"2026-11-11T23:35:28.698Z","player_id":"4663","source":"projections_feed","team":"WAS"}
 {"detected_between":["2026-11-13T05:35:36Z","2026-11-13T06:05:39Z"],"field":"news_updated","kind":"change","new":"2026-11-13T05:35:27.600Z","old":"2026-11-11T23:45:28.649Z","player_id":"13301","source":"projections_feed","team":"WAS"}
+{"detected_between":["2026-11-12T22:05:37Z","2026-11-13T07:05:37Z"],"field":"depth_chart_order","kind":"change","new":4,"old":3,"player_id":"2359","source":"players_nfl","team":"JAX"}
+{"detected_between":["2026-11-12T22:05:37Z","2026-11-13T07:05:37Z"],"field":"depth_chart_position","kind":"change","new":null,"old":"RB","player_id":"4718","source":"players_nfl","team":"HOU"}
+{"detected_between":["2026-11-12T22:05:37Z","2026-11-13T07:05:37Z"],"field":"depth_chart_order","kind":"change","new":null,"old":4,"player_id":"4718","source":"players_nfl","team":"HOU"}
+{"detected_between":["2026-11-12T22:05:37Z","2026-11-13T07:05:37Z"],"field":"depth_chart_order","kind":"change","new":2,"old":3,"player_id":"5892","source":"players_nfl","team":"HOU"}
+{"detected_between":["2026-11-12T22:05:37Z","2026-11-13T07:05:37Z"],"field":"depth_chart_order","kind":"change","new":2,"old":3,"player_id":"7611","source":"players_nfl","team":"NE"}
+{"detected_between":["2026-11-12T22:05:37Z","2026-11-13T07:05:37Z"],"kind":"fill","player_id":"9490","record":{"active":true,"full_name":"Tyler Scott","status":"Active"},"source":"players_nfl","team":"LAR"}
+{"detected_between":["2026-11-12T22:05:37Z","2026-11-13T07:05:37Z"],"field":"status","kind":"change","new":"Inactive","old":"Active","player_id":"9493","source":"players_nfl","team":"LAR"}
+{"detected_between":["2026-11-12T22:05:37Z","2026-11-13T07:05:37Z"],"field":"depth_chart_order","kind":"change","new":6,"old":7,"player_id":"9493","source":"players_nfl","team":"LAR"}
+{"detected_between":["2026-11-12T22:05:37Z","2026-11-13T07:05:37Z"],"field":"depth_chart_order","kind":"change","new":3,"old":2,"player_id":"11199","source":"players_nfl","team":"HOU"}
+{"detected_between":["2026-11-12T22:05:37Z","2026-11-13T07:05:37Z"],"kind":"fill","player_id":"11320","record":{"active":true,"full_name":"Nikko Remigio","status":"Active"},"source":"players_nfl","team":"HOU"}
+{"detected_between":["2026-11-12T22:05:37Z","2026-11-13T07:05:37Z"],"field":"depth_chart_order","kind":"change","new":4,"old":5,"player_id":"11588","source":"players_nfl","team":"HOU"}
+{"detected_between":["2026-11-12T22:05:37Z","2026-11-13T07:05:37Z"],"field":"depth_chart_order","kind":"change","new":7,"old":8,"player_id":"11623","source":"players_nfl","team":"LAR"}
+{"detected_between":["2026-11-12T22:05:37Z","2026-11-13T07:05:37Z"],"field":"depth_chart_position","kind":"change","new":null,"old":"RB","player_id":"11963","source":"players_nfl","team":"LV"}
+{"detected_between":["2026-11-12T22:05:37Z","2026-11-13T07:05:37Z"],"field":"depth_chart_order","kind":"change","new":null,"old":7,"player_id":"11963","source":"players_nfl","team":"LV"}
+{"detected_between":["2026-11-12T22:05:37Z","2026-11-13T07:05:37Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"12171","source":"players_nfl","team":"HOU"}
+{"detected_between":["2026-11-12T22:05:37Z","2026-11-13T07:05:37Z"],"field":"depth_chart_order","kind":"change","new":3,"old":4,"player_id":"12544","source":"players_nfl","team":"JAX"}
+{"detected_between":["2026-11-12T22:05:37Z","2026-11-13T07:05:37Z"],"field":"depth_chart_order","kind":"change","new":3,"old":2,"player_id":"12969","source":"players_nfl","team":"NE"}
+{"detected_between":["2026-11-12T22:05:37Z","2026-11-13T07:05:37Z"],"field":"depth_chart_position","kind":"change","new":"RWR","old":null,"player_id":"13011","source":"players_nfl","team":"LAR"}
+{"detected_between":["2026-11-12T22:05:37Z","2026-11-13T07:05:37Z"],"field":"depth_chart_order","kind":"change","new":8,"old":null,"player_id":"13011","source":"players_nfl","team":"LAR"}
+{"detected_between":["2026-11-13T06:35:39Z","2026-11-13T07:05:37Z"],"field":"news_updated","kind":"change","new":"2026-11-13T06:20:27.725Z","old":"2026-11-12T02:20:29.664Z","player_id":"13285","source":"projections_feed","team":"NYG"}
+{"detected_between":["2026-11-12T22:05:37Z","2026-11-13T07:05:37Z"],"field":"depth_chart_order","kind":"change","new":4,"old":5,"player_id":"13315","source":"players_nfl","team":"LAR"}
+{"detected_between":["2026-11-12T22:05:37Z","2026-11-13T07:05:37Z"],"field":"depth_chart_order","kind":"change","new":6,"old":7,"player_id":"13437","source":"players_nfl","team":"HOU"}
