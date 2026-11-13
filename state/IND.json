@@ -1,7 +1,7 @@
 {
 "1706":{"active":true,"full_name":"Jack Doyle","news_updated":"2022-03-07T20:35:55.679Z","position":"TE","status":"Active","team":"IND"},
 "3155":{"active":true,"depth_chart_order":1,"depth_chart_position":"LWR","full_name":"Laquon Treadwell","news_updated":"2026-11-11T06:00:22.177Z","position":"WR","status":"Active","team":"IND"},
-"4054":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Mo Alie-Cox","injury_body_part":"Groin","injury_status":"Questionable","news_updated":"2026-11-11T23:20:28.643Z","position":"TE","status":"Active","team":"IND"},
+"4054":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Mo Alie-Cox","injury_body_part":"Groin","injury_status":"Out","news_updated":"2026-11-11T23:20:28.643Z","position":"TE","status":"Active","team":"IND"},
 "4443":{"active":true,"depth_chart_order":5,"depth_chart_position":"TE","full_name":"Pharaoh Brown","news_updated":"2026-10-13T21:20:31.707Z","position":"TE","status":"Active","team":"IND"},
 "4937":{"active":true,"full_name":"Al Riles","position":"WR","status":"Active","team":"IND"},
 "5870":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Daniel Jones","news_updated":"2026-11-09T19:55:46.118Z","position":"QB","status":"Active","team":"IND"},
