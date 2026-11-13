@@ -97,3 +97,6 @@
 {"detected_between":["2026-11-13T06:35:39Z","2026-11-13T07:05:37Z"],"field":"news_updated","kind":"change","new":"2026-11-13T06:20:27.725Z","old":"2026-11-12T02:20:29.664Z","player_id":"13285","source":"projections_feed","team":"NYG"}
 {"detected_between":["2026-11-12T22:05:37Z","2026-11-13T07:05:37Z"],"field":"depth_chart_order","kind":"change","new":4,"old":5,"player_id":"13315","source":"players_nfl","team":"LAR"}
 {"detected_between":["2026-11-12T22:05:37Z","2026-11-13T07:05:37Z"],"field":"depth_chart_order","kind":"change","new":6,"old":7,"player_id":"13437","source":"players_nfl","team":"HOU"}
+{"detected_between":["2026-11-13T07:05:37Z","2026-11-13T07:35:36Z"],"field":"news_updated","kind":"change","new":"2026-11-13T07:10:27.230Z","old":"2026-11-13T04:50:26.869Z","player_id":"8131","source":"projections_feed","team":"NYG"}
+{"detected_between":["2026-11-13T07:05:37Z","2026-11-13T07:35:36Z"],"field":"news_updated","kind":"change","new":"2026-11-13T07:25:27.357Z","old":"2026-11-13T05:00:27.532Z","player_id":"11566","source":"projections_feed","team":"WAS"}
+{"detected_between":["2026-11-13T07:05:37Z","2026-11-13T07:35:36Z"],"field":"news_updated","kind":"change","new":"2026-11-13T06:55:27.053Z","old":"2026-11-13T04:40:26.927Z","player_id":"12481","source":"projections_feed","team":"NYG"}
