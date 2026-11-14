@@ -127,3 +127,6 @@
 {"detected_between":["2026-11-13T22:05:35Z","2026-11-14T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":4,"old":3,"player_id":"13423","source":"players_nfl","team":"PIT"}
 {"detected_between":["2026-11-14T12:05:44Z","2026-11-14T12:35:40Z"],"field":"news_updated","kind":"change","new":"2026-11-14T12:25:09.838Z","old":"2026-11-09T15:40:28.420Z","player_id":"11610","source":"projections_feed","team":"MIA"}
 {"detected_between":["2026-11-14T12:05:44Z","2026-11-14T12:35:40Z"],"field":"news_updated","kind":"change","new":"2026-11-14T12:10:09.748Z","old":"2026-11-11T15:00:25.439Z","player_id":"13338","source":"projections_feed","team":"MIA"}
+{"detected_between":["2026-11-14T12:35:40Z","2026-11-14T13:05:36Z"],"field":"news_updated","kind":"change","new":"2026-11-14T12:40:09.839Z","old":"2026-11-11T04:10:21.652Z","player_id":"8172","source":"projections_feed","team":"MIA"}
+{"detected_between":["2026-11-14T12:35:40Z","2026-11-14T13:05:36Z"],"field":"news_updated","kind":"change","new":"2026-11-14T12:55:09.970Z","old":"2026-11-12T15:35:34.834Z","player_id":"12495","source":"projections_feed","team":"MIA"}
+{"detected_between":["2026-11-14T12:35:40Z","2026-11-14T13:05:36Z"],"field":"news_updated","kind":"change","new":"2026-11-14T12:30:10.838Z","old":"2026-11-09T15:35:28.299Z","player_id":"13296","source":"projections_feed","team":"MIA"}
