@@ -1,7 +1,7 @@
 {
 "260":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Josh Johnson","news_updated":"2026-11-10T02:00:44.199Z","position":"QB","status":"Active","team":"ARI"},
 "2334":{"active":true,"full_name":"Phillip Dorsett","news_updated":"2026-11-11T01:05:20.658Z","position":"WR","status":"Active","team":"ARI"},
-"4080":{"active":true,"full_name":"Zay Jones","news_updated":"2026-10-28T23:45:25.014Z","position":"WR","status":"Active","team":"ARI"},
+"4080":{"active":true,"full_name":"Zay Jones","news_updated":"2026-11-14T22:25:14.516Z","position":"WR","status":"Active","team":"ARI"},
 "4137":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"James Conner","injury_body_part":"Foot","injury_status":"IR","news_updated":"2026-11-10T16:05:49.460Z","position":"RB","status":"Inactive","team":"ARI"},
 "4451":{"active":false,"full_name":"Isaac Whitney","news_updated":"2021-08-09T21:20:33.963Z","position":"WR","status":"Inactive","team":"ARI"},
 "4454":{"active":true,"depth_chart_order":7,"full_name":"Kendrick Bourne","injury_body_part":"Lower Leg","injury_notes":"Fracture","injury_status":"IR","news_updated":"2026-11-03T21:40:29.456Z","position":"WR","status":"Inactive","team":"ARI"},
@@ -9,7 +9,7 @@
 "6847":{"active":true,"depth_chart_order":3,"depth_chart_position":"SWR","full_name":"Devin Duvernay","news_updated":"2026-11-14T02:25:19.682Z","position":"WR","status":"Active","team":"ARI"},
 "6957":{"active":true,"full_name":"James Proche II","news_updated":"2026-11-05T05:10:42.016Z","position":"WR","status":"Active","team":"ARI"},
 "7103":{"active":true,"full_name":"Tavien Feaster","news_updated":"2021-12-30T05:00:38.408Z","position":"RB","status":"Active","team":"ARI"},
-"7535":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Hunter Long","injury_body_part":"Knee","injury_status":"Questionable","news_updated":"2026-11-13T21:55:19.605Z","position":"TE","status":"Active","team":"ARI"},
+"7535":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Hunter Long","injury_body_part":"Knee","injury_status":"Questionable","news_updated":"2026-11-14T22:35:14.649Z","position":"TE","status":"Active","team":"ARI"},
 "7597":{"active":true,"depth_chart_order":5,"depth_chart_position":"TE","full_name":"Kenny Yeboah","injury_body_part":"Undisclosed","injury_status":"Out","news_updated":"2026-11-03T23:00:28.879Z","position":"TE","status":"Active","team":"ARI"},
 "7812":{"active":true,"depth_chart_order":2,"depth_chart_position":"SWR","full_name":"Simi Fehoko","news_updated":"2026-11-13T22:25:18.579Z","position":"WR","status":"Active","team":"ARI"},
 "8122":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Zonovan Knight","news_updated":"2026-11-14T02:30:19.681Z","position":"RB","status":"Active","team":"ARI"},
