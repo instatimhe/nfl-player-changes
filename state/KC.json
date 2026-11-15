@@ -1,6 +1,6 @@
 {
 "1264":{"active":true,"full_name":"Justin Tucker","news_updated":"2026-11-11T21:00:27.696Z","position":"K","status":"Active","team":"KC"},
-"1466":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Travis Kelce","injury_body_part":"Ankle","injury_status":"Questionable","news_updated":"2026-11-13T22:30:18.427Z","position":"TE","status":"Active","team":"KC"},
+"1466":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Travis Kelce","injury_body_part":"Ankle","injury_status":"Questionable","news_updated":"2026-11-15T18:55:29.575Z","position":"TE","status":"Active","team":"KC"},
 "4046":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Patrick Mahomes","news_updated":"2026-11-15T14:25:28.014Z","position":"QB","status":"Active","team":"KC"},
 "4227":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Harrison Butker","news_updated":"2026-11-13T22:55:18.520Z","position":"K","status":"Active","team":"KC"},
 "4263":{"active":true,"full_name":"Elijah McGuire","news_updated":"2022-01-19T23:10:17.596Z","position":"RB","status":"Active","team":"KC"},
@@ -14,7 +14,7 @@
 "9500":{"active":true,"depth_chart_order":3,"depth_chart_position":"LWR","full_name":"Josh Downs","news_updated":"2026-11-15T16:55:28.993Z","position":"WR","status":"Active","team":"KC"},
 "10229":{"active":true,"depth_chart_order":1,"depth_chart_position":"SWR","full_name":"Rashee Rice","news_updated":"2026-11-13T22:30:18.432Z","position":"WR","status":"Active","team":"KC"},
 "11273":{"active":true,"depth_chart_order":5,"depth_chart_position":"RB","full_name":"Ben VanSumeren","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-09-16T01:15:55.303Z","position":"RB","status":"Active","team":"KC"},
-"11595":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Jared Wiley","news_updated":"2026-10-04T19:35:12.596Z","position":"TE","status":"Active","team":"KC"},
+"11595":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Jared Wiley","injury_body_part":"Ankle","injury_status":"Questionable","news_updated":"2026-11-15T18:55:29.797Z","position":"TE","status":"Active","team":"KC"},
 "11624":{"active":true,"depth_chart_order":2,"depth_chart_position":"RWR","full_name":"Xavier Worthy","news_updated":"2026-11-13T22:45:18.578Z","position":"WR","status":"Active","team":"KC"},
 "11748":{"active":true,"full_name":"Bub Means","news_updated":"2026-11-06T00:35:47.599Z","position":"WR","status":"Active","team":"KC"},
 "12455":{"active":true,"depth_chart_order":6,"depth_chart_position":"RB","full_name":"Brashard Smith","injury_body_part":"Hamstring","injury_status":"IR","news_updated":"2026-10-24T18:10:58.825Z","position":"RB","status":"Inactive","team":"KC"},
