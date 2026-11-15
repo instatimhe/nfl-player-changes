@@ -57,3 +57,5 @@
 {"detected_between":["2026-11-14T22:05:42Z","2026-11-15T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":5,"old":4,"player_id":"13423","source":"players_nfl","team":"PIT"}
 {"detected_between":["2026-11-14T22:05:42Z","2026-11-15T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":4,"old":5,"player_id":"13433","source":"players_nfl","team":"PIT"}
 {"detected_between":["2026-11-15T07:05:38Z","2026-11-15T07:35:34Z"],"field":"news_updated","kind":"change","new":"2026-11-15T07:05:15.729Z","old":"2026-11-14T21:45:12.811Z","player_id":"9511","source":"projections_feed","team":"LAC"}
+{"detected_between":["2026-11-15T07:35:34Z","2026-11-15T08:05:44Z"],"field":"news_updated","kind":"change","new":"2026-11-15T07:35:15.690Z","old":"2026-11-14T02:30:19.681Z","player_id":"8122","source":"projections_feed","team":"ARI"}
+{"detected_between":["2026-11-15T07:35:34Z","2026-11-15T08:05:44Z"],"field":"news_updated","kind":"change","new":"2026-11-15T07:25:15.737Z","old":"2026-11-14T05:30:21.070Z","player_id":"12493","source":"projections_feed","team":"LAC"}
