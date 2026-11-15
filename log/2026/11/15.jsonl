@@ -56,3 +56,4 @@
 {"detected_between":["2026-11-14T22:05:42Z","2026-11-15T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":6,"old":8,"player_id":"13320","source":"players_nfl","team":"ATL"}
 {"detected_between":["2026-11-14T22:05:42Z","2026-11-15T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":5,"old":4,"player_id":"13423","source":"players_nfl","team":"PIT"}
 {"detected_between":["2026-11-14T22:05:42Z","2026-11-15T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":4,"old":5,"player_id":"13433","source":"players_nfl","team":"PIT"}
+{"detected_between":["2026-11-15T07:05:38Z","2026-11-15T07:35:34Z"],"field":"news_updated","kind":"change","new":"2026-11-15T07:05:15.729Z","old":"2026-11-14T21:45:12.811Z","player_id":"9511","source":"projections_feed","team":"LAC"}
