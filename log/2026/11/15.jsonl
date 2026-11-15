@@ -130,3 +130,5 @@
 {"detected_between":["2026-11-15T15:05:36Z","2026-11-15T15:35:37Z"],"field":"injury_body_part","kind":"change","new":"Ankle","old":null,"player_id":"11564","source":"projections_feed","team":"NE"}
 {"detected_between":["2026-11-15T15:05:36Z","2026-11-15T15:35:37Z"],"field":"news_updated","kind":"change","new":"2026-11-15T15:10:28.316Z","old":"2026-11-14T15:40:10.797Z","player_id":"11564","source":"projections_feed","team":"NE"}
 {"detected_between":["2026-11-15T15:05:36Z","2026-11-15T15:35:37Z"],"field":"news_updated","kind":"change","new":"2026-11-15T15:20:28.127Z","old":"2026-11-14T01:10:19.364Z","player_id":"13269","source":"projections_feed","team":"LV"}
+{"detected_between":["2026-11-15T15:35:36Z","2026-11-15T16:05:38Z"],"field":"injury_status","kind":"change","new":"Out","old":"Questionable","player_id":"11564","source":"projections_feed","team":"NE"}
+{"detected_between":["2026-11-15T15:35:36Z","2026-11-15T16:05:38Z"],"field":"news_updated","kind":"change","new":"2026-11-15T15:50:29.822Z","old":"2026-11-15T15:10:28.316Z","player_id":"11564","source":"projections_feed","team":"NE"}
