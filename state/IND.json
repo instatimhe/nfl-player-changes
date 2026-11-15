@@ -18,7 +18,7 @@
 "10220":{"active":true,"depth_chart_order":5,"depth_chart_position":"TE","full_name":"Will Mallory","injury_body_part":"Hamstring","injury_status":"Out","news_updated":"2026-11-14T17:25:11.475Z","position":"TE","status":"Active","team":"IND"},
 "11762":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Anthony Gould","news_updated":"2026-11-11T17:05:26.037Z","position":"WR","status":"Active","team":"IND"},
 "12185":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Spencer Shrader","news_updated":"2026-11-13T20:20:32.088Z","position":"K","status":"Active","team":"IND"},
-"12470":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Riley Leonard","news_updated":"2026-11-08T17:10:19.581Z","position":"QB","status":"Active","team":"IND"},
+"12470":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Riley Leonard","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-11-15T16:50:28.970Z","position":"QB","status":"Active","team":"IND"},
 "12471":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"DJ Giddens","news_updated":"2026-11-10T01:10:44.279Z","position":"RB","status":"Active","team":"IND"},
 "12518":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Tyler Warren","news_updated":"2026-11-13T19:40:31.785Z","position":"TE","status":"Active","team":"IND"},
 "13333":{"active":true,"depth_chart_order":3,"depth_chart_position":"LWR","full_name":"Deion Burks","news_updated":"2026-11-13T20:00:31.998Z","position":"WR","status":"Active","team":"IND"},
