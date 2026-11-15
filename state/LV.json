@@ -12,7 +12,7 @@
 "10866":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Aidan O'Connell","news_updated":"2026-11-11T19:15:26.950Z","position":"QB","status":"Active","team":"LV"},
 "11384":{"active":true,"full_name":"Owen Wright","news_updated":"2026-09-30T18:00:20.512Z","position":"RB","status":"Active","team":"LV"},
 "11574":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Dylan Laube","news_updated":"2026-11-07T23:35:13.099Z","position":"RB","status":"Active","team":"LV"},
-"11604":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Brock Bowers","injury_body_part":"Leg","injury_status":"Questionable","news_updated":"2026-11-15T22:20:30.742Z","position":"TE","status":"Active","team":"LV"},
+"11604":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Brock Bowers","injury_body_part":"Ankle","injury_status":"Out","news_updated":"2026-11-15T22:50:30.908Z","position":"TE","status":"Active","team":"LV"},
 "11963":{"active":true,"full_name":"Chris Collier","injury_body_part":"Undisclosed","injury_status":"Questionable","news_updated":"2026-11-13T22:50:18.900Z","position":"RB","status":"Inactive","team":"LV"},
 "12483":{"active":true,"depth_chart_order":3,"depth_chart_position":"SWR","full_name":"Jack Bech","news_updated":"2026-11-11T04:05:22.093Z","position":"WR","status":"Active","team":"LV"},
 "12527":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Ashton Jeanty","news_updated":"2026-11-13T23:00:20.095Z","position":"RB","status":"Active","team":"LV"},
