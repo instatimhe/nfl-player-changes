@@ -1,6 +1,6 @@
 {
 "1984":{"active":true,"full_name":"Allen Hurns","news_updated":"2022-03-24T16:20:21.772Z","position":"WR","status":"Active","team":"MIA"},
-"4233":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Zane Gonzalez","news_updated":"2026-11-16T16:30:36.969Z","position":"K","status":"Active","team":"MIA"},
+"4233":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Zane Gonzalez","news_updated":"2026-11-16T16:40:38.327Z","position":"K","status":"Active","team":"MIA"},
 "6167":{"active":true,"full_name":"Jordan Scarlett","news_updated":"2021-12-29T03:50:04.791Z","position":"RB","status":"Inactive","team":"MIA"},
 "6798":{"active":true,"depth_chart_order":5,"depth_chart_position":"LWR","full_name":"Jalen Reagor","news_updated":"2026-11-15T09:00:17.570Z","position":"WR","status":"Active","team":"MIA"},
 "8088":{"active":true,"full_name":"Kalif Jackson","position":"TE","status":"Active","team":"MIA"},
@@ -13,7 +13,7 @@
 "11186":{"active":true,"full_name":"Carlos Washington Jr.","news_updated":"2026-11-10T04:45:45.673Z","position":"RB","status":"Active","team":"MIA"},
 "11610":{"active":true,"depth_chart_order":2,"depth_chart_position":"SWR","full_name":"Malik Washington","news_updated":"2026-11-16T15:40:36.660Z","position":"WR","status":"Active","team":"MIA"},
 "11643":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Jaylen Wright","news_updated":"2026-11-14T13:00:10.068Z","position":"RB","status":"Active","team":"MIA"},
-"12494":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Kyle McCord","news_updated":"2026-11-16T01:50:32.453Z","position":"QB","status":"Active","team":"MIA"},
+"12494":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Kyle McCord","news_updated":"2026-11-16T16:35:36.909Z","position":"QB","status":"Active","team":"MIA"},
 "12495":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Ollie Gordon II","news_updated":"2026-11-15T22:50:31.372Z","position":"RB","status":"Active","team":"MIA"},
 "12538":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Brady Cook","news_updated":"2026-11-15T09:00:17.558Z","position":"QB","status":"Active","team":"MIA"},
 "12788":{"active":true,"full_name":"Will Sheppard","news_updated":"2026-09-02T07:20:27.793Z","position":"WR","status":"Active","team":"MIA"},
