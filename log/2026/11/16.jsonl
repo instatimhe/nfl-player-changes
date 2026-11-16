@@ -399,3 +399,5 @@
 {"detected_between":["2026-11-16T19:35:42Z","2026-11-16T20:05:52Z"],"field":"news_updated","kind":"change","new":"2026-11-16T19:30:37.908Z","old":"2026-11-15T23:00:31.534Z","player_id":"12048","source":"projections_feed","team":"SEA"}
 {"detected_between":["2026-11-16T19:35:42Z","2026-11-16T20:05:52Z"],"field":"news_updated","kind":"change","new":"2026-11-16T20:00:38.254Z","old":"2026-11-09T00:15:22.490Z","player_id":"12534","source":"projections_feed","team":"CHI"}
 {"detected_between":["2026-11-16T19:35:42Z","2026-11-16T20:05:52Z"],"field":"news_updated","kind":"change","new":"2026-11-16T19:35:37.992Z","old":"2026-11-15T13:20:27.662Z","player_id":"13295","source":"projections_feed","team":"NE"}
+{"detected_between":["2026-11-16T20:05:51Z","2026-11-16T20:35:40Z"],"kind":"enter","player_id":"4574","record":{"news_updated":"2026-11-16T17:45:37.371Z","position":"QB","team":"TB"},"source":"projections_feed","team":"TB"}
+{"detected_between":["2026-11-16T20:05:51Z","2026-11-16T20:35:40Z"],"kind":"enter","player_id":"8235","record":{"news_updated":"2026-08-29T17:30:47.802Z","position":"WR","team":"IND"},"source":"projections_feed","team":"IND"}
