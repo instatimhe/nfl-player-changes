@@ -17,7 +17,7 @@
 "11273":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Ben VanSumeren","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-09-16T01:15:55.303Z","position":"RB","status":"Active","team":"KC"},
 "11595":{"active":true,"depth_chart_order":6,"depth_chart_position":"TE","full_name":"Jared Wiley","injury_body_part":"Ankle","injury_notes":"Fracture","injury_status":"Out","news_updated":"2026-11-15T21:55:31.093Z","position":"TE","status":"Active","team":"KC"},
 "11624":{"active":true,"depth_chart_order":3,"depth_chart_position":"RWR","full_name":"Xavier Worthy","news_updated":"2026-11-16T00:55:32.189Z","position":"WR","status":"Active","team":"KC"},
-"11748":{"active":true,"full_name":"Bub Means","news_updated":"2026-11-06T00:35:47.599Z","position":"WR","status":"Active","team":"KC"},
+"11748":{"active":true,"full_name":"Bub Means","news_updated":"2026-11-17T23:00:47.242Z","position":"WR","status":"Active","team":"KC"},
 "12455":{"active":true,"depth_chart_order":5,"depth_chart_position":"RB","full_name":"Brashard Smith","injury_body_part":"Hamstring","injury_status":"IR","news_updated":"2026-10-24T18:10:58.825Z","position":"RB","status":"Inactive","team":"KC"},
 "12505":{"active":true,"depth_chart_order":5,"depth_chart_position":"SWR","full_name":"Jalen Royals","news_updated":"2026-11-11T03:40:21.379Z","position":"WR","status":"Active","team":"KC"},
 "12817":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Jake Briningstool","news_updated":"2026-11-15T23:25:32.611Z","position":"TE","status":"Active","team":"KC"},
@@ -31,6 +31,6 @@
 "13413":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Cyrus Allen","news_updated":"2026-11-17T14:45:44.353Z","position":"WR","status":"Active","team":"KC"},
 "13419":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Jaydn Ott","injury_body_part":"Hamstring","injury_status":"Out","news_updated":"2026-11-15T16:50:28.985Z","position":"RB","status":"Active","team":"KC"},
 "13778":{"active":true,"full_name":"EJ Smith","news_updated":"2026-11-17T22:40:47.091Z","position":"RB","status":"Active","team":"KC"},
-"13904":{"active":true,"full_name":"Jacob De Jesus","news_updated":"2026-11-17T02:10:40.363Z","position":"WR","status":"Active","team":"KC"},
+"13904":{"active":true,"full_name":"Jacob De Jesus","news_updated":"2026-11-17T23:05:46.995Z","position":"WR","status":"Active","team":"KC"},
 "13905":{"active":true,"full_name":"Omari Evans","news_updated":"2026-09-02T02:05:25.183Z","position":"WR","status":"Active","team":"KC"}
 }
