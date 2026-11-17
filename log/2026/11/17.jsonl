@@ -460,3 +460,9 @@
 {"detected_between":["2026-11-17T14:35:39Z","2026-11-17T22:05:40Z"],"field":"depth_chart_order","kind":"change","new":6,"old":9,"player_id":"13380","source":"players_nfl","team":"LAC"}
 {"detected_between":["2026-11-17T14:35:39Z","2026-11-17T22:05:40Z"],"field":"depth_chart_order","kind":"change","new":10,"old":11,"player_id":"13392","source":"players_nfl","team":"KC"}
 {"detected_between":["2026-11-17T14:35:39Z","2026-11-17T22:05:40Z"],"kind":"fill","player_id":"13778","record":{"active":true,"full_name":"EJ Smith","status":"Active"},"source":"players_nfl","team":"KC"}
+{"detected_between":["2026-11-17T22:05:40Z","2026-11-17T22:35:38Z"],"kind":"enter","player_id":"5095","record":{"news_updated":"2026-11-17T22:05:46.553Z","position":"K","team":"MIA"},"source":"projections_feed","team":"MIA"}
+{"detected_between":["2026-11-17T22:05:40Z","2026-11-17T22:35:38Z"],"field":"news_updated","kind":"change","new":"2026-11-17T22:05:46.901Z","old":"2026-11-17T18:35:47.150Z","player_id":"11628","source":"projections_feed","team":"HOU"}
+{"detected_between":["2026-11-17T22:05:40Z","2026-11-17T22:35:38Z"],"field":"news_updated","kind":"change","new":"2026-11-17T22:00:46.664Z","old":"2026-11-17T18:20:45.474Z","player_id":"12474","source":"projections_feed","team":"HOU"}
+{"detected_between":["2026-11-17T22:05:40Z","2026-11-17T22:35:38Z"],"field":"news_updated","kind":"change","new":"2026-11-17T21:55:46.555Z","old":"2026-11-17T21:20:47.809Z","player_id":"12520","source":"projections_feed","team":"TEN"}
+{"detected_between":["2026-11-17T22:05:40Z","2026-11-17T22:35:38Z"],"kind":"enter","player_id":"12829","record":{"news_updated":"2026-11-14T22:50:13.298Z","position":"WR","team":"GB"},"source":"projections_feed","team":"GB"}
+{"detected_between":["2026-11-17T22:05:40Z","2026-11-17T22:35:38Z"],"kind":"enter","player_id":"13658","record":{"news_updated":"2026-09-29T17:20:04.630Z","position":"WR","team":"MIA"},"source":"projections_feed","team":"MIA"}
