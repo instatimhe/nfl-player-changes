@@ -205,3 +205,8 @@
 {"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":5,"old":4,"player_id":"13315","source":"players_nfl","team":"LAR"}
 {"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":9,"old":5,"player_id":"13380","source":"players_nfl","team":"LAC"}
 {"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":6,"old":5,"player_id":"13400","source":"players_nfl","team":"MIA"}
+{"detected_between":["2026-11-17T07:05:38Z","2026-11-17T07:35:38Z"],"field":"news_updated","kind":"change","new":"2026-11-17T07:20:43.496Z","old":"2026-11-17T01:15:39.783Z","player_id":"8168","source":"projections_feed","team":"GB"}
+{"detected_between":["2026-11-17T07:05:38Z","2026-11-17T07:35:38Z"],"field":"news_updated","kind":"change","new":"2026-11-17T07:20:43.532Z","old":"2026-11-16T22:50:38.994Z","player_id":"11577","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-11-17T07:05:38Z","2026-11-17T07:35:38Z"],"field":"news_updated","kind":"change","new":"2026-11-17T07:10:43.704Z","old":"2026-11-16T20:35:38.606Z","player_id":"12389","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-11-17T07:05:38Z","2026-11-17T07:35:38Z"],"field":"news_updated","kind":"change","new":"2026-11-17T07:20:43.542Z","old":"2026-11-16T23:30:39.528Z","player_id":"12457","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-11-17T07:05:38Z","2026-11-17T07:35:38Z"],"field":"news_updated","kind":"change","new":"2026-11-17T07:20:43.483Z","old":"2026-11-17T02:20:40.173Z","player_id":"12533","source":"projections_feed","team":"WAS"}
