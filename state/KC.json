@@ -8,9 +8,9 @@
 "6677":{"active":false,"depth_chart_order":3,"depth_chart_position":"SWR","full_name":"Joe Forson","injury_status":"NA","position":"WR","status":"Practice Squad","team":"KC"},
 "7591":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Justin Fields","news_updated":"2026-11-11T22:25:29.650Z","position":"QB","status":"Active","team":"KC"},
 "7828":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Noah Gray","news_updated":"2026-11-17T00:40:39.774Z","position":"TE","status":"Active","team":"KC"},
-"8151":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Kenneth Walker III","injury_body_part":"Groin","injury_status":"Out","news_updated":"2026-11-16T18:55:37.674Z","position":"RB","status":"Active","team":"KC"},
+"8151":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Kenneth Walker III","injury_body_part":"Groin","injury_status":"Out","news_updated":"2026-11-17T22:40:46.869Z","position":"RB","status":"Active","team":"KC"},
 "8188":{"active":true,"depth_chart_order":8,"depth_chart_position":"LWR","full_name":"Tyquan Thornton","injury_body_part":"Ankle","injury_notes":"Surgery","injury_status":"IR","news_updated":"2026-10-13T18:35:48.519Z","position":"WR","status":"Inactive","team":"KC"},
-"8500":{"active":true,"full_name":"John FitzPatrick","news_updated":"2026-11-11T01:15:20.902Z","position":"TE","status":"Active","team":"KC"},
+"8500":{"active":true,"full_name":"John FitzPatrick","news_updated":"2026-11-17T22:50:46.970Z","position":"TE","status":"Active","team":"KC"},
 "8924":{"active":true,"full_name":"Thomas Odukoya","news_updated":"2026-09-07T00:15:34.498Z","position":"TE","status":"Active","team":"KC"},
 "9500":{"active":true,"depth_chart_order":2,"depth_chart_position":"LWR","full_name":"Josh Downs","news_updated":"2026-11-15T23:45:32.758Z","position":"WR","status":"Active","team":"KC"},
 "10229":{"active":true,"depth_chart_order":1,"depth_chart_position":"SWR","full_name":"Rashee Rice","news_updated":"2026-11-15T23:55:32.735Z","position":"WR","status":"Active","team":"KC"},
@@ -30,7 +30,7 @@
 "13404":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Garrett Nussmeier","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-11-15T17:00:29.003Z","position":"QB","status":"Active","team":"KC"},
 "13413":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Cyrus Allen","news_updated":"2026-11-17T14:45:44.353Z","position":"WR","status":"Active","team":"KC"},
 "13419":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Jaydn Ott","injury_body_part":"Hamstring","injury_status":"Out","news_updated":"2026-11-15T16:50:28.985Z","position":"RB","status":"Active","team":"KC"},
-"13778":{"active":true,"full_name":"EJ Smith","news_updated":"2026-11-15T04:00:15.050Z","position":"RB","status":"Active","team":"KC"},
+"13778":{"active":true,"full_name":"EJ Smith","news_updated":"2026-11-17T22:40:47.091Z","position":"RB","status":"Active","team":"KC"},
 "13904":{"active":true,"full_name":"Jacob De Jesus","news_updated":"2026-11-17T02:10:40.363Z","position":"WR","status":"Active","team":"KC"},
 "13905":{"active":true,"full_name":"Omari Evans","news_updated":"2026-09-02T02:05:25.183Z","position":"WR","status":"Active","team":"KC"}
 }
