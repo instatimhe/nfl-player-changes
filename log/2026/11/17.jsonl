@@ -173,3 +173,35 @@
 {"detected_between":["2026-11-17T06:05:46Z","2026-11-17T06:35:39Z"],"field":"news_updated","kind":"change","new":"2026-11-17T06:10:41.699Z","old":"2026-11-15T02:45:14.187Z","player_id":"7571","source":"projections_feed","team":"BAL"}
 {"detected_between":["2026-11-17T06:05:46Z","2026-11-17T06:35:39Z"],"field":"news_updated","kind":"change","new":"2026-11-17T06:05:41.928Z","old":"2026-11-17T00:05:39.400Z","player_id":"9754","source":"projections_feed","team":"LAC"}
 {"detected_between":["2026-11-17T06:05:46Z","2026-11-17T06:35:39Z"],"field":"news_updated","kind":"change","new":"2026-11-17T06:05:41.893Z","old":"2026-11-16T23:55:39.283Z","player_id":"13293","source":"projections_feed","team":"BAL"}
+{"detected_between":["2026-11-17T06:35:39Z","2026-11-17T07:05:39Z"],"field":"news_updated","kind":"change","new":"2026-11-17T07:00:41.719Z","old":"2026-11-17T05:05:41.357Z","player_id":"3198","source":"projections_feed","team":"BAL"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_position","kind":"change","new":"TE","old":null,"player_id":"3258","source":"players_nfl","team":"BAL"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":4,"old":null,"player_id":"3258","source":"players_nfl","team":"BAL"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_position","kind":"change","new":"LWR","old":null,"player_id":"3269","source":"players_nfl","team":"BAL"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":6,"old":null,"player_id":"3269","source":"players_nfl","team":"BAL"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"5121","source":"players_nfl","team":"NYG"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"kind":"fill","player_id":"6037","record":{"active":true,"full_name":"Brett Rypien","status":"Active"},"source":"players_nfl","team":"LV"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_position","kind":"change","new":"QB","old":null,"player_id":"6185","source":"players_nfl","team":"TB"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":3,"old":null,"player_id":"6185","source":"players_nfl","team":"TB"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":6,"old":7,"player_id":"6699","source":"players_nfl","team":"NYG"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":7,"old":8,"player_id":"8125","source":"players_nfl","team":"NYG"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":8,"old":7,"player_id":"9493","source":"players_nfl","team":"LAR"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":4,"old":5,"player_id":"9497","source":"players_nfl","team":"NYG"}
+{"detected_between":["2026-11-17T06:35:39Z","2026-11-17T07:05:39Z"],"field":"news_updated","kind":"change","new":"2026-11-17T06:45:41.688Z","old":"2026-11-17T05:25:41.678Z","player_id":"9997","source":"projections_feed","team":"BAL"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_position","kind":"change","new":null,"old":"LWR","player_id":"10228","source":"players_nfl","team":"NYG"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":null,"old":4,"player_id":"10228","source":"players_nfl","team":"NYG"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":3,"old":2,"player_id":"10866","source":"players_nfl","team":"LV"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_position","kind":"change","new":"RWR","old":null,"player_id":"11306","source":"players_nfl","team":"NYG"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":8,"old":null,"player_id":"11306","source":"players_nfl","team":"NYG"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"kind":"fill","player_id":"11311","record":{"active":true,"full_name":"Jason Brownlee","status":"Active"},"source":"players_nfl","team":"TEN"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":7,"old":6,"player_id":"11618","source":"players_nfl","team":"TB"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":10,"old":8,"player_id":"11623","source":"players_nfl","team":"LAR"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":6,"old":7,"player_id":"11635","source":"players_nfl","team":"LAC"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"kind":"fill","player_id":"12389","record":{"active":true,"full_name":"Hayden Rucci","status":"Active"},"source":"players_nfl","team":"PHI"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"kind":"fill","player_id":"12457","record":{"active":true,"full_name":"Jaydon Blue","status":"Active"},"source":"players_nfl","team":"PHI"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"12699","source":"players_nfl","team":"BAL"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"12860","source":"players_nfl","team":"LAC"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":7,"old":5,"player_id":"13268","source":"players_nfl","team":"BAL"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":9,"old":6,"player_id":"13311","source":"players_nfl","team":"MIA"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":5,"old":4,"player_id":"13315","source":"players_nfl","team":"LAR"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":9,"old":5,"player_id":"13380","source":"players_nfl","team":"LAC"}
+{"detected_between":["2026-11-16T22:05:39Z","2026-11-17T07:05:39Z"],"field":"depth_chart_order","kind":"change","new":6,"old":5,"player_id":"13400","source":"players_nfl","team":"MIA"}
