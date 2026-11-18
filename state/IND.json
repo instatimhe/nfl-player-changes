@@ -8,7 +8,7 @@
 "5917":{"active":true,"full_name":"Mecole Hardman Jr.","news_updated":"2026-10-20T22:25:46.170Z","position":"WR","status":"Active","team":"IND"},
 "6427":{"active":true,"depth_chart_order":2,"depth_chart_position":"RWR","full_name":"Ashton Dulin","news_updated":"2026-11-18T00:55:47.580Z","position":"WR","status":"Active","team":"IND"},
 "6453":{"active":true,"depth_chart_order":7,"full_name":"D.J. Montgomery","injury_body_part":"Abdomen","injury_status":"IR","news_updated":"2026-08-31T17:20:13.756Z","position":"WR","status":"Inactive","team":"IND"},
-"6813":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Jonathan Taylor","news_updated":"2026-11-17T03:50:41.979Z","position":"RB","status":"Active","team":"IND"},
+"6813":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Jonathan Taylor","news_updated":"2026-11-18T19:35:53.714Z","position":"RB","status":"Active","team":"IND"},
 "6850":{"active":true,"full_name":"Harrison Bryant","news_updated":"2026-11-16T19:15:37.981Z","position":"TE","status":"Active","team":"IND"},
 "6927":{"active":true,"depth_chart_order":8,"depth_chart_position":"RWR","full_name":"Quez Watkins","news_updated":"2026-11-18T08:20:51.391Z","position":"WR","status":"Active","team":"IND"},
 "7262":{"active":true,"full_name":"Jalen Morton","news_updated":"2021-08-06T15:45:42.884Z","position":"QB","status":"Active","team":"IND"},
@@ -22,9 +22,9 @@
 "12185":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Spencer Shrader","news_updated":"2026-11-17T04:25:42.048Z","position":"K","status":"Active","team":"IND"},
 "12470":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Riley Leonard","news_updated":"2026-11-15T16:50:28.970Z","position":"QB","status":"Active","team":"IND"},
 "12471":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"DJ Giddens","news_updated":"2026-11-17T01:50:40.384Z","position":"RB","status":"Active","team":"IND"},
-"12518":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Tyler Warren","news_updated":"2026-11-17T03:55:42.763Z","position":"TE","status":"Active","team":"IND"},
+"12518":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Tyler Warren","news_updated":"2026-11-18T19:40:53.842Z","position":"TE","status":"Active","team":"IND"},
 "13333":{"active":true,"depth_chart_order":3,"depth_chart_position":"LWR","full_name":"Deion Burks","news_updated":"2026-11-18T00:45:47.585Z","position":"WR","status":"Active","team":"IND"},
 "13339":{"active":true,"full_name":"Davon Booth","news_updated":"2026-09-02T01:30:25.381Z","position":"RB","status":"Active","team":"IND"},
 "13407":{"active":true,"depth_chart_order":7,"depth_chart_position":"TE","full_name":"Carson Towt","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-08-19T07:20:54.406Z","position":"TE","status":"Inactive","team":"IND"},
-"13424":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Seth McGowan","news_updated":"2026-11-17T04:05:42.495Z","position":"RB","status":"Active","team":"IND"}
+"13424":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Seth McGowan","news_updated":"2026-11-18T19:45:53.987Z","position":"RB","status":"Active","team":"IND"}
 }
