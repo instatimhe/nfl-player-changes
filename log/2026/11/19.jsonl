@@ -86,3 +86,4 @@
 {"detected_between":["2026-11-19T07:05:48Z","2026-11-19T14:35:44Z"],"field":"depth_chart_order","kind":"change","new":4,"old":5,"player_id":"11600","source":"players_nfl","team":"CAR"}
 {"detected_between":["2026-11-19T07:05:48Z","2026-11-19T14:35:44Z"],"field":"depth_chart_order","kind":"change","new":9,"old":10,"player_id":"11630","source":"players_nfl","team":"PIT"}
 {"detected_between":["2026-11-19T07:05:48Z","2026-11-19T14:35:44Z"],"field":"depth_chart_order","kind":"change","new":11,"old":12,"player_id":"13200","source":"players_nfl","team":"PIT"}
+{"detected_between":["2026-11-19T15:05:42Z","2026-11-19T15:35:40Z"],"field":"news_updated","kind":"change","new":"2026-11-19T15:20:00.620Z","old":"2026-11-08T06:25:16.650Z","player_id":"4950","source":"projections_feed","team":"SF"}
