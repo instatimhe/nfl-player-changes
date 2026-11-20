@@ -26,5 +26,5 @@
 "13333":{"active":true,"depth_chart_order":3,"depth_chart_position":"LWR","full_name":"Deion Burks","news_updated":"2026-11-18T20:15:54.095Z","position":"WR","status":"Active","team":"IND"},
 "13339":{"active":true,"full_name":"Davon Booth","news_updated":"2026-09-02T01:30:25.381Z","position":"RB","status":"Active","team":"IND"},
 "13407":{"active":true,"depth_chart_order":7,"depth_chart_position":"TE","full_name":"Carson Towt","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-08-19T07:20:54.406Z","position":"TE","status":"Inactive","team":"IND"},
-"13424":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Seth McGowan","injury_body_part":"Hamstring","injury_status":"Questionable","news_updated":"2026-11-20T03:20:05.439Z","position":"RB","status":"Active","team":"IND"}
+"13424":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Seth McGowan","injury_body_part":"Hamstring","injury_status":"Out","news_updated":"2026-11-20T03:40:04.539Z","position":"RB","status":"Active","team":"IND"}
 }
