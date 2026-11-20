@@ -40,3 +40,5 @@
 {"detected_between":["2026-11-20T03:05:39Z","2026-11-20T03:35:44Z"],"field":"news_updated","kind":"change","new":"2026-11-20T03:20:05.439Z","old":"2026-11-18T19:45:53.987Z","player_id":"13424","source":"projections_feed","team":"IND"}
 {"detected_between":["2026-11-20T03:35:43Z","2026-11-20T04:05:39Z"],"field":"injury_status","kind":"change","new":"Out","old":"Questionable","player_id":"13424","source":"projections_feed","team":"IND"}
 {"detected_between":["2026-11-20T03:35:43Z","2026-11-20T04:05:39Z"],"field":"news_updated","kind":"change","new":"2026-11-20T03:40:04.539Z","old":"2026-11-20T03:20:05.439Z","player_id":"13424","source":"projections_feed","team":"IND"}
+{"detected_between":["2026-11-20T04:05:39Z","2026-11-20T04:35:38Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"9504","source":"projections_feed","team":"HOU"}
+{"detected_between":["2026-11-20T04:05:39Z","2026-11-20T04:35:38Z"],"field":"injury_body_part","kind":"change","new":"Hip","old":null,"player_id":"9504","source":"projections_feed","team":"HOU"}
