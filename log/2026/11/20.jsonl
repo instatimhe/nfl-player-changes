@@ -85,3 +85,5 @@
 {"detected_between":["2026-11-20T07:05:41Z","2026-11-20T07:35:39Z"],"field":"news_updated","kind":"change","new":"2026-11-20T06:50:06.154Z","old":"2026-11-20T05:15:05.489Z","player_id":"9502","source":"projections_feed","team":"HOU"}
 {"detected_between":["2026-11-20T12:35:37Z","2026-11-20T13:05:38Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"4995","source":"projections_feed","team":"LV"}
 {"detected_between":["2026-11-20T12:35:37Z","2026-11-20T13:05:38Z"],"field":"injury_body_part","kind":"change","new":"Calf","old":null,"player_id":"4995","source":"projections_feed","team":"LV"}
+{"detected_between":["2026-11-20T13:35:36Z","2026-11-20T14:05:45Z"],"field":"news_updated","kind":"change","new":"2026-11-20T13:50:09.280Z","old":"2026-11-20T05:05:05.477Z","player_id":"5870","source":"projections_feed","team":"IND"}
+{"detected_between":["2026-11-20T13:35:36Z","2026-11-20T14:05:45Z"],"field":"news_updated","kind":"change","new":"2026-11-20T13:50:09.265Z","old":"2026-11-20T05:50:05.282Z","player_id":"6813","source":"projections_feed","team":"IND"}
