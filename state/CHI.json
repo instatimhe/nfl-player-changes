@@ -22,12 +22,12 @@
 "11620":{"active":true,"depth_chart_order":2,"depth_chart_position":"LWR","full_name":"Rome Odunze","news_updated":"2026-11-17T19:55:45.934Z","position":"WR","status":"Active","team":"CHI"},
 "12267":{"active":true,"full_name":"Qadir Ismail","news_updated":"2026-09-03T00:15:35.073Z","position":"WR","status":"Active","team":"CHI"},
 "12517":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Colston Loveland","news_updated":"2026-11-17T19:00:45.596Z","position":"TE","status":"Active","team":"CHI"},
-"12519":{"active":true,"depth_chart_order":1,"depth_chart_position":"RWR","full_name":"Luther Burden III","news_updated":"2026-11-19T20:45:02.482Z","position":"WR","status":"Active","team":"CHI"},
-"12534":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Kyle Monangai","news_updated":"2026-11-19T20:55:02.640Z","position":"RB","status":"Active","team":"CHI"},
+"12519":{"active":true,"depth_chart_order":1,"depth_chart_position":"RWR","full_name":"Luther Burden III","news_updated":"2026-11-20T19:51:01.915Z","position":"WR","status":"Active","team":"CHI"},
+"12534":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Kyle Monangai","news_updated":"2026-11-20T19:51:01.931Z","position":"RB","status":"Active","team":"CHI"},
 "12746":{"active":true,"full_name":"JP Richardson","news_updated":"2026-09-02T00:55:24.614Z","position":"WR","status":"Active","team":"CHI"},
 "13079":{"active":true,"depth_chart_order":5,"depth_chart_position":"LWR","full_name":"Jahdae Walker","news_updated":"2026-10-19T18:50:10.148Z","position":"WR","status":"Active","team":"CHI"},
 "13310":{"active":true,"full_name":"Miller Moss","news_updated":"2026-09-16T01:05:55.094Z","position":"QB","status":"Active","team":"CHI"},
 "13322":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Sam Roush","news_updated":"2026-11-11T02:30:21.519Z","position":"TE","status":"Active","team":"CHI"},
-"13411":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Zavion Thomas","news_updated":"2026-11-11T02:35:21.214Z","position":"WR","status":"Active","team":"CHI"},
+"13411":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Zavion Thomas","injury_body_part":"Ankle","injury_status":"Questionable","news_updated":"2026-11-11T02:35:21.214Z","position":"WR","status":"Active","team":"CHI"},
 "13712":{"active":true,"depth_chart_order":7,"depth_chart_position":"TE","full_name":"Hayden Large","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-09-01T23:45:23.960Z","position":"TE","status":"Inactive","team":"CHI"}
 }
