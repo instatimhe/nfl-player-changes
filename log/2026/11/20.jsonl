@@ -63,3 +63,22 @@
 {"detected_between":["2026-11-20T05:35:37Z","2026-11-20T06:05:44Z"],"field":"news_updated","kind":"change","new":"2026-11-20T05:25:05.368Z","old":"2026-10-11T15:55:16.406Z","player_id":"13307","source":"projections_feed","team":"HOU"}
 {"detected_between":["2026-11-20T06:05:43Z","2026-11-20T06:35:39Z"],"field":"news_updated","kind":"change","new":"2026-11-20T06:05:05.356Z","old":"2026-11-20T04:45:05.636Z","player_id":"7569","source":"projections_feed","team":"HOU"}
 {"detected_between":["2026-11-20T06:05:43Z","2026-11-20T06:35:39Z"],"field":"news_updated","kind":"change","new":"2026-11-20T06:25:05.352Z","old":"2026-11-20T04:55:05.338Z","player_id":"9758","source":"projections_feed","team":"HOU"}
+{"detected_between":["2026-11-20T06:35:39Z","2026-11-20T07:05:42Z"],"field":"news_updated","kind":"change","new":"2026-11-20T06:40:05.880Z","old":"2026-11-20T04:40:05.403Z","player_id":"5892","source":"projections_feed","team":"HOU"}
+{"detected_between":["2026-11-19T22:05:42Z","2026-11-20T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":6,"old":7,"player_id":"6819","source":"players_nfl","team":"PIT"}
+{"detected_between":["2026-11-19T22:05:42Z","2026-11-20T07:05:42Z"],"kind":"fill","player_id":"7050","record":{"active":true,"full_name":"Josiah Deguara","status":"Active"},"source":"players_nfl","team":"LAC"}
+{"detected_between":["2026-11-19T22:05:42Z","2026-11-20T07:05:42Z"],"field":"depth_chart_position","kind":"change","new":null,"old":"LWR","player_id":"7865","source":"players_nfl","team":"PIT"}
+{"detected_between":["2026-11-19T22:05:42Z","2026-11-20T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":null,"old":4,"player_id":"7865","source":"players_nfl","team":"PIT"}
+{"detected_between":["2026-11-19T22:05:42Z","2026-11-20T07:05:42Z"],"field":"depth_chart_position","kind":"change","new":null,"old":"RB","player_id":"8116","source":"players_nfl","team":"GB"}
+{"detected_between":["2026-11-19T22:05:42Z","2026-11-20T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":null,"old":5,"player_id":"8116","source":"players_nfl","team":"GB"}
+{"detected_between":["2026-11-19T22:05:42Z","2026-11-20T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":5,"old":4,"player_id":"10234","source":"players_nfl","team":"LAC"}
+{"detected_between":["2026-11-19T22:05:42Z","2026-11-20T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":4,"old":3,"player_id":"11588","source":"players_nfl","team":"HOU"}
+{"detected_between":["2026-11-19T22:05:42Z","2026-11-20T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":8,"old":9,"player_id":"11630","source":"players_nfl","team":"PIT"}
+{"detected_between":["2026-11-19T22:05:42Z","2026-11-20T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":5,"old":4,"player_id":"12171","source":"players_nfl","team":"HOU"}
+{"detected_between":["2026-11-19T22:05:42Z","2026-11-20T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":6,"old":5,"player_id":"12474","source":"players_nfl","team":"HOU"}
+{"detected_between":["2026-11-19T22:05:42Z","2026-11-20T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":10,"old":8,"player_id":"12484","source":"players_nfl","team":"HOU"}
+{"detected_between":["2026-11-19T22:05:42Z","2026-11-20T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":8,"old":7,"player_id":"12536","source":"players_nfl","team":"HOU"}
+{"detected_between":["2026-11-19T22:05:42Z","2026-11-20T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":9,"old":8,"player_id":"12641","source":"players_nfl","team":"WAS"}
+{"detected_between":["2026-11-19T22:05:42Z","2026-11-20T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":4,"old":5,"player_id":"12670","source":"players_nfl","team":"LAC"}
+{"detected_between":["2026-11-19T22:05:42Z","2026-11-20T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":10,"old":11,"player_id":"13200","source":"players_nfl","team":"PIT"}
+{"detected_between":["2026-11-19T22:05:42Z","2026-11-20T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":7,"old":6,"player_id":"13437","source":"players_nfl","team":"HOU"}
+{"detected_between":["2026-11-19T22:05:42Z","2026-11-20T07:05:42Z"],"field":"depth_chart_order","kind":"change","new":4,"old":5,"player_id":"13491","source":"players_nfl","team":"PIT"}
