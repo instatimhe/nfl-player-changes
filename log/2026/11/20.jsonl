@@ -1,0 +1,11 @@
+{"detected_between":["2026-11-19T23:35:42Z","2026-11-20T00:05:39Z"],"field":"news_updated","kind":"change","new":"2026-11-19T23:25:03.482Z","old":"2026-11-19T20:40:02.541Z","player_id":"2216","source":"projections_feed","team":"SF"}
+{"detected_between":["2026-11-19T23:35:42Z","2026-11-20T00:05:39Z"],"field":"news_updated","kind":"change","new":"2026-11-19T23:25:03.517Z","old":"2026-11-19T00:30:55.728Z","player_id":"8127","source":"projections_feed","team":"LAC"}
+{"detected_between":["2026-11-19T23:35:42Z","2026-11-20T00:05:39Z"],"field":"news_updated","kind":"change","new":"2026-11-19T23:45:04.203Z","old":"2026-11-19T22:00:04.861Z","player_id":"9508","source":"projections_feed","team":"TEN"}
+{"detected_between":["2026-11-19T23:35:42Z","2026-11-20T00:05:39Z"],"field":"news_updated","kind":"change","new":"2026-11-19T23:45:03.395Z","old":"2026-11-18T19:45:53.987Z","player_id":"9756","source":"projections_feed","team":"MIN"}
+{"detected_between":["2026-11-19T23:35:42Z","2026-11-20T00:05:39Z"],"field":"news_updated","kind":"change","new":"2026-11-19T23:35:04.124Z","old":"2026-11-18T22:45:55.147Z","player_id":"11575","source":"projections_feed","team":"BUF"}
+{"detected_between":["2026-11-19T23:35:42Z","2026-11-20T00:05:39Z"],"field":"injury_status","kind":"change","new":null,"old":"Questionable","player_id":"11762","source":"projections_feed","team":"IND"}
+{"detected_between":["2026-11-19T23:35:42Z","2026-11-20T00:05:39Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Toe","player_id":"11762","source":"projections_feed","team":"IND"}
+{"detected_between":["2026-11-19T23:35:42Z","2026-11-20T00:05:39Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"12467","source":"projections_feed","team":"SF"}
+{"detected_between":["2026-11-19T23:35:42Z","2026-11-20T00:05:39Z"],"field":"injury_body_part","kind":"change","new":"Calf","old":null,"player_id":"12467","source":"projections_feed","team":"SF"}
+{"detected_between":["2026-11-19T23:35:42Z","2026-11-20T00:05:39Z"],"field":"injury_status","kind":"change","new":"Out","old":null,"player_id":"12470","source":"projections_feed","team":"IND"}
+{"detected_between":["2026-11-19T23:35:42Z","2026-11-20T00:05:39Z"],"field":"injury_body_part","kind":"change","new":"Coach's Decision","old":null,"player_id":"12470","source":"projections_feed","team":"IND"}
