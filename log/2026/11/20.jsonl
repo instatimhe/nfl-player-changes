@@ -97,3 +97,6 @@
 {"detected_between":["2026-11-20T07:05:41Z","2026-11-20T14:35:38Z"],"field":"depth_chart_order","kind":"change","new":5,"old":4,"player_id":"12670","source":"players_nfl","team":"LAC"}
 {"detected_between":["2026-11-20T07:05:41Z","2026-11-20T14:35:38Z"],"field":"depth_chart_order","kind":"change","new":5,"old":4,"player_id":"13307","source":"players_nfl","team":"HOU"}
 {"detected_between":["2026-11-20T14:05:44Z","2026-11-20T14:35:38Z"],"field":"news_updated","kind":"change","new":"2026-11-20T14:00:08.992Z","old":"2026-11-20T03:40:04.539Z","player_id":"13424","source":"projections_feed","team":"IND"}
+{"detected_between":["2026-11-20T14:35:38Z","2026-11-20T15:05:38Z"],"field":"news_updated","kind":"change","new":"2026-11-20T14:35:09.549Z","old":"2026-11-19T23:10:03.275Z","player_id":"4892","source":"projections_feed","team":"TB"}
+{"detected_between":["2026-11-20T14:35:38Z","2026-11-20T15:05:38Z"],"field":"news_updated","kind":"change","new":"2026-11-20T14:45:09.287Z","old":"2026-11-18T20:20:54.065Z","player_id":"12185","source":"projections_feed","team":"IND"}
+{"detected_between":["2026-11-20T14:35:38Z","2026-11-20T15:05:38Z"],"field":"news_updated","kind":"change","new":"2026-11-20T14:35:09.538Z","old":"2026-11-20T05:10:06.056Z","player_id":"12518","source":"projections_feed","team":"IND"}
