@@ -42,3 +42,7 @@
 {"detected_between":["2026-11-20T03:35:43Z","2026-11-20T04:05:39Z"],"field":"news_updated","kind":"change","new":"2026-11-20T03:40:04.539Z","old":"2026-11-20T03:20:05.439Z","player_id":"13424","source":"projections_feed","team":"IND"}
 {"detected_between":["2026-11-20T04:05:39Z","2026-11-20T04:35:38Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"9504","source":"projections_feed","team":"HOU"}
 {"detected_between":["2026-11-20T04:05:39Z","2026-11-20T04:35:38Z"],"field":"injury_body_part","kind":"change","new":"Hip","old":null,"player_id":"9504","source":"projections_feed","team":"HOU"}
+{"detected_between":["2026-11-20T04:35:37Z","2026-11-20T05:05:46Z"],"field":"news_updated","kind":"change","new":"2026-11-20T04:40:05.403Z","old":"2026-11-19T01:10:55.587Z","player_id":"5892","source":"projections_feed","team":"HOU"}
+{"detected_between":["2026-11-20T04:35:37Z","2026-11-20T05:05:46Z"],"field":"news_updated","kind":"change","new":"2026-11-20T04:50:05.639Z","old":"2026-11-18T19:35:53.714Z","player_id":"6813","source":"projections_feed","team":"IND"}
+{"detected_between":["2026-11-20T04:35:37Z","2026-11-20T05:05:46Z"],"field":"news_updated","kind":"change","new":"2026-11-20T04:45:05.636Z","old":"2026-11-19T01:25:55.629Z","player_id":"7569","source":"projections_feed","team":"HOU"}
+{"detected_between":["2026-11-20T04:35:37Z","2026-11-20T05:05:46Z"],"field":"news_updated","kind":"change","new":"2026-11-20T04:20:04.961Z","old":"2026-11-19T01:45:55.865Z","player_id":"9504","source":"projections_feed","team":"HOU"}
