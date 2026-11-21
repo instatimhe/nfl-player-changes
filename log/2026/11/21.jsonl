@@ -58,3 +58,4 @@
 {"detected_between":["2026-11-21T02:35:36Z","2026-11-21T03:05:38Z"],"field":"news_updated","kind":"change","new":"2026-11-21T02:45:51.386Z","old":"2026-11-20T22:50:51.693Z","player_id":"8135","source":"projections_feed","team":"WAS"}
 {"detected_between":["2026-11-21T02:35:36Z","2026-11-21T03:05:38Z"],"field":"news_updated","kind":"change","new":"2026-11-21T02:40:51.299Z","old":"2026-11-20T22:50:51.678Z","player_id":"8136","source":"projections_feed","team":"WAS"}
 {"detected_between":["2026-11-21T02:35:36Z","2026-11-21T03:05:38Z"],"field":"news_updated","kind":"change","new":"2026-11-21T02:30:51.284Z","old":"2026-11-20T20:56:00.167Z","player_id":"12533","source":"projections_feed","team":"WAS"}
+{"detected_between":["2026-11-21T03:05:38Z","2026-11-21T03:35:34Z"],"field":"news_updated","kind":"change","new":"2026-11-21T03:00:51.402Z","old":"2026-11-20T21:40:51.284Z","player_id":"5849","source":"projections_feed","team":"MIN"}
