@@ -28,3 +28,4 @@
 {"detected_between":["2026-11-22T05:05:34Z","2026-11-22T05:35:34Z"],"field":"news_updated","kind":"change","new":"2026-11-22T05:10:01.261Z","old":"2026-11-20T15:40:08.260Z","player_id":"9224","source":"projections_feed","team":"CIN"}
 {"detected_between":["2026-11-22T05:05:34Z","2026-11-22T05:35:34Z"],"field":"news_updated","kind":"change","new":"2026-11-22T05:05:01.407Z","old":"2026-11-10T04:00:45.358Z","player_id":"11644","source":"projections_feed","team":"DEN"}
 {"detected_between":["2026-11-22T05:05:34Z","2026-11-22T05:35:34Z"],"field":"news_updated","kind":"change","new":"2026-11-22T05:25:01.466Z","old":"2026-11-17T04:10:40.611Z","player_id":"13285","source":"projections_feed","team":"NYG"}
+{"detected_between":["2026-11-22T05:35:34Z","2026-11-22T06:05:35Z"],"field":"news_updated","kind":"change","new":"2026-11-22T05:40:02.044Z","old":"2026-11-19T16:40:01.150Z","player_id":"6130","source":"projections_feed","team":"NYG"}
