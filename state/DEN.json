@@ -5,7 +5,7 @@
 "5045":{"active":true,"depth_chart_order":2,"depth_chart_position":"LWR","full_name":"Courtland Sutton","news_updated":"2026-11-17T19:10:45.644Z","position":"WR","status":"Active","team":"DEN"},
 "5938":{"active":true,"depth_chart_order":6,"depth_chart_position":"LWR","full_name":"Lil'Jordan Humphrey","news_updated":"2026-11-08T17:00:19.527Z","position":"WR","status":"Active","team":"DEN"},
 "6136":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Jarrett Stidham","news_updated":"2026-09-03T02:15:35.283Z","position":"QB","status":"Active","team":"DEN"},
-"6806":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"J.K. Dobbins","news_updated":"2026-11-18T03:00:48.002Z","position":"RB","status":"Active","team":"DEN"},
+"6806":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"J.K. Dobbins","news_updated":"2026-11-22T03:30:00.817Z","position":"RB","status":"Active","team":"DEN"},
 "6869":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Adam Trautman","news_updated":"2026-11-11T03:00:21.606Z","position":"TE","status":"Active","team":"DEN"},
 "7093":{"active":true,"full_name":"Adrian Killins","news_updated":"2022-03-14T02:20:12.229Z","position":"RB","status":"Inactive","team":"DEN"},
 "7526":{"active":true,"depth_chart_order":1,"depth_chart_position":"RWR","full_name":"Jaylen Waddle","news_updated":"2026-11-20T22:10:49.805Z","position":"WR","status":"Active","team":"DEN"},
@@ -24,7 +24,7 @@
 "12492":{"active":true,"depth_chart_order":3,"depth_chart_position":"SWR","full_name":"Pat Bryant","news_updated":"2026-11-20T16:05:08.621Z","position":"WR","status":"Active","team":"DEN"},
 "12735":{"active":true,"depth_chart_order":5,"depth_chart_position":"TE","full_name":"Caleb Lohner","injury_body_part":"Lower Body","injury_notes":"Surgery","injury_status":"IR","news_updated":"2026-11-21T00:20:50.983Z","position":"TE","status":"Inactive","team":"DEN"},
 "13336":{"active":true,"full_name":"Dane Key","news_updated":"2026-09-02T00:50:24.531Z","position":"WR","status":"Active","team":"DEN"},
-"13345":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Jonah Coleman","news_updated":"2026-11-17T17:50:45.302Z","position":"RB","status":"Active","team":"DEN"},
+"13345":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Jonah Coleman","news_updated":"2026-11-22T03:20:00.629Z","position":"RB","status":"Active","team":"DEN"},
 "13577":{"active":true,"depth_chart_order":6,"depth_chart_position":"TE","full_name":"Dallen Bentley","news_updated":"2026-10-04T19:25:12.429Z","position":"TE","status":"Active","team":"DEN"},
 "13981":{"active":true,"full_name":"Kolbe Katsis","news_updated":"2026-09-29T01:10:09.337Z","position":"WR","status":"Active","team":"DEN"}
 }
