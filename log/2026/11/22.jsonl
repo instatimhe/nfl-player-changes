@@ -217,3 +217,4 @@
 {"detected_between":["2026-11-22T18:35:36Z","2026-11-22T19:05:40Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"10235","source":"projections_feed","team":"CHI"}
 {"detected_between":["2026-11-22T18:35:36Z","2026-11-22T19:05:40Z"],"field":"injury_body_part","kind":"change","new":"Undisclosed","old":null,"player_id":"10235","source":"projections_feed","team":"CHI"}
 {"detected_between":["2026-11-22T18:35:36Z","2026-11-22T19:05:40Z"],"field":"news_updated","kind":"change","new":"2026-11-22T18:40:07.836Z","old":"2026-11-11T01:25:21.002Z","player_id":"10235","source":"projections_feed","team":"CHI"}
+{"detected_between":["2026-11-22T19:05:40Z","2026-11-22T19:35:33Z"],"field":"news_updated","kind":"change","new":"2026-11-22T19:05:07.622Z","old":"2026-11-22T18:40:07.836Z","player_id":"10235","source":"projections_feed","team":"CHI"}
