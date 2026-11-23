@@ -255,3 +255,4 @@
 {"detected_between":["2026-11-22T22:05:35Z","2026-11-23T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":3,"old":4,"player_id":"13122","source":"players_nfl","team":"LV"}
 {"detected_between":["2026-11-22T22:05:35Z","2026-11-23T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":8,"old":7,"player_id":"13329","source":"players_nfl","team":"LV"}
 {"detected_between":["2026-11-22T22:05:35Z","2026-11-23T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":6,"old":3,"player_id":"13603","source":"players_nfl","team":"NYG"}
+{"detected_between":["2026-11-23T10:05:37Z","2026-11-23T10:35:45Z"],"field":"news_updated","kind":"change","new":"2026-11-23T10:20:15.995Z","old":"2026-11-23T01:00:10.747Z","player_id":"1373","source":"projections_feed","team":"NYJ"}
