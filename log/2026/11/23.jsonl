@@ -241,3 +241,17 @@
 {"detected_between":["2026-11-23T06:05:36Z","2026-11-23T06:35:35Z"],"field":"news_updated","kind":"change","new":"2026-11-23T06:05:13.976Z","old":"2026-11-23T03:55:11.807Z","player_id":"12502","source":"projections_feed","team":"TEN"}
 {"detected_between":["2026-11-23T06:05:36Z","2026-11-23T06:35:35Z"],"field":"news_updated","kind":"change","new":"2026-11-23T06:05:14.017Z","old":"2026-11-23T02:15:11.143Z","player_id":"12540","source":"projections_feed","team":"TEN"}
 {"detected_between":["2026-11-23T06:05:36Z","2026-11-23T06:35:35Z"],"field":"news_updated","kind":"change","new":"2026-11-23T06:05:14.028Z","old":"2026-11-22T23:30:10.547Z","player_id":"13279","source":"projections_feed","team":"TEN"}
+{"detected_between":["2026-11-22T22:05:35Z","2026-11-23T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":3,"old":4,"player_id":"4353","source":"players_nfl","team":"NYG"}
+{"detected_between":["2026-11-22T22:05:35Z","2026-11-23T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":2,"old":3,"player_id":"4995","source":"players_nfl","team":"LV"}
+{"detected_between":["2026-11-22T22:05:35Z","2026-11-23T07:05:38Z"],"field":"depth_chart_position","kind":"change","new":null,"old":"LWR","player_id":"8142","source":"players_nfl","team":"IND"}
+{"detected_between":["2026-11-22T22:05:35Z","2026-11-23T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"8527","source":"players_nfl","team":"LV"}
+{"detected_between":["2026-11-22T22:05:35Z","2026-11-23T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":1,"old":2,"player_id":"9482","source":"players_nfl","team":"LV"}
+{"detected_between":["2026-11-22T22:05:35Z","2026-11-23T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":4,"old":1,"player_id":"11604","source":"players_nfl","team":"LV"}
+{"detected_between":["2026-11-22T22:05:35Z","2026-11-23T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":4,"old":5,"player_id":"11655","source":"players_nfl","team":"NYG"}
+{"detected_between":["2026-11-22T22:05:35Z","2026-11-23T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":7,"old":5,"player_id":"12541","source":"players_nfl","team":"LV"}
+{"detected_between":["2026-11-22T22:05:35Z","2026-11-23T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":7,"old":5,"player_id":"12670","source":"players_nfl","team":"LAC"}
+{"detected_between":["2026-11-22T22:05:35Z","2026-11-23T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"12738","source":"players_nfl","team":"NYG"}
+{"detected_between":["2026-11-22T22:05:35Z","2026-11-23T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":5,"old":6,"player_id":"12860","source":"players_nfl","team":"LAC"}
+{"detected_between":["2026-11-22T22:05:35Z","2026-11-23T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":3,"old":4,"player_id":"13122","source":"players_nfl","team":"LV"}
+{"detected_between":["2026-11-22T22:05:35Z","2026-11-23T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":8,"old":7,"player_id":"13329","source":"players_nfl","team":"LV"}
+{"detected_between":["2026-11-22T22:05:35Z","2026-11-23T07:05:38Z"],"field":"depth_chart_order","kind":"change","new":6,"old":3,"player_id":"13603","source":"players_nfl","team":"NYG"}
