@@ -278,3 +278,7 @@
 {"detected_between":["2026-11-23T12:35:41Z","2026-11-23T13:05:40Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"11786","source":"projections_feed","team":"JAX"}
 {"detected_between":["2026-11-23T12:35:41Z","2026-11-23T13:05:40Z"],"field":"injury_body_part","kind":"change","new":"Lower Body","old":null,"player_id":"11786","source":"projections_feed","team":"JAX"}
 {"detected_between":["2026-11-23T12:35:41Z","2026-11-23T13:05:40Z"],"field":"news_updated","kind":"change","new":"2026-11-23T12:40:16.790Z","old":"2026-11-20T21:21:00.355Z","player_id":"11792","source":"projections_feed","team":"MIN"}
+{"detected_between":["2026-11-23T13:05:39Z","2026-11-23T13:35:36Z"],"field":"news_updated","kind":"change","new":"2026-11-23T13:00:16.855Z","old":"2026-11-23T05:05:12.561Z","player_id":"5844","source":"projections_feed","team":"MIN"}
+{"detected_between":["2026-11-23T13:05:39Z","2026-11-23T13:35:36Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"12490","source":"projections_feed","team":"JAX"}
+{"detected_between":["2026-11-23T13:05:39Z","2026-11-23T13:35:36Z"],"field":"injury_body_part","kind":"change","new":"Undisclosed","old":null,"player_id":"12490","source":"projections_feed","team":"JAX"}
+{"detected_between":["2026-11-23T13:05:39Z","2026-11-23T13:35:36Z"],"field":"news_updated","kind":"change","new":"2026-11-23T13:00:15.529Z","old":"2026-11-23T02:55:12.844Z","player_id":"12490","source":"projections_feed","team":"JAX"}
