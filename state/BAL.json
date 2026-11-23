@@ -1,6 +1,6 @@
 {
 "3198":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Derrick Henry","injury_body_part":"Concussion","injury_status":"Questionable","news_updated":"2026-11-22T22:00:09.123Z","position":"RB","status":"Active","team":"BAL"},
-"3257":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Jacoby Brissett","news_updated":"2026-11-22T21:55:10.176Z","position":"QB","status":"Active","team":"BAL"},
+"3257":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Jacoby Brissett","news_updated":"2026-11-23T00:20:10.807Z","position":"QB","status":"Active","team":"BAL"},
 "3258":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Nick Vannett","news_updated":"2026-11-22T00:15:59.432Z","position":"TE","status":"Active","team":"BAL"},
 "3269":{"active":true,"full_name":"Chris Moore","news_updated":"2026-11-18T01:40:47.952Z","position":"WR","status":"Active","team":"BAL"},
 "4683":{"active":true,"depth_chart_order":4,"depth_chart_position":"QB","full_name":"Aaron Bailey","position":"QB","status":"Active","team":"BAL"},
@@ -14,7 +14,7 @@
 "7571":{"active":true,"depth_chart_order":3,"depth_chart_position":"LWR","full_name":"Rashod Bateman","news_updated":"2026-11-22T21:55:10.121Z","position":"WR","status":"Active","team":"BAL"},
 "7922":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Riley Patterson","news_updated":"2026-11-22T22:05:10.575Z","position":"K","status":"Active","team":"BAL"},
 "8206":{"active":true,"depth_chart_order":5,"depth_chart_position":"QB","full_name":"Skylar Thompson","injury_body_part":"Undisclosed","injury_status":"IR","news_updated":"2026-08-12T19:25:20.771Z","position":"QB","status":"Inactive","team":"BAL"},
-"9997":{"active":true,"depth_chart_order":1,"depth_chart_position":"SWR","full_name":"Zay Flowers","news_updated":"2026-11-21T22:20:58.585Z","position":"WR","status":"Active","team":"BAL"},
+"9997":{"active":true,"depth_chart_order":1,"depth_chart_position":"SWR","full_name":"Zay Flowers","news_updated":"2026-11-23T00:05:10.204Z","position":"WR","status":"Active","team":"BAL"},
 "11570":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Rasheen Ali","news_updated":"2026-11-18T16:15:52.733Z","position":"RB","status":"Active","team":"BAL"},
 "11629":{"active":true,"depth_chart_order":4,"depth_chart_position":"RWR","full_name":"Devontez Walker","news_updated":"2026-11-06T18:45:16.837Z","position":"WR","status":"Active","team":"BAL"},
 "11648":{"active":true,"depth_chart_order":4,"depth_chart_position":"QB","full_name":"Kedon Slovis","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-11-22T16:40:07.368Z","position":"QB","status":"Active","team":"BAL"},
