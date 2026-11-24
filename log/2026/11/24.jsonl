@@ -281,3 +281,5 @@
 {"detected_between":["2026-11-24T18:05:44Z","2026-11-24T18:35:36Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"13346","source":"projections_feed","team":"CLE"}
 {"detected_between":["2026-11-24T18:05:44Z","2026-11-24T18:35:36Z"],"field":"injury_body_part","kind":"change","new":"Toe","old":null,"player_id":"13346","source":"projections_feed","team":"CLE"}
 {"detected_between":["2026-11-24T18:05:44Z","2026-11-24T18:35:36Z"],"field":"news_updated","kind":"change","new":"2026-11-24T18:20:49.938Z","old":"2026-11-16T01:20:32.298Z","player_id":"13346","source":"projections_feed","team":"CLE"}
+{"detected_between":["2026-11-24T19:05:43Z","2026-11-24T19:35:36Z"],"field":"news_updated","kind":"change","new":"2026-11-24T19:15:48.584Z","old":"2026-11-24T01:00:20.147Z","player_id":"8194","source":"projections_feed","team":"DAL"}
+{"detected_between":["2026-11-24T19:05:43Z","2026-11-24T19:35:36Z"],"field":"news_updated","kind":"change","new":"2026-11-24T18:55:48.407Z","old":"2026-11-24T18:20:49.938Z","player_id":"13346","source":"projections_feed","team":"CLE"}
