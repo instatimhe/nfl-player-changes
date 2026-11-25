@@ -341,3 +341,10 @@
 {"detected_between":["2026-11-25T20:35:35Z","2026-11-25T21:05:37Z"],"field":"injury_body_part","kind":"change","new":"Knee","old":null,"player_id":"8489","source":"projections_feed","team":"IND"}
 {"detected_between":["2026-11-25T20:35:35Z","2026-11-25T21:05:37Z"],"field":"injury_status","kind":"change","new":"Out","old":"Questionable","player_id":"10225","source":"projections_feed","team":"DAL"}
 {"detected_between":["2026-11-25T20:35:35Z","2026-11-25T21:05:37Z"],"field":"news_updated","kind":"change","new":"2026-11-25T20:45:10.057Z","old":"2026-11-24T16:20:47.487Z","player_id":"13417","source":"projections_feed","team":"SF"}
+{"detected_between":["2026-11-25T21:05:36Z","2026-11-25T21:35:36Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"5947","source":"projections_feed","team":"JAX"}
+{"detected_between":["2026-11-25T21:05:36Z","2026-11-25T21:35:36Z"],"field":"injury_body_part","kind":"change","new":"Ankle","old":null,"player_id":"5947","source":"projections_feed","team":"JAX"}
+{"detected_between":["2026-11-25T21:05:36Z","2026-11-25T21:35:36Z"],"field":"news_updated","kind":"change","new":"2026-11-25T21:05:10.145Z","old":"2026-11-25T07:20:06.759Z","player_id":"6819","source":"projections_feed","team":"PIT"}
+{"detected_between":["2026-11-25T21:05:36Z","2026-11-25T21:35:36Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"8131","source":"projections_feed","team":"NYG"}
+{"detected_between":["2026-11-25T21:05:36Z","2026-11-25T21:35:36Z"],"field":"injury_body_part","kind":"change","new":"Groin","old":null,"player_id":"8131","source":"projections_feed","team":"NYG"}
+{"detected_between":["2026-11-25T21:05:36Z","2026-11-25T21:35:36Z"],"field":"news_updated","kind":"change","new":"2026-11-25T21:20:10.371Z","old":"2026-11-24T02:40:21.945Z","player_id":"8131","source":"projections_feed","team":"NYG"}
+{"detected_between":["2026-11-25T21:05:36Z","2026-11-25T21:35:36Z"],"field":"news_updated","kind":"change","new":"2026-11-25T21:15:10.272Z","old":"2026-11-20T16:15:08.562Z","player_id":"11608","source":"projections_feed","team":"NYJ"}
