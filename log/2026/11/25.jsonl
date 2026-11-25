@@ -239,3 +239,4 @@
 {"detected_between":["2026-11-25T10:35:40Z","2026-11-25T11:05:36Z"],"field":"news_updated","kind":"change","new":"2026-11-25T10:30:07.815Z","old":"2026-11-25T07:15:06.947Z","player_id":"8150","source":"projections_feed","team":"LAR"}
 {"detected_between":["2026-11-25T10:35:40Z","2026-11-25T11:05:36Z"],"field":"news_updated","kind":"change","new":"2026-11-25T10:40:06.414Z","old":"2026-11-16T07:00:35.590Z","player_id":"11586","source":"projections_feed","team":"LAR"}
 {"detected_between":["2026-11-25T10:35:40Z","2026-11-25T11:05:36Z"],"field":"news_updated","kind":"change","new":"2026-11-25T10:50:06.505Z","old":"2026-11-23T15:25:16.223Z","player_id":"12718","source":"projections_feed","team":"LAR"}
+{"detected_between":["2026-11-25T11:05:36Z","2026-11-25T11:35:38Z"],"field":"news_updated","kind":"change","new":"2026-11-25T11:00:06.851Z","old":"2026-11-25T07:15:06.933Z","player_id":"6865","source":"projections_feed","team":"LAR"}
