@@ -233,3 +233,5 @@
 {"detected_between":["2026-11-25T08:05:39Z","2026-11-25T08:35:38Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13602","source":"projections_feed","team":"ATL"}
 {"detected_between":["2026-11-25T08:05:39Z","2026-11-25T08:35:38Z"],"field":"injury_status","kind":"change","new":null,"old":"Out","player_id":"13603","source":"projections_feed","team":"NYG"}
 {"detected_between":["2026-11-25T08:05:39Z","2026-11-25T08:35:38Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Coach's Decision","player_id":"13603","source":"projections_feed","team":"NYG"}
+{"detected_between":["2026-11-25T10:05:38Z","2026-11-25T10:35:40Z"],"field":"news_updated","kind":"change","new":"2026-11-25T10:20:06.404Z","old":"2026-11-16T06:55:34.968Z","player_id":"421","source":"projections_feed","team":"LAR"}
+{"detected_between":["2026-11-25T10:05:38Z","2026-11-25T10:35:40Z"],"field":"news_updated","kind":"change","new":"2026-11-25T10:10:06.367Z","old":"2026-11-16T07:35:35.737Z","player_id":"9753","source":"projections_feed","team":"SEA"}
