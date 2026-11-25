@@ -16,7 +16,7 @@
 "8002":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Shane Buechele","news_updated":"2026-11-25T07:20:06.737Z","position":"QB","status":"Active","team":"IND"},
 "8142":{"active":true,"depth_chart_order":9,"depth_chart_position":"LWR","full_name":"Alec Pierce","injury_body_part":"Heel","injury_status":"IR","news_updated":"2026-11-25T18:40:09.664Z","position":"WR","status":"Inactive","team":"IND"},
 "8235":{"active":true,"full_name":"Samori Toure","news_updated":"2026-11-17T05:45:42.702Z","position":"WR","status":"Active","team":"IND"},
-"8489":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Drew Ogletree","news_updated":"2026-11-23T17:45:17.361Z","position":"TE","status":"Active","team":"IND"},
+"8489":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Drew Ogletree","injury_body_part":"Knee","injury_status":"Questionable","news_updated":"2026-11-23T17:45:17.361Z","position":"TE","status":"Active","team":"IND"},
 "9229":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Anthony Richardson Sr.","news_updated":"2026-11-25T04:20:05.416Z","position":"QB","status":"Active","team":"IND"},
 "10220":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Will Mallory","injury_body_part":"Hamstring","injury_status":"Questionable","news_updated":"2026-11-18T20:55:55.583Z","position":"TE","status":"Active","team":"IND"},
 "10223":{"active":true,"full_name":"Eric Gray","news_updated":"2026-11-24T05:55:23.471Z","position":"RB","status":"Active","team":"IND"},
