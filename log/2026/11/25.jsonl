@@ -240,3 +240,15 @@
 {"detected_between":["2026-11-25T10:35:40Z","2026-11-25T11:05:36Z"],"field":"news_updated","kind":"change","new":"2026-11-25T10:40:06.414Z","old":"2026-11-16T07:00:35.590Z","player_id":"11586","source":"projections_feed","team":"LAR"}
 {"detected_between":["2026-11-25T10:35:40Z","2026-11-25T11:05:36Z"],"field":"news_updated","kind":"change","new":"2026-11-25T10:50:06.505Z","old":"2026-11-23T15:25:16.223Z","player_id":"12718","source":"projections_feed","team":"LAR"}
 {"detected_between":["2026-11-25T11:05:36Z","2026-11-25T11:35:38Z"],"field":"news_updated","kind":"change","new":"2026-11-25T11:00:06.851Z","old":"2026-11-25T07:15:06.933Z","player_id":"6865","source":"projections_feed","team":"LAR"}
+{"detected_between":["2026-11-25T14:05:41Z","2026-11-25T14:35:43Z"],"field":"news_updated","kind":"change","new":"2026-11-25T14:25:07.914Z","old":"2026-11-25T04:35:05.737Z","player_id":"96","source":"projections_feed","team":"PIT"}
+{"detected_between":["2026-11-25T07:05:37Z","2026-11-25T14:35:43Z"],"field":"depth_chart_order","kind":"change","new":2,"old":3,"player_id":"6185","source":"players_nfl","team":"TB"}
+{"detected_between":["2026-11-25T07:05:37Z","2026-11-25T14:35:43Z"],"field":"depth_chart_order","kind":"change","new":4,"old":3,"player_id":"6828","source":"players_nfl","team":"CAR"}
+{"detected_between":["2026-11-25T07:05:37Z","2026-11-25T14:35:43Z"],"field":"depth_chart_order","kind":"change","new":3,"old":2,"player_id":"8110","source":"players_nfl","team":"DAL"}
+{"detected_between":["2026-11-25T07:05:37Z","2026-11-25T14:35:43Z"],"field":"depth_chart_order","kind":"change","new":2,"old":3,"player_id":"10871","source":"players_nfl","team":"DAL"}
+{"detected_between":["2026-11-25T07:05:37Z","2026-11-25T14:35:43Z"],"kind":"fill","player_id":"11065","record":{"active":true,"full_name":"Adrian Martinez","status":"Active"},"source":"players_nfl","team":"SEA"}
+{"detected_between":["2026-11-25T07:05:37Z","2026-11-25T14:35:43Z"],"kind":"fill","player_id":"11245","record":{"active":true,"full_name":"Patrick Murtagh","status":"Active"},"source":"players_nfl","team":"NO"}
+{"detected_between":["2026-11-25T07:05:37Z","2026-11-25T14:35:43Z"],"field":"depth_chart_order","kind":"change","new":7,"old":8,"player_id":"12541","source":"players_nfl","team":"LV"}
+{"detected_between":["2026-11-25T07:05:37Z","2026-11-25T14:35:43Z"],"field":"depth_chart_order","kind":"change","new":3,"old":4,"player_id":"12939","source":"players_nfl","team":"CAR"}
+{"detected_between":["2026-11-25T07:05:37Z","2026-11-25T14:35:43Z"],"field":"depth_chart_order","kind":"change","new":8,"old":6,"player_id":"13329","source":"players_nfl","team":"LV"}
+{"detected_between":["2026-11-25T07:05:37Z","2026-11-25T14:35:43Z"],"field":"depth_chart_order","kind":"change","new":3,"old":4,"player_id":"13425","source":"players_nfl","team":"TB"}
+{"detected_between":["2026-11-25T07:05:37Z","2026-11-25T14:35:43Z"],"kind":"fill","player_id":"13904","record":{"active":true,"full_name":"Jacob De Jesus","status":"Active"},"source":"players_nfl","team":"SEA"}
