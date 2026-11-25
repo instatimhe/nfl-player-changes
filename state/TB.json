@@ -1,7 +1,6 @@
 {
 "1592":{"active":true,"full_name":"Darren Fells","news_updated":"2022-01-11T05:20:30.945Z","position":"TE","status":"Active","team":"TB"},
 "4037":{"active":true,"depth_chart_order":3,"depth_chart_position":"SWR","full_name":"Chris Godwin Jr.","news_updated":"2026-11-23T03:00:11.645Z","position":"WR","status":"Active","team":"TB"},
-"4574":{"active":true,"full_name":"Cooper Rush","news_updated":"2026-11-25T07:45:07.312Z","position":"QB","status":"Active","team":"TB"},
 "4892":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Baker Mayfield","news_updated":"2026-11-25T02:50:04.294Z","position":"QB","status":"Active","team":"TB"},
 "6154":{"active":true,"full_name":"David Sills V","news_updated":"2026-11-17T05:40:42.798Z","position":"WR","status":"Active","team":"TB"},
 "6185":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Easton Stick","news_updated":"2026-11-22T17:20:07.107Z","position":"QB","status":"Active","team":"TB"},
@@ -10,7 +9,7 @@
 "8111":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Cade Otton","news_updated":"2026-11-23T04:20:12.373Z","position":"TE","status":"Active","team":"TB"},
 "8484":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Ko Kieft","news_updated":"2026-10-07T22:55:01.725Z","position":"TE","status":"Active","team":"TB"},
 "9506":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Sean Tucker","news_updated":"2026-11-23T04:40:12.629Z","position":"RB","status":"Active","team":"TB"},
-"10227":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Payne Durham","news_updated":"2026-06-02T23:20:50.327Z","position":"TE","status":"Active","team":"TB"},
+"10227":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Payne Durham","news_updated":"2026-11-25T17:20:08.802Z","position":"TE","status":"Active","team":"TB"},
 "11584":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Bucky Irving","news_updated":"2026-11-23T02:25:11.657Z","position":"RB","status":"Active","team":"TB"},
 "11618":{"active":true,"depth_chart_order":7,"depth_chart_position":"LWR","full_name":"Jalen McMillan","injury_body_part":"Knee - PCL","injury_notes":"Sprain","injury_status":"IR","news_updated":"2026-11-25T16:05:10.010Z","position":"WR","status":"Inactive","team":"TB"},
 "11994":{"active":true,"depth_chart_order":5,"depth_chart_position":"SWR","full_name":"Kameron Johnson","news_updated":"2026-11-11T15:30:25.677Z","position":"WR","status":"Active","team":"TB"},
