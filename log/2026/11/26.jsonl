@@ -90,3 +90,4 @@
 {"detected_between":["2026-11-25T22:05:37Z","2026-11-26T07:05:40Z"],"field":"depth_chart_order","kind":"change","new":11,"old":10,"player_id":"13417","source":"players_nfl","team":"SF"}
 {"detected_between":["2026-11-25T22:05:37Z","2026-11-26T07:05:40Z"],"field":"depth_chart_order","kind":"change","new":7,"old":6,"player_id":"13712","source":"players_nfl","team":"CHI"}
 {"detected_between":["2026-11-25T22:05:37Z","2026-11-26T07:05:40Z"],"field":"depth_chart_order","kind":"change","new":10,"old":7,"player_id":"13825","source":"players_nfl","team":"NYJ"}
+{"detected_between":["2026-11-26T09:05:38Z","2026-11-26T09:35:36Z"],"field":"news_updated","kind":"change","new":"2026-11-26T09:05:14.422Z","old":"2026-11-26T05:05:13.238Z","player_id":"8150","source":"projections_feed","team":"LAR"}
