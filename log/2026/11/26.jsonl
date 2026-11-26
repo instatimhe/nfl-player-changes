@@ -182,3 +182,5 @@
 {"detected_between":["2026-11-26T20:35:34Z","2026-11-26T21:05:36Z"],"field":"injury_body_part","kind":"change","new":null,"old":"Ribs","player_id":"11608","source":"projections_feed","team":"NYJ"}
 {"detected_between":["2026-11-26T20:35:34Z","2026-11-26T21:05:36Z"],"field":"news_updated","kind":"change","new":"2026-11-26T20:40:18.767Z","old":"2026-11-25T21:30:11.435Z","player_id":"12490","source":"projections_feed","team":"JAX"}
 {"detected_between":["2026-11-26T20:35:34Z","2026-11-26T21:05:36Z"],"field":"news_updated","kind":"change","new":"2026-11-26T20:45:18.687Z","old":"2026-11-25T18:00:10.369Z","player_id":"13276","source":"projections_feed","team":"NYJ"}
+{"detected_between":["2026-11-26T21:05:36Z","2026-11-26T21:35:36Z"],"field":"news_updated","kind":"change","new":"2026-11-26T21:05:18.838Z","old":"2026-11-26T19:00:18.202Z","player_id":"6797","source":"projections_feed","team":"LAC"}
+{"detected_between":["2026-11-26T21:05:36Z","2026-11-26T21:35:36Z"],"field":"news_updated","kind":"change","new":"2026-11-26T21:10:18.988Z","old":"2026-11-25T22:00:11.714Z","player_id":"8131","source":"projections_feed","team":"NYG"}
