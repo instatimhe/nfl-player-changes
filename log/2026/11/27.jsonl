@@ -169,3 +169,4 @@
 {"detected_between":["2026-11-27T16:05:36Z","2026-11-27T16:35:43Z"],"field":"news_updated","kind":"change","new":"2026-11-27T15:55:25.261Z","old":"2026-11-26T23:40:21.130Z","player_id":"12490","source":"projections_feed","team":"JAX"}
 {"detected_between":["2026-11-27T16:05:36Z","2026-11-27T16:35:43Z"],"field":"injury_status","kind":"change","new":"Out","old":"Questionable","player_id":"13276","source":"projections_feed","team":"NYJ"}
 {"detected_between":["2026-11-27T16:05:36Z","2026-11-27T16:35:43Z"],"field":"news_updated","kind":"change","new":"2026-11-27T16:00:25.469Z","old":"2026-11-26T23:30:20.809Z","player_id":"13276","source":"projections_feed","team":"NYJ"}
+{"detected_between":["2026-11-27T16:35:43Z","2026-11-27T17:05:36Z"],"field":"news_updated","kind":"change","new":"2026-11-27T16:40:25.575Z","old":"2026-11-24T01:50:21.111Z","player_id":"12530","source":"projections_feed","team":"JAX"}
