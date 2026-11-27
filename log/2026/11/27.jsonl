@@ -35,3 +35,5 @@
 {"detected_between":["2026-11-27T00:05:38Z","2026-11-27T00:35:34Z"],"field":"injury_status","kind":"change","new":"Out","old":null,"player_id":"13404","source":"projections_feed","team":"KC"}
 {"detected_between":["2026-11-27T00:05:38Z","2026-11-27T00:35:34Z"],"field":"injury_body_part","kind":"change","new":"Coach's Decision","old":null,"player_id":"13404","source":"projections_feed","team":"KC"}
 {"detected_between":["2026-11-27T00:05:38Z","2026-11-27T00:35:34Z"],"field":"news_updated","kind":"change","new":"2026-11-27T00:10:19.970Z","old":"2026-11-22T16:55:07.752Z","player_id":"13404","source":"projections_feed","team":"KC"}
+{"detected_between":["2026-11-27T00:35:34Z","2026-11-27T01:05:36Z"],"field":"news_updated","kind":"change","new":"2026-11-27T00:45:21.363Z","old":"2026-11-24T00:35:20.361Z","player_id":"2020","source":"projections_feed","team":"CHI"}
+{"detected_between":["2026-11-27T00:35:34Z","2026-11-27T01:05:36Z"],"field":"news_updated","kind":"change","new":"2026-11-27T00:35:20.138Z","old":"2026-11-26T02:05:12.101Z","player_id":"11201","source":"projections_feed","team":"CLE"}
