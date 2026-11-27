@@ -8,7 +8,7 @@
 "8137":{"active":true,"depth_chart_order":2,"depth_chart_position":"RWR","full_name":"George Pickens","news_updated":"2026-11-27T15:15:26.371Z","position":"WR","status":"Active","team":"DAL"},
 "8162":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Sam Howell","news_updated":"2026-09-01T23:15:23.035Z","position":"QB","status":"Active","team":"DAL"},
 "8170":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"James Mitchell","news_updated":"2026-11-23T17:25:17.089Z","position":"TE","status":"Active","team":"DAL"},
-"8194":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Jashaun Corbin","news_updated":"2026-11-27T15:15:26.393Z","position":"RB","status":"Active","team":"DAL"},
+"8194":{"active":true,"full_name":"Jashaun Corbin","news_updated":"2026-11-27T15:15:26.393Z","position":"RB","status":"Active","team":"DAL"},
 "8207":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Tyler Goodson","injury_body_part":"Knee - ACL + MCL","injury_notes":"Sprain","injury_status":"IR","news_updated":"2026-11-14T20:10:13.584Z","position":"RB","status":"Inactive","team":"DAL"},
 "8800":{"active":true,"depth_chart_order":5,"depth_chart_position":"RB","full_name":"Malik Davis","injury_body_part":"Hip","injury_notes":"Surgery","injury_status":"IR","news_updated":"2026-09-12T20:35:46.910Z","position":"RB","status":"Inactive","team":"DAL"},
 "8917":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"KaVontae Turpin","news_updated":"2026-11-27T15:15:26.381Z","position":"WR","status":"Active","team":"DAL"},
