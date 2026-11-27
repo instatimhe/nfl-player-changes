@@ -79,3 +79,6 @@
 {"detected_between":["2026-11-27T02:35:33Z","2026-11-27T03:05:34Z"],"field":"news_updated","kind":"change","new":"2026-11-27T02:45:21.019Z","old":"2026-11-23T06:25:14.167Z","player_id":"11533","source":"projections_feed","team":"DAL"}
 {"detected_between":["2026-11-27T02:35:33Z","2026-11-27T03:05:34Z"],"field":"news_updated","kind":"change","new":"2026-11-27T02:50:21.158Z","old":"2026-11-24T15:50:47.259Z","player_id":"11593","source":"projections_feed","team":"DAL"}
 {"detected_between":["2026-11-27T02:35:33Z","2026-11-27T03:05:34Z"],"field":"news_updated","kind":"change","new":"2026-11-27T02:55:21.099Z","old":"2026-11-24T02:30:20.436Z","player_id":"13150","source":"projections_feed","team":"PHI"}
+{"detected_between":["2026-11-27T03:05:33Z","2026-11-27T03:35:35Z"],"field":"injury_status","kind":"change","new":"Questionable","old":null,"player_id":"12505","source":"projections_feed","team":"KC"}
+{"detected_between":["2026-11-27T03:05:33Z","2026-11-27T03:35:35Z"],"field":"injury_body_part","kind":"change","new":"Ankle","old":null,"player_id":"12505","source":"projections_feed","team":"KC"}
+{"detected_between":["2026-11-27T03:05:33Z","2026-11-27T03:35:35Z"],"field":"news_updated","kind":"change","new":"2026-11-27T03:25:21.697Z","old":"2026-11-11T03:40:21.379Z","player_id":"12505","source":"projections_feed","team":"KC"}
