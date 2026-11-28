@@ -11,7 +11,7 @@
 "8195":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Ronnie Rivers","news_updated":"2026-11-26T16:35:17.169Z","position":"RB","status":"Active","team":"LAR"},
 "9490":{"active":true,"full_name":"Tyler Scott","news_updated":"2026-11-13T01:35:25.927Z","position":"WR","status":"Active","team":"LAR"},
 "9493":{"active":true,"depth_chart_order":7,"full_name":"Puka Nacua","injury_body_part":"Knee - MCL","injury_notes":"Sprain","injury_status":"IR","news_updated":"2026-11-28T14:45:32.503Z","position":"WR","status":"Inactive","team":"LAR"},
-"10214":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Davis Allen","injury_body_part":"Ankle","injury_notes":"Sprain","injury_status":"Out","news_updated":"2026-11-28T18:00:34.824Z","position":"TE","status":"Active","team":"LAR"},
+"10214":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Davis Allen","injury_body_part":"Ankle","injury_notes":"Sprain","injury_status":"IR","news_updated":"2026-11-28T20:50:34.531Z","position":"TE","status":"Active","team":"LAR"},
 "10857":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Stetson Bennett IV","news_updated":"2026-09-12T00:35:15.459Z","position":"QB","status":"Active","team":"LAR"},
 "11058":{"active":true,"depth_chart_order":2,"depth_chart_position":"K","full_name":"Blake Grupe","injury_body_part":"Knee","injury_status":"IR","news_updated":"2026-10-19T22:20:11.206Z","position":"K","status":"Inactive","team":"LAR"},
 "11168":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Xavier Smith","news_updated":"2026-11-26T16:45:17.158Z","position":"WR","status":"Active","team":"LAR"},
