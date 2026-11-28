@@ -1,7 +1,7 @@
 {
-"1339":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Zach Ertz","news_updated":"2026-11-16T19:25:37.887Z","position":"TE","status":"Active","team":"PHI"},
+"1339":{"active":true,"depth_chart_order":2,"depth_chart_position":"TE","full_name":"Zach Ertz","news_updated":"2026-11-28T05:05:29.783Z","position":"TE","status":"Active","team":"PHI"},
 "4195":{"active":true,"depth_chart_order":1,"depth_chart_position":"K","full_name":"Jake Elliott","news_updated":"2026-11-27T13:45:25.999Z","position":"K","status":"Active","team":"PHI"},
-"4314":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Johnny Mundt","news_updated":"2026-09-26T22:10:29.514Z","position":"TE","status":"Active","team":"PHI"},
+"4314":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Johnny Mundt","news_updated":"2026-11-28T05:05:29.772Z","position":"TE","status":"Active","team":"PHI"},
 "4866":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Saquon Barkley","injury_body_part":"Neck","injury_notes":"Stinger","injury_status":"Questionable","news_updated":"2026-11-27T00:05:21.454Z","position":"RB","status":"Active","team":"PHI"},
 "5022":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Dallas Goedert","injury_body_part":"Shoulder","injury_status":"Out","news_updated":"2026-11-27T02:35:20.909Z","position":"TE","status":"Active","team":"PHI"},
 "6904":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Jalen Hurts","injury_body_part":"Calf","injury_status":"IR","news_updated":"2026-11-05T11:10:42.842Z","position":"QB","status":"Inactive","team":"PHI"},
@@ -18,10 +18,10 @@
 "11577":{"active":true,"depth_chart_order":2,"depth_chart_position":"RB","full_name":"Will Shipley","news_updated":"2026-11-27T14:15:26.295Z","position":"RB","status":"Active","team":"PHI"},
 "11636":{"active":true,"depth_chart_order":8,"full_name":"Johnny Wilson","injury_body_part":"Knee","injury_status":"IR","news_updated":"2026-08-22T22:00:26.537Z","position":"WR","status":"Inactive","team":"PHI"},
 "12389":{"active":true,"full_name":"Hayden Rucci","news_updated":"2026-11-17T07:10:43.704Z","position":"TE","status":"Active","team":"PHI"},
-"12457":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Jaydon Blue","news_updated":"2026-11-24T03:00:21.726Z","position":"RB","status":"Active","team":"PHI"},
+"12457":{"active":true,"depth_chart_order":3,"depth_chart_position":"RB","full_name":"Jaydon Blue","news_updated":"2026-11-28T05:00:29.728Z","position":"RB","status":"Active","team":"PHI"},
 "12907":{"active":true,"full_name":"Quentin Skinner","news_updated":"2026-11-18T19:15:53.772Z","position":"WR","status":"Active","team":"PHI"},
 "13150":{"active":true,"depth_chart_order":3,"depth_chart_position":"RWR","full_name":"Darius Cooper","news_updated":"2026-11-27T13:55:26.198Z","position":"WR","status":"Active","team":"PHI"},
 "13294":{"active":true,"depth_chart_order":2,"depth_chart_position":"SWR","full_name":"Makai Lemon","news_updated":"2026-11-27T14:05:26.271Z","position":"WR","status":"Active","team":"PHI"},
 "13335":{"active":true,"depth_chart_order":4,"depth_chart_position":"QB","full_name":"Cole Payton","injury_body_part":"Coach's Decision","injury_status":"Out","news_updated":"2026-11-26T20:25:18.642Z","position":"QB","status":"Active","team":"PHI"},
-"13349":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Eli Stowers","news_updated":"2026-11-24T03:00:21.719Z","position":"TE","status":"Active","team":"PHI"}
+"13349":{"active":true,"depth_chart_order":3,"depth_chart_position":"TE","full_name":"Eli Stowers","news_updated":"2026-11-28T05:10:29.604Z","position":"TE","status":"Active","team":"PHI"}
 }
