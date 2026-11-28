@@ -1,6 +1,6 @@
 {
 "2471":{"active":true,"depth_chart_order":4,"depth_chart_position":"RB","full_name":"Michael Burton","injury_body_part":"Calf","injury_status":"IR","news_updated":"2026-11-15T08:50:17.858Z","position":"FB","status":"Inactive","team":"CLE"},
-"4017":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Deshaun Watson","news_updated":"2026-11-25T04:00:04.241Z","position":"QB","status":"Active","team":"CLE"},
+"4017":{"active":true,"depth_chart_order":1,"depth_chart_position":"QB","full_name":"Deshaun Watson","news_updated":"2026-11-28T14:20:32.308Z","position":"QB","status":"Active","team":"CLE"},
 "6783":{"active":true,"depth_chart_order":3,"depth_chart_position":"RWR","full_name":"Jerry Jeudy","news_updated":"2026-11-16T01:55:32.444Z","position":"WR","status":"Active","team":"CLE"},
 "7048":{"active":true,"full_name":"Benny LeMay","news_updated":"2022-01-06T17:40:17.822Z","position":"RB","status":"Active","team":"CLE"},
 "7595":{"active":true,"depth_chart_order":5,"depth_chart_position":"RWR","full_name":"Tylan Wallace","news_updated":"2026-11-18T02:20:48.267Z","position":"WR","status":"Active","team":"CLE"},
@@ -15,13 +15,13 @@
 "12486":{"active":true,"depth_chart_order":2,"depth_chart_position":"QB","full_name":"Dillon Gabriel","news_updated":"2026-11-15T16:40:28.883Z","position":"QB","status":"Active","team":"CLE"},
 "12503":{"active":true,"depth_chart_order":4,"depth_chart_position":"SWR","full_name":"Isaiah Bond","news_updated":"2026-11-02T16:00:46.075Z","position":"WR","status":"Active","team":"CLE"},
 "12506":{"active":true,"depth_chart_order":1,"depth_chart_position":"TE","full_name":"Harold Fannin Jr.","news_updated":"2026-11-28T09:05:30.802Z","position":"TE","status":"Active","team":"CLE"},
-"12512":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Quinshon Judkins","news_updated":"2026-11-15T23:40:31.738Z","position":"RB","status":"Active","team":"CLE"},
+"12512":{"active":true,"depth_chart_order":1,"depth_chart_position":"RB","full_name":"Quinshon Judkins","news_updated":"2026-11-28T14:20:32.309Z","position":"RB","status":"Active","team":"CLE"},
 "12523":{"active":true,"full_name":"Jimmy Horn Jr.","news_updated":"2026-09-18T14:40:46.535Z","position":"WR","status":"Active","team":"CLE"},
 "12524":{"active":true,"depth_chart_order":3,"depth_chart_position":"QB","full_name":"Shedeur Sanders","news_updated":"2026-11-24T21:40:49.394Z","position":"QB","status":"Active","team":"CLE"},
 "13042":{"active":true,"full_name":"Xavier Guillory","news_updated":"2026-11-04T00:45:29.533Z","position":"WR","status":"Active","team":"CLE"},
 "13298":{"active":true,"depth_chart_order":1,"depth_chart_position":"SWR","full_name":"KC Concepcion Jr.","news_updated":"2026-11-16T01:20:32.312Z","position":"WR","status":"Active","team":"CLE"},
 "13306":{"active":true,"depth_chart_order":4,"depth_chart_position":"QB","full_name":"Taylen Green","news_updated":"2026-11-08T17:20:19.661Z","position":"QB","status":"Active","team":"CLE"},
-"13346":{"active":true,"depth_chart_order":2,"depth_chart_position":"LWR","full_name":"Denzel Boston","injury_body_part":"Toe","injury_status":"Questionable","news_updated":"2026-11-27T18:55:27.461Z","position":"WR","status":"Active","team":"CLE"},
+"13346":{"active":true,"depth_chart_order":2,"depth_chart_position":"LWR","full_name":"Denzel Boston","injury_body_part":"Toe","injury_status":"Questionable","news_updated":"2026-11-28T14:25:32.282Z","position":"WR","status":"Active","team":"CLE"},
 "13435":{"active":true,"depth_chart_order":4,"depth_chart_position":"TE","full_name":"Joe Royer","injury_body_part":"Personal","injury_status":"PUP","news_updated":"2026-08-30T21:35:58.011Z","position":"TE","status":"Active","team":"CLE"},
 "13580":{"active":true,"full_name":"Carsen Ryan","news_updated":"2026-11-19T20:10:02.944Z","position":"TE","status":"Active","team":"CLE"}
 }
